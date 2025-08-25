@@ -242,5 +242,139 @@ adaşmak v.i. a se rătăci.
 adaşuw s. rătăcire. 
 adaw s. promisiune; făgăduială; angajament. 
 adawğî adj. promiŃător.
+adawlî adj. promis; făgăduit; angajat. 
+aday s. (pol.) candidat. 
+adaylîk s. (pol.) candidatură. 
+adelade adj. ordinar; obişnuit. 
+adem I. adj. omenos; uman. II. s. bărbat; om. 
+adembalasî s. omul; fiinŃa omenească. 
+adembílímğísí s. antropolog. 
+adembílímí I. adj. antropologic. II. s. antropologie. 
+adembílímlí adj. antropologic. 
+ademğe adv. omeneşte. 
+ademğí s., adj. umanist. 
+ademğílík s. umanism. 
+ademiy adj. uman; omenesc. 
+ademiyet s. omenire; lume; umanitate. 
+ademiyetlí adj. omenesc; uman; cumsecade. 
+ademiyetsíz adj. inuman; neomenos. 
+ademiyetsízğe adv. neomeneşte. 
+ademiyetsízlík s. lipsă de omenie; neomenie. 
+ademiyleşken adj. umanizat. 
+ademiyleştírme s. umanizare. 
+ademiyleştírmek v.t. a umaniza. 
+ademiyleştírúw s. umanizare. 
+ademlík s. 1. omenire; lume. 2. umanitate. 
+adempíşímğílík s. antropomorfism. 
+ademulî s. omul; fiinŃa omenească. 
+ademústí adj. supraomenesc. 
+adese s. lentilă. 
+adet s. 1. număr. 2. bucată. //●muhtelit adet — (mat.) număr mixt. ●sade adet — (mat.) număr prim. 
+adetiy adj. numeric. // ●adetiy sîfat — (gram.) numeral. 
+adil adj. drept; just; echitabil. //●adil piyat — preŃ convenabil. 
+Adil s. (antrop. m., arab.) "Împărtăşitorul dreptăŃii" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Adil, El- s. (relig., arab.) "Cel drept"; “Cel pe de-a-ntregul drept” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+Adile s. (antrop. f., arab.) “Cea dreaptă”. 
+adiy adj. simplu; ordinar; inferior; mediocru; normal. // ●adiy bólík — (mat.) fracŃie ordinară. ●adiy hukuk — drept comun. 
+adiyleşken adj. simplificat. 
+adiyleşmek v.i. a se simplifica. 
+adiyleştírgen adj. simplificator. 
+adiyleştírme s. simplificare. 
+adiyleştírmek v.t. a simplifica. 
+adiyleştírúw s. simplificare. 
+adiyleştírúwğí adj. simplificator. 
+adiylík s. simplitate; inferioritate. 
+adîm s. pas. // ●adîm aşmak — a întinde pasul. ●adîm atmak — a păşi. // ●deñgelí adîmlarman în pas egal. ●ekí adîm da — la doi paşi. ●korkak adîmlarman — cu paşi temători. 
+adîm-adîm adv. pas cu pas; treptat. 
+adîmlagan adj. mergător. 
+adîmlamak v.i. a măsura cu pasul; a păşi. 
+adîmlatmak v.t. a determina să măsoare cu pasul; a determina să păşească. 
+adliy adj. juridic; judiciar. // ●adliy kuwuşturmasî yapmak — (jur.) a urmări pe cale judiciară. // ●adliy akîlzade — (jur.) jurisconsult. ●adliy doktor / tabip — (med.) medic legist. ●adliy siğil — (jur.) cazier. ●adliy tîp — (med.) medicină legală. ●adliy yañgîş — (jur.) eroare judiciară. 
+adliye s. justiŃie. // ●adliyege teslím bolmak — (jur.) a se preda justiŃiei. ●adliyege teslím etmek — (jur.) a conferi justiŃiei. 
+adliyeğí s. jurist. 
+Adnan s. (antrop. m., arab.) numele unui strămoş al Profetului Muhammed Aliyselam. 
+adresa s. adresă. // ●ğíbergenníñ adresasî — numele expeditorului. ●maruze tam tuwul — adresa nu este completă. ●şo maruzení karayman — caut această adresă. 
+aerodinamik adj. (fiz.) aerodinamic. 
+aerodinamika s. (fiz.) aerodinamică. 
+aerodinamikalî adj. (fiz.) aerodinamic. 
+aerodrom s. aerodrom. 
+af s. 1. iertare; scutire. 2. (jur.) graŃiere; amnistie. 
+aferím interj. bravo!; 
+afet s. 1. dezastru; catastrofă; calamitate; nenorocire. 2. urgie. 
+afetílgen adj. iertat; graŃiat. 
+afetílír adj. scuzabil. 
+afetílmegen adj. neiertat; negraŃiat. 
+afetílmek v.i. a fi iertat; a fi graŃiat. 
+afetílmez adj. impardonabil; de neiertat. 
+afetken adj. clement; iertător; îndurător. 
+afetkendiy adj. scuzabil. 
+afetlí s. dezastruos; catastrofal. 
+afetme s. iertare; scuză. 
+afetmek v.t. 1. a ierta; a scuza. 2. (jur.) a ierta; a graŃia. 
+afetmez adj. neiertător. 
+afetúw s. iertare; scuză. 
+aff s. 1. iertare; scutire. 2. (jur.) graŃiere; amnistie. 
+affetílgen adj. iertat; graŃiat. 
+affetílír adj. scuzabil. 
+affetílmegen adj. neiertat; negraŃiat. 
+affetílmek v.i. a fi iertat; a fi graŃiat. 
+affetílmez adj. impardonabil; de neiertat. 
+affetkendiy adj. scuzabil. 
+affetmek v.t. 1. (jur.) a ierta; a graŃia. 2. a ierta; a scuza. 
+affetmez adj. neiertător. 
+afflî adj. 1. (jur.) graŃiat; amnistiat. 2. iertat; scutit. 
+affuw I. adj. iertător; indulgent; îndurător; îngăduitor; milostivit; clement. II. s. 1. iertare; scutire. 2. (jur.) graŃiere; amnistie. // ●affuw bolmak — a fi iertat; a fi scuzat; a fi graŃiat. ●affuw etmek — a ierta; a scuza; a graŃia. // ●affuw etílealgan — scuzabil. ●affuw etíñíz! — iertaŃi-mă!; 
+affuwlî adj. 1. (jur.) graŃiat; amnistiat. 2. iertat; scutit. 
+afgan s., adj. afgan. 
+Afgan îstan s. (topon.) Afganistan. 
+afganîstanlî s., adj. afgan. 
+Afife s. (antrop. f., arab.) “Cea smerită”. 
+afiş s. afiş. 
+Afiye s. (antrop. f., arab.) “Cea sănătoasă”. 
+afiyet s. sănătate. // ●afiyet bolsîn! — poftă bună!; 
+afiyon s. 1. opiu. 2. (bot.) mac; paparună; somnişor (lat., Papaver rhoeas; Papaver so mnif eru m). 
+afiyon, tamgalî- s. (bot.) mac-cornut (lat., Glaucium co rniculatum). 
+afiyonğî s. opioman. 
+aflî adj. 1. iertat; scutit. 2. (jur.) graŃiat; amnistiat. 
+Afrika s. (topon.) Africa. 
+Afrika, Ğenubiy- s. (topon.) Africa de Sud. 
+Afrika, Kúnbetí - s. (topon.) Africa de Sud. 
+Afrika, Orta - s. (topon.) Republica Central-Africană. 
+Afrika-altîn-sarîğeketí s. (orn.) grangur african auriu (lat., Oriolus auratus). 
+Afrika-altîn-sîgîrgas î s. (orn.) grangur african auriu (lat., Oriolus auratus). 
+Afrika-gúmúşgágáasî s. (orn.) pescăruş cu cioc argintiu african (lat., Lonc h ura cantans). 
+Afrika-ğaşmaklî-kurkurî s. (orn.) turturică africană mascată (lat., Oena capensis). 
+Afrika-ğennet-şîbînğîsî s. (orn.) muscarul paradisului; muscar african (lat., Terpsipho ne vi ridis). 
+Afrika-ğîlanmoyînî s. (orn.) pasăre gât de şarpe africană; anhigă africană (lat., An hinga ruf a). 
+Afrika-kara-karzakşîsî s. (orn.) scoicar negru african (lat., Haematopus moquini). 
+Afrika-kaşîkşîsî s. (orn.) stârc lopătar african (lat., Platalea alba). 
+Afrika-kaya-kirazkuşî s. (orn.) presură africană de stâncă (lat., Emberiza tahapisi). 
+Afrika-kaya-súlekeşí s. (orn.) presură africană de stâncă (lat., Emberiza tahapisi). 
+Afrika-kaya-tenegí s. (orn.) presură africană de stâncă (lat., E mberiza tahapisi). 
+afrikalî s. african. 
+Afrika-Murunî-órdegí s. (orn.) raŃă de Cap; sarselă de Cap (lat., Anas capensis). 
+Afrika-pembe-kurkurî s. (orn.) guguştiuc roz-cenuşiu; guguştiuc african (lat., Streptopelia roseogrisea). 
+afsun s. farmec; vrajă. 
+afsunğî s. vrăjitor. 
+afsunğuluk s. vrăjitorie. 
+afsunlagan adj. fermecător; fascinant. 
+afsunlama s. farmec; fascinaŃie. 
+afsunlamak v.t. a fermeca; a vrăji. 
+afsunlangan adj. fermecat; vrăjit. 
+afsunlî adj. fermecat; vrăjit. 
+afuw I. adj. iertător; indulgent; îndurător; îngăduitor; milostivit; clement. II. s. 1. iertare; scutire. 2. (jur.) graŃiere; amnistie. 
+Afuw, El- s. (relig., arab.) "Cel iertător" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+afuwlî adj. 1. iertat; scutit. 2. (jur.) graŃiat; amnistiat. 
+aga s. 1. chiabur; boier. 2. (în formulă de adresare) jupân. 3. (ist.) agă. //●kepekten sora un aga — după tărâŃă curge făină. 
+agalar s., pl. chiaburime; boierime. 
+agar adj. lichid; fluid. // ●agar suwlar — ape curgătoare. 
+agaretek s. (med.) leucoree; poală albă. 
+agargan adj. încărunŃit; grizonat. 
+agarğagayît s. carburant. 
+agarkum s. nisipuri mişcătoare. 
+agarkuyruk s. (anat.) coccis; noadă. 
+agarlarseriyetí s. (fiz.) hidromecanică. 
+agarma s. 1. albire; înălbire; încărunŃire. 2. iluminare (de ziuă). 
+agarmak v.i. 1. a se albi; a se înălbi; a deveni alb. 2. a încărunŃi. 3. a se lumina (de ziuă). // ●kún agarmak — a se lumina de ziuă. ●şáşí-başî agarmak — a-i albi părul; a încărunŃi. // ●bírkaş dakkada agardî — în câteva minute a albit. ●kîrmîzîm agardî — mi s-a decolorat roşul. ●ortalîk agargan hálínde — cu toate că se luminase.
 `;
 export default rawDictionaryText;
