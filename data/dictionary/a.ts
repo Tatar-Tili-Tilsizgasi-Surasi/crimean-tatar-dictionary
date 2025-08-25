@@ -9,7 +9,7 @@ abakay s. (ent.) tarantulă (lat., Lycosa tarentula).
 abalamak v.i. a lătra.
 abalaw s. lătrat.
 abanoz s. (bot.) curmal-japonez; abanos; eben (lat., Dyospiros kaki).
-abat I. adj. 1. înfloritor; prosper. 2. locuit; populat. II. s. centru populat; aşezare; localitate prosperă. // ●abat bolmak a se popula; a fi locuit; a înflori; a prospera; a se popula; a se construi; a se renova; a se moderniza. ●abat etmek a popula; a construi; a renova; a moderniza. // ●abat kasaba localitate prosperă.
+abat I. adj. 1. înfloritor; prosper. 2. locuit; populat. II. s. centru populat; aşezare; localitate prosperă. // ●abat bolmak — a se popula; a fi locuit; a înflori; a prospera; a se popula; a se construi; a se renova; a se moderniza. ●abat etmek — a popula; a construi; a renova; a moderniza. // ●abat kasaba — localitate prosperă.
 abatlaşkan adj. locuit; populat; propăşit; prosper; înflorit; edificat; construit; modernizat; reclădit; recondiţionat; reconstruit; renovat; restaurat.
 abatlaşmak v.i. 1. a se popula; a fi locuit. 2. a înflori; a prospera.
 abatlaştîrîlgan adj. 1. populat; locuit. 2. construit; renovat; restaurat; modernizat.
@@ -231,8 +231,8 @@ Adañ-Kúlesí s. (topon.) ("Turnul invadatorilor") Adamclisi (jud. ConstanŃa).
 adañmeşruw adj. extralegal. 
 adañtúzel adj. (jur.) extrajudiciar. 
 ada-soganî s. (bot.) ceapă-de-mare (lat., Urginea maritima; Scilla maritima). 
-adaşayî s. (bot.) salvie; jale; jaleş; zdraviţă (lat., Salvia of f icinalis). 
-adaşayî, ğabîşkan - s. (bot.) cinsteţ; lăpuş; jale-cleioasă; salvie-cleioasă (lat., Salvia gl utinosa). 
+adaşayî s. (bot.) salvie; jale; jaleş; zdraviţă (lat., Salvia officinalis). 
+adaşayî, ğabîşkan - s. (bot.) cinsteţ; lăpuş; jale-cleioasă; salvie-cleioasă (lat., Salvia glutinosa). 
 adaşayî, múslí- s. (bot.) iarba-sfântului-Ioan (lat., Salvia sclarea). 
 adaşayî, túylí- s. (bot.) şerlai (lat., Salvia aethiopis). 
 adaşîk s. (geogr.) insuliţă. 
@@ -338,10 +338,10 @@ afiyonğî s. opioman.
 aflî adj. 1. iertat; scutit. 2. (jur.) graŃiat; amnistiat. 
 Afrika s. (topon.) Africa. 
 Afrika, Ğenubiy- s. (topon.) Africa de Sud. 
-Afrika, Kúnbetí - s. (topon.) Africa de Sud. 
-Afrika, Orta - s. (topon.) Republica Central-Africană. 
+Afrika, Kúnbetí- s. (topon.) Africa de Sud. 
+Afrika, Orta- s. (topon.) Republica Central-Africană. 
 Afrika-altîn-sarîğeketí s. (orn.) grangur african auriu (lat., Oriolus auratus). 
-Afrika-altîn-sîgîrgas î s. (orn.) grangur african auriu (lat., Oriolus auratus). 
+Afrika-altîn-sîgîrgasî s. (orn.) grangur african auriu (lat., Oriolus auratus). 
 Afrika-gúmúşgágáasî s. (orn.) pescăruş cu cioc argintiu african (lat., Lonc h ura cantans). 
 Afrika-ğaşmaklî-kurkurî s. (orn.) turturică africană mascată (lat., Oena capensis). 
 Afrika-ğennet-şîbînğîsî s. (orn.) muscarul paradisului; muscar african (lat., Terpsipho ne vi ridis). 
