@@ -17,8 +17,8 @@ abatlaştîrîlmak v.i. 1. a se popula. 2. a se construi; a se renova; a se rest
 abatlaştîrmak v.t. 1. a popula. 2. a construi; a renova; a restaura; a moderniza.
 abatlaştîruw s. 1. populare. 2. construire; renovare; restaurare; modernizare.
 abatlaştîruwğî s., adj. novator; renovator; restaurator; modernizator.
-abatlîk s. 1. construcţie; clădire. 2. renovare; restaurare; modernizare. // ●abatlîk íşlerí şantier de construcţii.
-abay s. (dim., fam.) mămică; mătuşică maternală; surioară mai mare. // ●abaym maraz mama e bolnavă.
+abatlîk s. 1. construcţie; clădire. 2. renovare; restaurare; modernizare. // ●abatlîk íşlerí — şantier de construcţii.
+abay s. (dim., fam.) mămică; mătuşică maternală; surioară mai mare. // ●abay maraz — mama e bolnavă.
 abaylama s. 1. sesizare; observare. 2. percepţie; simţire.
 abaylamak v.t. a observa; a sesiza; a simţi; a percepe; a băga de seamă.
 abaylanaalgan adj. perceptibil.
@@ -26,7 +26,7 @@ abaylanaalmaz adj. imperceptibil.
 abaylanatan adj. perceptibil.
 abaylangan adj. observat; sesizat; simţit; perceput.
 abaylanîr adj. perceptibil.
-abaylanmadan adv. neobservat; pe neobservate; tiptil; fără a fi sesizat; fără a fi perceput. // ●abaylanmadan barmak a se furişa; a se strecura; a se fofila.
+abaylanmadan adv. neobservat; pe neobservate; tiptil; fără a fi sesizat; fără a fi perceput. // ●abaylanmadan barmak — a se furişa; a se strecura; a se fofila.
 abaylanmadanbargan adj. strecurat; furişat.
 abaylanmadanbaruw s. strecurare; furişare; fofilare.
 abaylanmagan adj. neobservat; nesesizat; neperceput.
@@ -47,7 +47,7 @@ abdallaşma s. îndobitocire.
 abdallaşmak v.i. a se îndobitoci.
 abdallaşuw s. îndobitocire.
 abdallîk s. cretinism; imbecilitate.
-abdest s. (relig., la musulmani) spălare rituală a corpului pentru purificare; abluţiune. // ●abdest almak (relig., la musulmani) a face abluţiune. ●abdestín bermek a muştrului; a trage cuiva o papară. ●abdestín bîzmak a merge la toaletă; a-şi face nevoile.
+abdest s. (relig., la musulmani) spălare rituală a corpului pentru purificare; abluţiune. // ●abdest almak — (relig., la musulmani) a face abluţiune. ●abdestín bermek — a muştrului; a trage cuiva o papară. ●abdestín bîzmak — a merge la toaletă; a-şi face nevoile.
 abdestbergen adj. dojenitor; mustrător.
 abdestberúw s. dojană; muştruluială; burduşeală; ciomăgeală; mustrare; chelfăneală.
 abdestíberílgen adj. dojenit; muştruluit; burduşit; ciomăgit; mustrat.
@@ -216,7 +216,7 @@ adañdan adv. dinspre afară; dinspre exterior.
 adañdúniyalî adj. 1. extraterestru. 2. nepământean; transcendental. 
 adañdúniyalîk s. transcendentalism. 
 adañgadliy adj. (jur.) extrajudiciar. 
-adañka I. adj. exterior; extern; externat; din afară. II. s. exterior; partea din exterior. // ●a dañ k a e tm e k a externa. 
+adañka I. adj. exterior; extern; externat; din afară. II. s. exterior; partea din exterior. // ●adañka etmek — a externa. 
 adañkaadliy adj. (jur.) extrajudiciar. 
 adañkada adv. afară; în exterior. 
 adañkadan adv. dinspre afară; dinspre exterior. 
