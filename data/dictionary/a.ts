@@ -1039,5 +1039,9 @@ akşarlawkana s. vopsitorie.
 akşarlî adj. vopsit; colorat; zugrăvit; fardat. 
 akşa-suwtorgay s. (orn.) prundăraş de sărătură (lat., Charadrius alexandrinus). 
 akşa-şímşíge s. (orn.) piŃigoi azuriu (lat., Parus cyanus).
+akşateregí, Amerika- s. (bot.) arŃar 
+american (lat., Ac er ne gundo). 
+akşateregí, Frengístan- s. (bot.) 
+jugastru de Banat (lat., Acer monspess ulanum).
 `;
 export default rawDictionaryText;
