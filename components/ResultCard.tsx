@@ -1,9 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { DictionaryEntry } from '../types';
-import { transliterateToArabic } from '../services/transliteration/arabic';
-import { transliterateToCyrillic } from '../services/transliteration/cyrillic';
-import { transliterateToOldTurkic } from '../services/transliteration/oldTurkic';
-
 
 interface ResultCardProps {
   entry: DictionaryEntry;
@@ -11,23 +7,6 @@ interface ResultCardProps {
 }
 
 const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm }) => {
-  const [arabic, setArabic] = useState('');
-  const [cyrillic, setCyrillic] = useState('');
-  const [oldTurkic, setOldTurkic] = useState('');
-
-  useEffect(() => {
-    const wordToTransliterate = entry.word.replace(/\s*\(.*\)\s*/, '').trim();
-    if (wordToTransliterate) {
-        setArabic(transliterateToArabic(wordToTransliterate));
-        setCyrillic(transliterateToCyrillic(wordToTransliterate));
-        setOldTurkic(transliterateToOldTurkic(wordToTransliterate));
-    } else {
-        setArabic('');
-        setCyrillic('');
-        setOldTurkic('');
-    }
-  }, [entry.word]);
-
   const formatText = (text: string, term: string): React.ReactNode => {
     if (!text) return text;
 
@@ -66,22 +45,9 @@ const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm }) => {
 
   return (
     <div className="bg-white dark:bg-slate-800 rounded-lg shadow-md p-6 mb-4 transition-transform duration-200 hover:shadow-lg hover:-translate-y-1">
-      <h3 className="text-2xl font-bold text-blue-800 dark:text-blue-400 mb-2">
+      <h3 className="text-2xl font-bold text-blue-800 dark:text-blue-400 mb-4">
         {formatText(entry.word, searchTerm)}
       </h3>
-
-      <div className="mb-4 text-sm text-gray-500 dark:text-gray-400 border-t border-gray-200 dark:border-slate-700 mt-4 pt-4">
-        <div className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-1 items-baseline">
-            <span className="font-semibold text-gray-600 dark:text-gray-300">Cyrillic:</span>
-            <span>{cyrillic}</span>
-            
-            <span className="font-semibold text-gray-600 dark:text-gray-300">Arabic:</span>
-            <span dir="rtl" className="text-right w-full block">{arabic}</span>
-            
-            <span className="font-semibold text-gray-600 dark:text-gray-300">Old Turkic:</span>
-            <span dir="rtl" className="text-right w-full block">{oldTurkic}</span>
-        </div>
-      </div>
 
       {entry.meanings.map((meaning, index) => (
         <div key={index} className="mb-4 last:mb-0">
