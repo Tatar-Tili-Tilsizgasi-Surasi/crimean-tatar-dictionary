@@ -481,5 +481,120 @@ ağensiya s. agenŃie. // ●ğolşîlík ağensiyasî — agenŃie de voiaj. �
 ağent s. agent; spion. //●haleket / trafik ağentí — agent de circulaŃie. 
 ağil adj. grabnic; urgent; presant. //●ağil şifalar! — însănătoşire grabnică!; ●ağil turum — situaŃie de urgenŃă. 
 ağiz I. adj. inapt; incapabil. II. s. 1. incapacitate; neputinŃa. 2. debilitate; slăbiciune. // ●ağiz kalmak — a fi incapabil să…; a nu fi în stare să…; a nu putea să…;
+ağî I. adj. 1. dureros. 2. amar; iute. 3. sfâşietor; înduioşător. II. s. 1. durere; usturime. 2. (d. gust) iuŃeală; amăreală. 3. (fig.) suferinŃă; mâhnire. // ●ağî bolmak — a ustura. ●ağîsîn íşíne kómmek a-şi ascunde durerea; a-şi înghiŃi durerea. ●ağîsîn şîgarmak — a-şi scoate un foc de la inimă; a se răzbuna. ●ağîsîn tartmak — a trage ponoasele; a suferi. // ●ğúrek ağîsî — (med.) durere de inimă. 
+ağîgan adj. milos. 
+Ağîğa s. (topon.) ("Amara") Agigea (jud. ConstanŃa). 
+ağîkesken s. antidot; anticonvulsiv. 
+Ağî-Kól/Ağî-Gól s. (hidron., topon.) ("Lacul Amar") Agighiol (jud. Tulcea). 
+ağîlanmak v.i. a se amărî; a deveni amar; a se acri. 
+ağîlî adj. jalnic. 
+ağîlîk s. amăreală; acreală. 
+ağîma s. 1. durere; usturime. 2. milă; compătimire. 
+ağîmadan adv. fără milă. 
+ağîmagan adj. nemilos; neîndurător; crud; hapsân. 
+ağîmak A. v.i. a durea; a ustura. B. v.t. a fi milă; a compătimi. 
+ağîmalî adj. compătimitor. 
+ağîmalî-ağîmalî adj. compătimitor. 
+ağîmama s. cruzime; neîndurare. 
+ağîmasîz adj. nemilos; neîndurător; crud; hapsân. 
+ağîmasîzlîk s. neîndurare; cruzime. 
+ağîmaz adj. nemilos; crud; hapsân. 
+ağîndîrmak v.t. a impresiona; a înduioşa. 
+ağîndîruwğî adj. impresionant; înduioşător. 
+ağîngan adj. impresionat. 
+ağînganday adj. regretabil; lamentabil. 
+ağînma s. remuşcare. 
+ağînmak v.i. a se întrista; a se amărî. // ●bek ağîndîm — mi-a părut foarte rău. 
+ağînuw s. căinŃă; regret. 
+ağîsîşîkkan adj. răzbunat. 
+ağîw s. 1. durere; usturime. 2. milă; compătimire. 
+ağîwğî adj. deplorabil. 
+ağun/ajun I. adj. terestru; pământesc. II. s. 1. cosmos; univers. 2. sol; pământ; teren. 3. pace; liniște; lumină. // ●ağun ğarîklarî — raze cosmice. 
+ağunbílímí s. cosmologie. 
+ağunbílímlí adj. cosmologic. 
+ağuniy adj. cosmic. 
+ağunsîzgasî s. cosmografie. 
+ağuntuwumğî adj. cosmogonic. 
+ağuntuwumî s. cosmogonie. 
+ağuze s. zgripŃuroaică; cotoroanŃă. 
+ah interj. ah!; vai!; 
+ah-aman s. plâns; bocet; hohot. //●ah-aman etmek — a plânge; a boci; a hohoti. 
+ahdiy adj. contractual. 
+ahenk s. armonie; concordanŃă; potrivire. 
+ahenklí adj. armonios. 
+ahit s. 1. promisiune; angajament. 2. pact; acord. 
+ahize s. (tehn.) receptor. 
+ahîr s. iesle; troacă. 
+ahláagîbîzîk adj. pervers. 
+ahláagîbîzîlgan adj. pervertit. 
+ahláak s. 1. morală. 2. cinste; onestitate. 3. conduită; comportament. // ●ahláagîn bîzmak — a-l perverti; a-i suci cuiva minŃile. 
+ahláakbîzîklîgî s. perversitate. 
+ahláakbîzmasî s. pervertire. 
+ahláakkarşî adj. imoral. 
+ahláaklî adj. 1. moral. 2. cinstit; onest. 
+ahláaksîz adj. necinstit; imoral; corupt. 
+ahláaksîzlîk s. imoralitate; corupŃie. 
+ahláakşî s., adj. moralist; moralizator. 
+ahláaktîşî adj. amoral. 
+ahláaktîşîğîlîk s. amoralitate. 
+Ahmet/Amet s. (antrop. m., arab.) "Cel demn de elogii"; "Prealăudatul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Ahmet-Fakih/Ahmet-Pakî s. (topon., localitate desfiinŃată) ("Ahmet Evlaviosul") Ahmed Fakih (jud. Tulcea). 
+Ahmet-Orman s. (topon., pădure lângă Isaccea) ("Pădurea lui Ahmet") Ahmedorman (jud. Tulcea). 
+Ahsen s. (antrop. m., arab.) "Cel preafrumos" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Ahuw s. (antrop. f., prsn.) “Căprioara”. 
+ahval s. afacere. 
+ah-way s. plâns; bocet; hohot. 
+ah-wayğî s. bocitoare. 
+ajdaka s. (mitol.) zmeu; balaur; dragon. // ●ajdaka senesí — (cron.) anul dragonului (conform vechiului calendar tătăresc). 
+ajdaka-bóğegí s. (ent.) libelulă; cal-de-apă; calul-popii (lat., Odonata). 
+ajdakakózí s. ochi-de-ciclop. 
+Ajun, Tele- s. (topon., "łinutul SciŃilor") Teleajen (jud. Prahova). 
+ajun/ağun I. adj. terestru; pământesc. II. s. 1. cosmos; univers. 2. sol; pământ; teren. 3. pace; liniște; lumină. 
+ak I. adj. 1. alb. 2. (fig.) curat; pur. II. s. culoarea albă. // ●ak man karanî saylamak — a pătimi. ●aknî karadan ayîrmak — a alege grâul din neghină; a despărŃi ceea ce este bun de ceea ce este rău. ●aktan kara etmek — a face albul negru; a denatura. ●aktan karadan ayîrîlmak — a fi deosebit; a fi mai cu moŃ; a fi mai breaz. ●şáşíne ak túşmek — a-i albi părul; a încărunŃi. ●yúzí akka şîkmak — a ieşi cu faŃa curată. ●yúznúñ agîman şîkmak — a ieşi cu faŃa curată. // ●ak şáşlí — încărunŃit. ●anterníñ ústúnde ak menekler bar — pe rochie sunt buline albe. ●ğîmîrta agî — albuşul oului. 
+aka s. frate mai mare. 
+akademiçiyan s. academician. 
+akademik adj. academic. 
+akademiya s. academie. //●akademiya kútúpkanasî — biblioteca academiei. ●akademiya uzasî — membru al academiei. 
+aka-íní s. fraŃi. 
+aka-kardaş s. fraŃi. 
+akalliyet s. minoritate. 
+akaltîn s. (chim.) platină. 
+akanagî, kar- s. (orn.) potârniche de zăpadă (lat., Le rwa lerwa). 
+akanak s. (orn.) găinuşă cu cap alb (lat., Arbo rophila atrogularis). 
+akasiya s. (bot.) acacia (lat., Acacia). 
+akasiya, yalanğî- s. (bot.) salcâm (lat., Robinia pseudoacacia). 
+akasiya-şîbînğîsî s. (orn.) muscar de salcâm (lat., Muscicapa gambagae). 
+ak-asma s. (bot.) curpen; viŃă-albă (lat., Cle matis vitalba). 
+akay s. 1. domn; bărbat; soŃ. 2. (termen de politeŃe pt. un bărbat în vârstă sau mai în vârstă) domn. 3. bărbat; om adult. // ●Amet akay kayet kasta — domnul Amet e foarte bolnav. ●bír akay man bír kîskaayaklî — un domn şi o doamnă. ●Ğemal akay — domnul Ğemal. ●Memet akay úyde mí? — domnul Memet este acasă?; ●úylí akay — bărbat însurat. 
+akayğa adv. bărbăteşte. 
+akbaba, kîzîl- s. (orn.) vultur pleşuv sur (lat., Gyps f ulvus). 
+akbalîk s. (iht.) şalău (lat., Stizostedion lucioperca). 
+akbasma s. (med.) albeaŃă la ochi; leucom. 
+Ak-Baş s. (topon.) Albeşti (jud. ConstanŃa). 
+ak-baş-ak-kuyruklî-suwbúrkút s. (orn.) vultur cu cap alb (lat., Haliaeetus leucocep halus). 
+ak-baş-kartakay s. (orn.) vultur himalaian (lat., Gyps himalayensis). 
+ak-başlî-gúmúşgágáa s. (orn.) pescăruş cu cioc argintiu cu cap alb (lat., Lonc h ura maja). 
+ak-başlî-kirazkuşî s. (orn.) presură cu cap alb (lat., Emberiza leucocephala). 
+ak-başlîklî-delítaş s. (orn.) pietrar cu glugă albă (lat., Oenanthe monacha). 
+ak-başlî-órdek s. (orn.) raŃă cu cap alb (lat., Oxy ura leu cocephala). 
+ak-başlî-súlekeş s. (orn.) presură cu cap alb (lat., E mberiza leucocephala). 
+ak-başlî-tenek s. (orn.) presură cu cap alb (lat., Emberiza leucocephala). 
+akbawur adj. fricos; sperios; temător; laş. 
+akbawurluk s. frică; teamă; laşitate. 
+akbor s. cretă. 
+ak-burgas s. (bot.) salcie-albă (lat., Salix alba). 
+akçent s. (gram.) accent. 
+akdeñíz s., adj. mediteranean. 
+Ak-Deñíz s. (hidron.) Marea Mediterană. 
+Ak-Deñíz-kagayî s. (orn.) pescăruş cu cap negru (lat., Larus melanocephalus). 
+akdeñízlí s., adj. mediteranean. 
+Ak-Deñíz-şaklayî s. (orn.) pescăruş cu cap negru (lat., Larus melanocephalus). 
+ak-dogan s. (orn.) şoim de tundră (lat., Falco rusticolus; Falco gyrfalcon). 
+akelgen adj. aducător. 
+akelíngen adj. adus. 
+akelínme s. aducere. // ●wazifeníñ yerine akelínmesí — îndeplinirea misiunii. 
+akelínmek v.i. a fi adus. 
+akelme s. (jur.) citaŃie. 
+akelmek v.t. a aduce. // ●akîlîna akelmek — a-i aminti; a-i aduce aminte. ●dadîn yeríne akelmek — a-şi drege gustul. ●epke akelmek — a înlesni; a uşura; a facilita. ●kaytarîp akelmek — a readuce. ●sesín yeríne akelmek — a-şi drege glasul. ●vuğutka akelmek — a realiza; a materializa; a elabora. //●maga bír kawe akelírsíñíz mí? — vreŃi să-mi aduceŃi o cafea?;
 `;
 export default rawDictionaryText;
