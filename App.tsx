@@ -17,7 +17,7 @@ const App: React.FC = () => {
   const [isAbbreviationsModalOpen, setIsAbbreviationsModalOpen] = useState(false);
   const [isSourcesModalOpen, setIsSourcesModalOpen] = useState(false);
   
-  const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
+  const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
 
   const handleSearch = useCallback(async (term: string) => {
     setIsLoading(true);
