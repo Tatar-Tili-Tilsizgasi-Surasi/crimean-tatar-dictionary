@@ -112,7 +112,7 @@ const loadDictionaryFile = async (fileLetter: string): Promise<DictionaryEntry[]
     try {
         // Dynamically import the dictionary data file.
         const module = await import(`../data/dictionary/${fileLetter}.ts`);
-        const rawDictionaryText = module.default;
+        const rawDictionaryText = module.default.replace(/Ń/g, 'ţ');
         const entries = parseDictionaryEntries(rawDictionaryText);
         cache.set(fileLetter, entries);
         return entries;
