@@ -50,7 +50,7 @@ const App: React.FC = () => {
             </h1>
           </div>
           <p className="text-lg text-gray-600 dark:text-gray-400">
-            A searchable Crimean Tatar - Romanian Dictionary
+            A searchable Crimean Tatar - Romanian Dictionary<br>Standardization of Crimean Tatar language by University of Bucharest</br>
           </p>
         </header>
 
