@@ -1041,5 +1041,170 @@ akşa-suwtorgay s. (orn.) prundăraş de sărătură (lat., Charadrius alexandri
 akşa-şímşíge s. (orn.) piŃigoi azuriu (lat., Parus cyanus).
 akşateregí, Amerika- s. (bot.) arŃar american (lat., Acer negundo). 
 akşateregí, Frengístan- s. (bot.) jugastru de Banat (lat., Acer monspessulanum).
+akşateregí, kîr- s. (bot.) jugastru 
+(lat., Acer campestre). 
+akşateregí, şeker- s. (bot.) artar 
+canadian (lat., Ace r saccha ru m). 
+akşaterek s. (bot.) arŃar (lat., Acer 
+platanoides). 
+akşaterek, gúmúş- s. (bot.) arŃar 
+argintiu (lat., Ace r sacc harin um). 
+akşa -toyg în s. (orn.) erete alb (lat., 
+Circ us mac ro urus). 
+akşaygan adj. albit; înălbit. 
+ak-şaylak s. (orn.) gaie albă (lat., 
+Elanus cae rul us). 
+akşayma s. albire; înălbire. 
+akşaymak v.i. a se albi; a se înălbi; a 
+deveni alb. 
+akşaytmak v.i. a albi; a înălbi; a face 
+să se înălbească. // ●t í ş l e r í n 
+a k ş a y tm a k a-şi arăta colŃii; a-şi 
+rânji dinŃii. 
+akşayuw s. albire; înălbire. 
+ak-şáşlí-alak s. (orn.) alcă antică 
+(lat., Synthliboramphus 
+antiquus). 
+ak-şeneşke s. (bot.) verigar; părul-
+ciutei; salbă-moale (lat., R hamn us 
+cathartica). 
+ak-şîrşî s. (bot.) brad (lat., Abies 
+alba). 
+ak-şópleme s. (bot.) strigoaie-albă 
+(lat., Ve ratrum alb um). 
+akta I. adj. castrat; jugănit. II. s. 1. 
+(ist.) eunuc. 2. castrare; jugănire. 
+aktabaka s. (anat.) retină. 
+ak-tajlî-torgay s. (orn.) presură 
+striată cu coroană albă (lat., 
+Zonotrichia leucop hrys). 
+ak-tal s. (bot.) salcie-albă (lat., Salix 
+alba). 
+aktalama s. 1. castrare; jugănire; 
+sterilizare. 2. castrare. 
+aktalamak v.t. a castra; a jugăni. 
+aktalangan adj. castrat; jugănit; 
+sterilizat. 
+aktalanmagan adj. necastrat; 
+nejugănit. 
+aktalatîlgan adj. castrat; jugănit. 
+aktalatîlmak v.i. a se castra; a se 
+jugăni. 
+aktalatmak v.t. a determina să 
+castreze; a determina să jugănească. 
+aktalatuw s. castrare; jugănire. 
+aktalaw s. 1. castrare; jugănire; 
+sterilizare. 2. castrare. 
+aktamîr s. (bot.) păstârnac (lat., 
+Pastinaca sativa hortensis). 
+aktamma s. (med.) leucoree; poală 
+albă. 
+aktapot s. 1. (zool.) caracatiŃă (lat., 
+Octopus vulga ris). 2. (med.) polip. 
+aktar s. negustor de mărunŃişuri. 
+aktara -aktara adv. tot scotocind; tot 
+răscolind; pe dibuite. 
+aktargan s. căutător. 
+aktarîlgan adj. 1. scotocit; răscolit; 
+explorat. 2. cercetat; investigat; 
+studiat; examinat; analizat. 3. răsfoit; 
+frunzărit. //
+●a k t a r î l gan ş o k r a k l a r 
+bibliografie. 
+aktarîlgankayîtlar s., pl. 
+documentaŃie. 
+aktarîlganşokraklar s., pl. 
+bibliografie. 
+aktarîlmagan adj. 1. nescotocit; 
+nerăscolit; neexplorat; virgin. 2. 
+nerăsfoit; nefrunzărit. 3. necercetat; 
+neinvestigat; nestudiat; neexaminat; 
+neanalizat. 
+aktarîlmak v.i. 1. a se răsfoi; a se 
+frunzări. 2. a se cerceta; a se investiga; 
+a se studia; a se examina; a se analiza. 
+3. a se scotoci; a se răscoli; a se 
+explora. 
+aktarîlmaykalgan adj. neanalizat; 
+necercetat; neexaminat; neexplorat; 
+nefrunzărit; nerăsfoit; neinvestigat; 
+nerăscolit; nescotocit; nestudiat; 
+virgin. 
+aktarîş s. cercetare; investigare; 
+studiu; examinare; analizare. 
+aktarîşçî s. cercetător; investigator; 
+examinator; explorator. 
+ak-tarkat s. (orn.) ferestraş mic (lat., 
+Mergus albellus). 
+aktarlîk s. mercerie. 
+aktarma s. 1. investigare; studiu. 2. 
+(jur.) percheziŃie. 3. (med.) perfuzie. 4. 
+scotocire; căutare; descindere. 5. 
+(med.) analiză; perfuzie; transfuzie. 6. 
+studiu; eseu. 7. cercetare; investigare; 
+studiu; examinare; analizare. 8. 
+răsfoire; frunzărire. 9. scotocire; 
+răscolire; explorare. // ●a k t a rm a 
+m ú e s s e s e s í institut de cercetare. 
+●b í l ím a k t a rm a s î cercetare 
+ştiinŃifică. ●f e n a k t a rm a 
+m ú e s s e s e s í institut de cercetări 
+ştiinŃifice. ●i d r a r a k t a rm a s î 
+analiza urinei. ●k î l g î l î 
+a k t a rm a l a r cercetări aplicate. 
+●na za r i y a k t a rm a l a r cercetări 
+teoretice. 
+aktarmak v.t. 1. a scotoci; a răscoli; a 
+explora. 2. a cerceta; a investiga; a 
+studia; a examina; a analiza. 3. a 
+răsfoi; a frunzări. // ●a r a s î n 
+a k t a rm a k a compara; a raporta. ●ğep aktarmak — a buzunări; a fura din buzunare. ●kan aktarmak — (med.) a face transfuzie. ●kayît aktarmak  —a se documenta. ●para aktarîp kaytarmak — a vira bani (fin.). ●sayipalarnî aktarmak — a răsfoi. 
+aktartmak v.t. 1. a determina să scotocească; a determina să răscolească; a determina să exploreze. 2. a determina să cerceteze; a determina să investigheze; a determina să studieze; a determina să examineze; a determina să analizeze. 3. a determina să răsfoiască; a determina să frunzărească. 
+aktaruw s. 1. studiu; eseu. 2. scotocire; răscolire; explorare. 3. cercetare; investigare; studiu; examinare; analizare. 4. răsfoire; frunzărire. 
+aktaruwğî s. cercetător; investigator; examinator; explorator. //●kurumnuñ aktaruwğularî — cercetătorii institutului. 
+aktaruwğî-it s. copoi; ogar; prepelicar. 
+aktaruwlî adj. 1. scotocit; răscolit; explorat. 2. răsfoit; frunzărit. 3. cercetat; investigat; studiat; examinat; analizat. 
+aktaş s. (bot.) ghiocel (lat., Galanthus nivalis). 
+ak-taştawugî s. (orn.) ieruncă alpină; potârniche albă (lat., Lagopus mutus). 
+ak-tawuzotî s. (bot.) iarba-câmpului (lat., Agrostis alba; Agrostis stolonifera). 
+aktazîl s. (bot.) păstârnac (lat., Pastinaca sativa hortensis). 
+ak-tegenek s. (bot.) limba-oii (lat., Cirsium canum). 
+ak-tepelí-delítaş s. (orn.) pietrar cu creastă albă (lat., Oenanthe leucopyga). 
+akterek s. (bot.) mesteacăn-alb (lat., Betula pendula; Betula alba). 
+akterek-kawî s. (bot.) văcălie-de-mesteacăn (lat., Placodes betulinus). 
+aktereklík s. pădure de mesteceni albi; mestecăniş. 
+aktetmek v.t. a contracta; a încheia un contract. 
+ak-togan s. (orn.) şoim de tundră (lat., Falco rusticolus; Falco gyrfalcon). 
+ak-tokîrawun s. (orn.) cocor alb; cocor siberian (lat., Grus leucogeranus). 
+aktor s. actor. 
+ak-torak s. (bot.) salcie-albă (lat., Salix alba). 
+aktorgay s. (orn.) pasărea omătului; pasărea zăpezii (lat., Plectrophenax nivalis). 
+aktrisa s. actriŃă. 
+ak-tumbuyuk s. (bot.) nufăr-alb; nenufar-alb (lat., Nymphaea alba). 
+ak-tumşuklî-dalgîş s. (orn.) cufundar cu cioc alb (lat., Gavia adamsii). 
+ak-turna s. (orn.) cocor alb; cocor siberian (lat., Grus leucogeranus). 
+ak-túlkí s. (zool.) vulpe-argintie (lat., Vulpes fulva). 
+aktúyúrşúk s. (anat.) leucocită. 
+akumulator s. (fiz.) acumulator. 
+akustik adj. acustic. 
+akustika s. (fiz.) acustică. 
+ak-úşgúl s. (bot.) trifoi (lat., Trifolium repens). 
+akwaforte s. acvaforte. 
+akwalet s. (gram.) adverb. //●akwalet sayîsî — numeral adverbial. 
+akwarela s. acuarelă. 
+akwarelağî s. pictor în acuarelă. 
+akwariyum s. acvariu. 
+ak-yakalî-balîkşî s. (orn.) pescăruş cu guler alb (lat., Halcyon chloris). 
+ak-yapalak s. (orn.) huhurez alb; bufniŃă de zăpadă (lat., Bubo scandiacus; Nyctea scandiaca). 
+akyar I. adj. ostil; advers. II. s., adj. străin; extraterestru. 
+akyarlîk s. 1. străinătate. 2. ostilitate; adversitate. 
+akyîldîz-soganî s. (bot.) băluşcă; găiniŃă; ceapa-ciorii (lat., Ornithogalum umbellatum). 
+ak-yonğa s. (bot.) trifoi (lat., Trifolium repens). 
+ak-yunus s. (zool.) delfin-alb (lat., Delphinapterus leucas). 
+akyuwar s. (anat.) globulă albă; leucocită. 
+akyúzlí adj. desfigurat; palid. 
+ak-yúzlí-boraganğî s. (orn.) rândunica furtunii cu faŃă albă (lat., Pelagodroma marina). 
+ak-yúzlí-ğelkuwgan s. (orn.) ielcovan cu faŃă albă; furtunar cu faŃă albă; pasărea-furtunii cu faŃă albă (lat., Calonectris leucomelas). 
+ak-yúzlí-karkîldak s. 1. (orn.) chirighiŃă cu obraz alb (lat., Chlidonias hybridus). 2. (orn.) chiră cu obraz alb; chiră arabă; pescăriŃă cu obraz alb; pescăriŃă arabă (lat., Sterna repressa).
 `;
 export default rawDictionaryText;
