@@ -126,8 +126,9 @@ const App: React.FC = () => {
             )}
           </div>
         </main>
-        <footer className="text-center mt-12 text-sm text-gray-500 dark:text-gray-500">
-          <p>Powered by React & Tailwind CSS. A project by Tatar Tílí Tílsîzgasî Şurasî.</p>
+        <footer className="text-center mt-12 text-sm text-gray-500 dark:text-gray-400 space-y-1">
+          <p>Powered by React & Tailwind CSS.</p>
+          <p>You can find the source of this dictionary on <a href="https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-dictionary" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">GitHub</a>.</p>
         </footer>
       </div>
       <AbbreviationsModal isOpen={isAbbreviationsModalOpen} onClose={() => setIsAbbreviationsModalOpen(false)} />
