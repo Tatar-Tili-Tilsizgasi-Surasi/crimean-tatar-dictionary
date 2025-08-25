@@ -902,5 +902,143 @@ akrînaygan adj. încetinit; potolit.
 akrînayma s. încetinire; domolire. 
 akrînaymak v.i. 1. a încetini; a-şi micşora viteza. 2. a se potoli; a se linişti; a se calma. 
 akrînaytmak v.t. 1. a potoli; a linişti; a calma. 2. a încetini; a micşora viteza.
+akrînaytuwğî s. (tehn.) încetinitor. 
+akrînayuw s. liniştire; potolire; încetinire. 
+akrîndan adv. agale; pe nesimŃite; pe neobservate; încetişor. 
+akrînğa adv. agale; pe nesimŃite; pe neobservate; încetişor. 
+akrînlay adv. agale; pe nesimŃite; pe neobservate; încetişor. 
+akrînlîk s. încetineală; lipsă de iuŃeală. 
+akrobasiya s. acrobaŃie. 
+akrobat s. acrobat. 
+aksa s. piedică; obstacol; impediment. 
+aksabîr s. (bot.) cosor; foarfeca-bălŃii (lat., Stratiotes aloides). 
+aksak adj. şchiop. 
+aksakal I. adj. bătrân. II. s. (bot.) bărbişoară (lat., Alyssum minimum). 
+aksakallî adj. bătrân. 
+aksak-tutsak adj. 1. şchiop. 2. invalid; infirm; mutilat. 
+aksama s. şchiopătură. 
+aksamak v.i. a şchiopăta. 
+ak-santal s. (bot.) santal-alb (lat., Santalum album). 
+aksatîlgan adj. împiedicat; îngreunat. 
+aksatîlma s. împiedicare; îngreunare. 
+aksatîlmak v.i. a fi împiedicat; a fi îngreunat. 
+aksatîluw s. împiedicare; îngreunare. 
+aksatma s. împiedicare; îngreunare. 
+aksatmak v.t. a împiedica; a îngreuna. 
+aksatuw s. împiedicare; îngreunare. 
+aksaw s. şchiopătură. 
+aksaydamtabaka s. (med.) xerom; xeroză; xeroftalmie. 
+aksetílgen adj. 1. răsfrânt; reflectat. 2. reflectat; oglindit; cu ecou; rezonant; reverberant; răsfrânt. 
+aksetílmek v.i. a se răsfrânge. 
+aksetken adj. cu ecou; rezonant; reflectant; răsunător. 
+aksetmek v.i. 1. a reflecta; a oglindi; a răsfrânge. 2. (d. voce, sunet) a răsuna; a reverbera. 
+aksettírmek v.t. a reflecta; a oglindi; a răsfrânge. 
+aksetúw s. (fiz.) reflecŃie; reflectare; oglindire; ecou; rezonanŃă; reverberaŃie; răsfrângere. 
+aksetúwğí adj. reflectant. 
+ak-sewet s. (bot.) salcie-albă (lat., Salix alba). 
+aksiy I. adj. invers; contrar; opus; antagonic. II. postp. contra. //●aksiy hálde — în caz contrar. 
+aksiyaşîk-aksiyşaşîk adj. antiporno. 
+aksiyatama s. contradicŃie în termeni. 
+aksiyawurluk s. contragreutate. 
+aksiyburum s. (meteo.) anticiclon. 
+aksiydarbe s. contralovitură. 
+aksiyesrar adj. antidrog. 
+aksiyet s. 1. contrast; contradicŃie; adversitate; antagonism; inversiune; combativitate; împotrivire; opunere. 2. (geogr., fiz., mat.) polaritate. 3. (fiz.) reflecŃie; reflectare; oglindire; ecou; rezonanŃă; reverberaŃie; răsfrângere. //●aksiyet bolmak — a se răsfrânge; a se reflecta; a se oglindi. 
+aksiyetlí adj. reflectat; oglindit; cu ecou; rezonant; reverberant; răsfrânt. 
+aksiyetsízlík s. neîmpotrivire. 
+aksiyfigan s., adj. contrarevoluŃionar. 
+aksiyfiganlîk s. contrarevoluŃie. 
+aksiyfişek adj. (mil.) antirachetă. 
+aksiygaz adj. antigaz. 
+aksiyğîlîm adj. antigang. 
+aksiyhafiyelík s. contrainformaŃii. 
+aksiyharbiy adj. antirăzboinic. 
+aksiyhuğum s. contraatac. 
+aksiyihtilal s. contrarevoluŃie. 
+aksiyihtilalğî s. contrarevoluŃionar. 
+aksiyihtilaliy adj. contrarevoluŃionar. 
+aksiyinkilabiy adj. contrarevoluŃionar. 
+aksiyinkilap s. contrarevoluŃie. 
+aksiyinkilapşî s. contrarevoluŃionar. 
+aksiyistihbarat s. contrainformaŃii; contraspionaj. 
+aksiykayide s. contrabalans; contrabalansare. 
+aksiykayidelí adj. contrabalansat. 
+aksiykaytarîlgan adj. inversat. 
+aksiykaytarma s. inversare; inversiune. 
+aksiykaza adj. antiaccident. 
+aksiykelgen adj. combativ. 
+aksiykelúw s. combatere. 
+aksiymilliyidariy adj. antidemocratic. 
+aksiymústehğen adj. antiporno. 
+aksiynevralğik adj. (med.) antinevralgic. 
+aksiynizam s. contrabalans; contrabalansare. 
+aksiynizamlî adj. contrabalansat. 
+aksiyoma s. axiomă. 
+aksiyradar adj. antiradar. 
+aksiyseda s. ecou; rezonanŃă. 
+aksiysedağî s. (fiz.) rezonator; cameră de rezonanŃă. 
+aksiysúyenlík s. contrainformaŃii. 
+aksiyşawgun s. (meteo.) anticiclon. 
+aksiyşebeke adj. antigang. 
+aksiytahtelbahir adj. (mil.) antisubmarin. 
+aksiyteraziy s. contrabalans; contrabalansare. 
+aksiyteraziylí adj. contrabalansat. 
+aksiytesir s. opoziŃie; contracarare. //●aksiytesir etmek — a contracara. 
+aksiytesirğí adj. opozant; oponent. 
+aksiytesirlí adj. contracarat. 
+aksiyteşviklájí adj. antidoping. 
+aksiytetanos adj. (med.) antitetanos. 
+aksiytolî adj. antigrindină. 
+aksiyuyutuwğî adj. antidrog. 
+aksiywuruş s. contralovitură. 
+ak-sîrtî-tokîldak s. (orn.) ciocănitoare cu spate alb (lat., Dendrocopos leucotos). 
+ak-sîrtlî-delítaş s. (orn.) pietrar caucazian (lat., Oenanthe finschii). 
+ak-sîrtlî-kúrte s. (orn.) ciocănitoare cu spate alb (lat., Dendrocopos leucotos). 
+ak-sîrtlî-sayrak s. (orn.) sturz cu spate alb (lat., Turdus kessleri). 
+ak-sîrtlî-terekkakkan s. (orn.) ciocănitoare cu spate alb (lat., Dendrocopos leucotos). 
+aksuw s. (med.) albeaŃă la ochi; leucom. 
+aksúyek I. adj. 1. nobil; de rasă. 2. monden. II. s. domn; nobil; aristocrat. 
+aksúyeklík s. domnie; nobleŃe; aristocraŃie. 
+aksúyekolayî s. mondenitate. 
+akşa s. bani. 
+akşabalîk s. (iht.) albişoară; obleŃ; albiŃă (lat., Alburnus alburnus). 
+akşa-boztorgay s. (orn.) ciocârlie de nisip (lat., Calandrella raytal). 
+akşa-ğawunkuşî s. (orn.) prundăraş de sărătură (lat., Charadrius alexandrinus). 
+akşa-kayîñ s. (bot.) arŃar-tătăresc; gladiş (lat., Acer tataricum). 
+ak-şakşakay s. (orn.) codobatură albă; prundar alb (lat., Motacilla alba). 
+akşam I. adj. de seară; seral. II. adv. seara; în cursul serii. III. s. seară. //●akşam bolmak / túşmek — a se însera. // ●akşam bolayatîr — se înserează. ●akşam gázátasî — ziar de seară. ●akşam tarawî — coafură de seară. ●akşamga taban kúneş kîzdîrmay — spre seară soarele nu dogoreşte. ●akşamîñîz kayîrlî bolsîn! — bună seara!; ●igí akşamlar! — bună seara!; ●kayîrlî akşamlar! — bună seara!; ●obírgún / ewelkígún / ewelsígún akşam — alaltăseară. ●tínewún akşam — ieri seară; aseară. 
+akşam-baakşam adv. din seară în seară. 
+akşamboluw s. înserare. 
+akşamdan adv. din timpul serii. //●akşamdan soñ — după amurg. 
+akşamdan-akşamga adv. din seară în seară. 
+akşamga adv. pentru seară. //●akşamga dogrî — către seară. ●akşamga ne trenler bar? — ce trenuri sunt diseară?; ●akşamga ótmegímíz yetíşmez — nu ne ajunge pâinea pentru diseară. 
+akşamgaşîk adv. până seara. 
+akşamgî adj. de seară. 
+akşamgîsî s. cel de seară. 
+akşam-kalîntumşugî s. (orn.) botgros cu cioc de fildeş (lat., Hesperiphona vespertina). 
+akşamlamak v.i. a înnopta. 
+akşamlayîn adv. în timpul serii; seara. 
+akşamlîk I. adj. de seară; seral. II. s. cină. // ●akşamlîk kîyafet — Ńinută de seară. 
+akşamşagî adv. spre seară; pe înserat. 
+akşam-şakragî s. (orn.) botgros cu cioc de fildeş (lat., Hespe riphona vespertina). 
+akşamtúşúw s. înserare. 
+akşamústí adv. spre seară; pe înserat. 
+akşamyemegí s. masă de seară; cină; supeu. 
+akşap s. scândură; lemn. 
+ak-şapur s. (orn.) egretă mare; egretă albă; stârc alb (lat., Egretta alba). 
+akşar s. 1. vopsea; culoare; colorant. 2. fard. 
+akşarğî s. 1. vânzător de vopsea. 2. magazin de vopsea. 
+akşarkana s. magazin de vopsea. 
+akşarlama s. vopsire; zugrăvire; fardare. 
+akşarlamak v.t. a vopsi; a colora; a zugrăvi; a farda. 
+akşarlangan adj. colorat; fardat; vopsit; zugrăvit. 
+akşarlanmak v.i. a se vopsi; a se colora; a se zugrăvi; a se farda. 
+akşarlatmak v.t. a determina să vopsească; a determina să coloreze; a determina să zugrăvească; a determina să fardeze. 
+akşarlaw s. colorare; fardare; vopsire; zugrăvire. 
+akşarlawğî s. vopsitor; zugrav. 
+akşarlawkana s. vopsitorie. 
+akşarlî adj. vopsit; colorat; zugrăvit; fardat. 
+akşa-suwtorgay s. (orn.) prundăraş de sărătură (lat., Charadrius alexandrinus). 
+akşa-şímşíge s. (orn.) piŃigoi azuriu (lat., Parus cyanus).
 `;
 export default rawDictionaryText;
