@@ -674,5 +674,120 @@ akîlgaakelúwğí s. pomelnic.
 akîlgakelgen adj. pomenit; amintit. 
 akîlgakelmez adj. nebănuit. 
 akîlgakelmiykalgan adj. nebănuit.
+akîlgasîygan adj. posibil; probabil; admisibil; verosimil; rezonabil; imaginabil. 
+akîlgasîymama s. aberaŃie; imposibilitate. 
+akîlgasîymaz adj. aberant; imposibil; improbabil; inadmisibil; neverosimil; nerezonabil; inimaginabil. 
+akîlgatagîlgan adj. obsedant. 
+akîlgatagîlma s. obsesie. 
+akîlgatúşmez adj. nebănuit. 
+akîlgatúşmiykalgan adj. nebănuit. 
+akîlgauygan adj. posibil; probabil; admisibil; verosimil; rezonabil; imaginabil. 
+akîlgauymama s. imposibilitate. 
+akîlgauymaz adj. imposibil; improbabil; inadmisibil; neverosimil; nerezonabil; inimaginabil. 
+akîlğetúw s. înŃelegere; pătrundere; pricepere; lămurire. 
+akîlğî s. raŃionalist. 
+akîlğîl îk s. raŃionalism. 
+akîlğîyuw s. reculegere. 
+akîlğoytuw s. demenŃă; nebunie; sminteală; Ńicneală; alienaŃie. 
+akîlístelgen adj. consultat; întrebat. 
+akîlíşírtken adj. îmbătător. 
+akîlíşúw s. îmbătare. 
+akîlîalgan adj. lămurit; care înŃelege clar ceva. 
+akîlîbaşînda s. sobru; cumpătat; serios; cu discernământ; cu bun-simŃ; întreg la minte. 
+akîlîğetken adj. lămurit; care înŃelege clar ceva. 
+akîlîğetmez adj. neexperimentat; neinstruit. 
+akîlîkalmagan adj. senil. 
+akîlîkalmama s. senilitate. 
+akîlîkarîşkan adj. 1. răscolit; tulburat. 2. buimăcit; tulburat; zăpăcit; aiurit; năuc; confuz. 3. înnebunit; zăpăcit. 4. derutat; încurcat. 5. bezmetic; bulversat; consternat; derutat; dezorientat; intrigat; năuc; năucit; perplex; şocat. 
+akîlînaakelúw s. evocare; redeşteptare; reamintire. 
+akîlînakelgen adj. amintit; redeşteptat; evocat. 
+akîlînakelmeme s. lapsus; scăpare. 
+akîlînatagîlgan adj. obsedat; posedat; urmărit. 
+akîlînatúşewuyma s. străfulgerare; gând fulgerător. 
+akîlîndakalgan adj. memorat. 
+akîlîndakaluw s. memorare. 
+akîlîndangeşewuyma s. străfulgerare; gând fulgerător. 
+akîlîndanşîkmagan adj. obsedant. 
+akîlîndatutmagan adj. uituc. 
+akîlîndatutulgan adj. învăŃat; reŃinut; memorat; memorizat. 
+akîlîndatutuw s. învăŃare; reŃinere; memorare. 
+akîlînğoytkan adj. 1. trăsnit; Ńicnit; Ńăcănit; smintit; dement; descreierat; diliu; înnebunit; nebun; zurliu. 2. (med.) alienat mintal; dement. 3. derutat; încurcat. 
+akîlîníşken adj. îmbătat; beat. 
+akîlînoynatkan adj. 1. (med.) alienat mintal; dement. 2. dement; descreierat; diliu; înnebunit; nebun; smintit; Ńicnit; Ńăcănit; zurliu; scrântit. 
+akîlîselim s. sobru; cumpătat; serios; cu discernământ; cu bun-simŃ; întreg la minte. 
+akîlîtar adj. limitat; mărginit; plafonat (în gândire). 
+akîlîtutkan adj. (med.) nervos; paroxistic. 
+akîlkarîşmasî s. 1. bezmetic; bulversare; consternare; derută; dezorientare; năucire; perplexitate; şoc. 2. buimăceală; tulburare; zăpăceală; aiureală; năucire; confuzie. 3. răscolire; tulburare. 4. derută; încurcare. 5. înnebunire; zăpăcire. 
+akîlkarîştîrgan adj. 1. răscolitor; tulburător. 2. aiuritor; buimăcitor; bulversant; derutant; năucitor. 
+akîllaşkan adj. deşteptat; maturizat. 
+akîllaşma s. faptul de a deveni mai inteligent; deşteptare. 
+akîllaşmak v.i. a se deştepta; a se maturiza. 
+akîllaşuw s. deşteptare; maturizare. 
+akîllî adj. 1. inteligent; deştept. 2. cuminte; liniştit; de ispravă. //●akîllî bolmak — a prinde la minte; a se cuminŃi; a-i veni minŃile acasă; a-şi băga minŃile în cap. // ●akîllî bolîp tur! — stai cuminte!; ●bek akîllî — foarte inteligent. 
+akîloynatmasî s. 1. delir; demenŃă; nebunie; sminteală; Ńicneală. 2. (med.) alienaŃie; demenŃă. 3. delir; aiureală. 
+akîlsîz adj. lipsit de inteligenŃă; mărginit; fără minte; neinspirat. 
+akîlsîzğa adv. nebuneşte; prosteşte. 
+akîlsîzlaşmak v.i. a se prosti. 
+akîlsîzlîk s. prostie; neghiobie; lipsă de judecată. 
+akîltarlîgî s. limitare; mărginire; plafonare (în gândire). 
+akîlterbiyebílímğísí s. psihopedagog. 
+akîlterbiyebílímí s. psihopedagogie. 
+akîlterbiyeğísí s. psihopedagog. 
+akîlterbiyesí s. psihopedagogie. 
+akîlteregí s. (bot.) ginkgo (lat., Ginkgo biloba). 
+akîltutmasî s. (med.) atac; nervozitate; paroxism. 
+akîltutuw s. supărare; enervare. 
+akîlúyrengen adj. sfătuit. 
+akîlúyretken s. consilier; consultant; sfătuitor; sfetnic. 
+akîlúyretúw s. învăŃare; recomandare; sfat. 
+akîlzade s. consilier; sfetnic. //●adliy akîlzade — (jur.) jurisconsult. 
+akîp s. 1. succesor; descendent. 2. (jur.) moştenitor; urmaş. 
+akîplîk s. succesiune; descendent. 
+akîr I. adj. ultim; din urmă; final. II. s. 1. sfârşit; capăt. 2. terminare; încheiere; final. // ●akîrga şîkmak — a se termina; a se finaliza; a se sfârşi. // ●akîr kúnlerde — în ultimele zile. ●akîr sózí — ultimul său cuvânt. ●akîr tamla kanga kadar — până la ultima picătură de sânge. 
+Akîr s. (antrop. m., arab.) "Cel din urmă sosit" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Akîr, El- s. (relig., arab.) "Încheietorul"; “Unicul dăinuitor al absolutei pustiiri” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+akîrda adv. în sfârşit; în cele din urmă; în fine. 
+akîrgaşîgaruw s. finalizare. 
+akîrgaşîguw s. trecere; încetare. 
+akîrgaşîk adv. până la sfârşit; ad finem. 
+akîrgaşîkkan adj. finalizat. 
+akîrsîz adj. interminabil; nesfârşit; infinit; neŃărmurit. 
+akîrsîzlîk s. imensitate; veşnicie; infinit; abis. // ●akîrsîzlîkka kadar — până la infinit; până la nesfârşit; ad infinitum. 
+akîrsîzlîkka adv. spre infinit; la infinit; spre nesfârşit; la nesfârşit. 
+akîrsîzlîkkaşîk adv. până la infinit; până la nesfârşit; ad infinitum. 
+akîrsóz s. (lit.) postfaŃă. 
+akîrzaman s. (la musulmani) învierea morŃilor; sfârşitul lumii. 
+akîrzamanğî adj. apocaliptic. 
+akît s. 1. legământ; jurământ; pact. 2. căsătorie; mariaj. // ●sózím akîttîr — cuvântul meu este pact. 
+akîtiy adj. contractual. 
+akîtkîygan s., adj. contractant; contractor. 
+akîtlaşma s. pactizare; acord; aranjament; înŃelegere. 
+akîtlaşmak v.i. 1. a se înŃelege; a cădea de acord. 2. a pactiza; a încheia un pact. 
+akîtlaşuw s. pactizare; acord; aranjament; înŃelegere. 
+akîtlî adj. 1. angajat printr-un contract. 2. căsătorit; cununat. 
+akîtname s. pact; alianŃă. 
+akîygan adj. 1. albit; înălbit. 2. (d. ochi) holbat. 
+akîymak v.i. 1. a se albi; a se înălbi; a deveni alb. 2. (d. ochi) a se holba. 
+akîytmak v.t. 1. (d. ochi) a holba. 2. a albi; a înălbi; a face să se înălbească. // ●kózlerín akîytmak — a căsca ochii; a se holba; a se zgâi. 
+akîyuw s. 1. albire; înălbire. 2. (d. ochi) holbare. 
+Ak-Kadîn s. (topon.) Alba (jud. Tulcea). 
+akkalaklî adj. breaz. 
+akkan s. (biol.) limfă. 
+akkan adj. fluid. 
+ak-kanatlî-boraganğî s. (orn.) rândunica furtunii gulerată (lat., Pterodroma le ucoptera). 
+ak-kanatlî-boztorgay s. (orn.) ciocârlie cu aripi albe (lat., Melanocoryp ha le ucoptera). 
+ak-kanatlî-karkîldak s. (orn.) chirighiŃă cu aripi albe (lat., Chlidonias le ucopterus). 
+ak-kanatlî-kîyîşawuz s. (orn.) forfecuŃă bălŃată (lat., Loxia leucoptera). 
+ak-kanatlî-kîzîlkuyruk s. (orn.) codroş cu aripă albă (lat., Phoenicu ru s e rythrogaster). 
+ak-kanatlî-kúrte s. (orn.) ciocănitoare cu aripi albe (lat., Dend rocopos leucopterus). 
+ak-kanatlî-terekkakkan s. (orn.) ciocănitoare cu aripi albe (lat., Dend rocopos leucopterus). 
+ak-kanatlî-tokîldak s. (orn.) ciocănitoare cu aripi albe (lat., Dend rocopos leucopterus). 
+ak-kanatlî-tultokîmağî s. (orn.) pasăre-episcop cu aripi albe (lat., Euplectes albonotatus). 
+akkankóz s. izvor. 
+akkanyuwarî s. (anat.) limfocită. 
+ak-kara-ótlegen s. (orn.) parulă alb-negru (lat., M niotilta varia). 
+ak-kardeniye s. (bot.) gardenie (lat., Gardenia thunbergia). 
+ak-karînlî-akkózlík s. (orn.) privighetoare-cu-ochi-alb cu piept alb (lat., Zosterops abyssinica). 
+ak-karînlî-biydayak s. (orn.) lişiŃă cu piept alb (lat., Amaurornis phoenicurus).
 `;
 export default rawDictionaryText;
