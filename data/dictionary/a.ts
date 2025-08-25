@@ -607,7 +607,7 @@ aketíp-taşlangan adj. dus; transmis.
 aketíp-taşlaw s. ducere; transmitere. 
 aketken adj. curier; transportator; însoŃitor. 
 aketme s. ducere; transportare; transmitere; curierat; însoŃire. 
-aketmek v.t. 1. a duce; a conduce; a însoŃi. 2. a transporta; a căra; a transmite. 3. (d. ape) a lua; a duce. //●ayawlî aketmek — a escorta. ●kolîndan ğetíp aketmek — a duce de mână pe cineva. ●suwsuz aketíp suwsuz ketírmek — a duce pe cineva bou şi a-l aduce vacă. ●yalan man aketmek — a duce pe cineva cu minciuna. //●bagaj larîmnî trenge aketíñíz! — duceŃi-mi bagajele la tren!; ●kaş okka bagaj akete alîrman? — câte kilograme de bagaj am dreptul?; 
+aketmek v.t. 1. a duce; a conduce; a însoŃi. 2. a transporta; a căra; a transmite. 3. (d. ape) a lua; a duce. //●ayawlî aketmek — a escorta. ●kolîndan ğetíp aketmek — a duce de mână pe cineva. ●suwsuz aketíp suwsuz ketírmek — a duce pe cineva bou şi a-l aduce vacă. ●yalan man aketmek — a duce pe cineva cu minciuna. //●bagajlarîmnî trenge aketíñíz! — duceŃi-mi bagajele la tren!; ●kaş okka bagaj akete alîrman? — câte kilograme de bagaj am dreptul?; 
 akettírmek v.i. a determina să ducă; a determina să care; a determina să transporte; a determina să transmită. 
 aketúw s. ducere; transportare; transmitere; curierat; însoŃire. ducere; transportare; transmitere; curierat; însoŃire. 
 ak-ğawşan s. (bot.) pelin-alb (lat., Artemisia austriaca). 
