@@ -596,5 +596,83 @@ akelínme s. aducere. // ●wazifeníñ yerine akelínmesí — îndeplinirea mi
 akelínmek v.i. a fi adus. 
 akelme s. (jur.) citaŃie. 
 akelmek v.t. a aduce. // ●akîlîna akelmek — a-i aminti; a-i aduce aminte. ●dadîn yeríne akelmek — a-şi drege gustul. ●epke akelmek — a înlesni; a uşura; a facilita. ●kaytarîp akelmek — a readuce. ●sesín yeríne akelmek — a-şi drege glasul. ●vuğutka akelmek — a realiza; a materializa; a elabora. //●maga bír kawe akelírsíñíz mí? — vreŃi să-mi aduceŃi o cafea?;
+akelúw s. aducere. 
+akelúwğí adj. aducător. 
+ak-eñselí-boztorgay s. (orn.) ciocârlie cu spate cenuşiu (lat., Eremopterix ve rticalis). 
+ak-eñselí-kîzîlkuyruk s. (orn.) codroş cu ceafă albă (lat., Chaimarro rnis le ucocep halus). 
+aketílgen adj. dus; transportat. 
+aketílmek v.i. 1. a fi dus; a fi condus; a fi însoŃit. 2. (d. ape) a fi luat; a fi dus. 3. a fi transportat; a fi cărat; a fi transmis. 
+aketíp-berílgen adj. dus; transmis. 
+aketíp-berúw s. ducere; transmitere. 
+aketíp-taşlangan adj. dus; transmis. 
+aketíp-taşlaw s. ducere; transmitere. 
+aketken adj. curier; transportator; însoŃitor. 
+aketme s. ducere; transportare; transmitere; curierat; însoŃire. 
+aketmek v.t. 1. a duce; a conduce; a însoŃi. 2. a transporta; a căra; a transmite. 3. (d. ape) a lua; a duce. //●ayawlî aketmek — a escorta. ●kolîndan ğetíp aketmek — a duce de mână pe cineva. ●suwsuz aketíp suwsuz ketírmek — a duce pe cineva bou şi a-l aduce vacă. ●yalan man aketmek — a duce pe cineva cu minciuna. //●bagaj larîmnî trenge aketíñíz! — duceŃi-mi bagajele la tren!; ●kaş okka bagaj akete alîrman? — câte kilograme de bagaj am dreptul?; 
+akettírmek v.i. a determina să ducă; a determina să care; a determina să transporte; a determina să transmită. 
+aketúw s. ducere; transportare; transmitere; curierat; însoŃire. ducere; transportare; transmitere; curierat; însoŃire. 
+ak-ğawşan s. (bot.) pelin-alb (lat., Artemisia austriaca). 
+ak-ğayalî-gúmúşgágáa s. (orn.) pescăruş cu cioc argintiu cu târtiŃă albă; cinteză bengaleză (lat., Lonc hu ra striata). 
+ak-ğayalî-kumtawuk s. (orn.) fugaci cu târtiŃă albă (lat., Calidris f uscicollis). 
+ak-ğayalî-surkarlîgaş s. (orn.) drepnea cu târtiŃă albă (lat., Apus caff er). 
+ak-ğerek s. (bot.) anin-alb; arin-alb (lat., Aln us inca na). 
+akğíger s. (anat.) plămân. //●akğíger petegí — (anat.) alveolă pulmonară. 
+akğígerotî s. (bot.) pulmonariŃă; plămânărică; cuscrişor; mierea-ursului (lat., Pulmo naria of f icinalis). 
+akğígerzarî s. (anat.) pleură. 
+ak-ğúmúle s. (ent.) termită; furnică-albă (lat., Isoptera). 
+akide s. 1. (relig.) dogmă; percept. 2. doctrină; principiu; concept; convingere. 3. acadea. // ●akide ezberletmek — a îndoctrina. //●akide şekerí — acadea. 
+akideezberlegen adj. îndoctrinat. 
+akideezberletme s. îndoctrinare. 
+akidelí adj. 1. convins. 2. principial. 
+Akip s. (antrop. m., arab.) "Succesorul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+akís I. adj. 1. contrar; opus; antagonic. 2. îndărătnic; încăpăŃânat; potrivnic. II. postp. contra. 
+akísíne adv. dimpotrivă; împotrivă; în ciuda; în contra; viceversa. 
+akíslengen adj. încăpăŃânat; înverşunat. 
+akíslenme s. încăpăŃânare; înverşunare. 
+akíslenmek v.i. 1. a se opune; a se împotrivi. 2. a se încăpăŃâna. 
+akíslenúw s. încăpăŃânare; înverşunare. 
+akíslík s. 1. opunere; împotrivire; încăpăŃânare. 2. polaritate. 
+akîbet s. 1. sfârşit; final; consecinŃă; repercusiune. 2. viitor. // ●akîbetíñ aşîk bolsîn! — succes pe viitor!; 
+akîbetlí s. cu viitor. 
+akîbetsíz s. fără viitor. 
+akîl s. 1. minte; raŃiune; intelect. 2. memorie. 3. sfat; povaŃă. 4. gând; idee; cuget. // ●akîl bermek /úyretmek — a-i deschide cuiva capul; a-l sfătui; a-l povăŃui;; a-i recomanda. ●akîl etmek — a-şi pune mintea la treabă; a lua seamă; a chibzui; a intui. ●akîl koşmak — a se sfătui. ●akîl uydurmak — a se pune la mintea cuiva. ●akîldan şîgarmak — a-l scoate din minŃi. ●akîldan yazmak — a-şi ieşi din minŃi; a-şi pierde minŃile; a înnebuni. ●akîlî aydînlanmak — a se face lumină în mintea cuiva. ●akîlî başîna kelmek — a-i veni mintea la cap; a-şi aduna minŃile; a se da pe brazdă; a-şi veni în cunoştinŃă; a se dezmetici. ●akîlî başîndan ketmek — a-şi pierde minŃile/capul; a-şi ieşi din minŃi; a se zăpăci; a izbucni. ●akîlî ğetmek — a-l duce capul; a fi în toate minŃile; a înŃelege; a pricepe; a-şi da seama. ●akîlî karîşmak — a-şi pierde capul; a se zăpăci. ●akîlî ketmek — a-i merge mintea; a-l duce capul; a fi bun la cap. ●akîlî tutmak — a-l apuca nebuniile; a-şi ieşi din minŃi. ●akîlîn almak — a-i lua minŃile; a-l scoate din minŃi. ●akîlîn başîna almak — a-şi băga minŃile în cap. ●akîlîn başîna toplamak — a-i veni mintea la cap; a-şi veni în cunoştinŃă; a-şi aduna minŃile; a se dezmetici; a se reculege. ●akîlîn ğîymak — a-şi aduna minŃile; a se reculege. ●akîlîn íşmek — a-şi bea minŃile; a i se urca băutura la cap. ●akîlîn kaşîrmak / kaybetmek — a-şi pierde capul; a se zăpăci; a-şi pierde minŃile; a înnebuni. ●akîlîn oynatmak — a-şi pierde minŃile; a înnebuni. ●akîlîna akelmek — a-i aminti; a-i aduce aminte. ●akîlîna esmek — a-i trece prin minte; a-i da prin gând. ●akîlîna kelgenín aytmak — a spune ce-i trece prin minte; a spune ce-i vine pe limbă; a fi slobod la gură. ●akîlîn akelmek — a-şi aminti; a-şi aduce aminte; a-i da prin gând. ●akîlîna ketírmek — a aminti; a aduce aminte. ●akîlîna salmak — a-şi pune în gând. ●akîlîna tagîlmak — a-l frământa gândul; a-l obseda; a avea (pe cineva sau ceva) în minte. ●akîlînda kalmak — a-i rămâne în minte; a avea (pe cineva sau ceva) în minte. ●akîlînda tutmak — a memora; a Ńine minte. ●akîlîndan geşmek — a-i trece prin minte; a-i da prin gând. ●akîlîndan şîkmamak — a-l frământa gândul; a-l obseda. ●başînda akîlî kalmamak — a-şi pierde capul; a-şi pierde minŃile; a se zăpăci; a se ramoli. // ●akîl almagan — aberant. ●akîl kabiliyetí — capacitate intelectuală. ●akîl kastalîklarî ílímí — psihiatrie. ●akîl tíşí — măsea de minte. ●akîldan zayîf — imbecil. ●akîlga yakîn — rezonabil; plauzibil. ●akîlî başîndan şîkkan — inconştient. ●akîlî zayîp — nătâng. ●akîlîma kelmiy — nu-mi amintesc. ●akîlîñ bar bolsa — dacă ai minte. ●akîlîñ yok bolsa — dacă nu ai minte. 
+akîlalgan adj. 1. sfătuit; lămurit. 2. inteligibil. 
+akîlalmasî s. înŃelegere; pricepere; pătrundere; lămurire. 
+akîlalmaz adj. 1. incredibil. 2. neinteligibil. 
+akîlbergen s. consilier; consultant; sfătuitor; sfetnic. 
+akîlberúw s. recomandare; sfat. 
+akîlbílímğísí s. (med.) psiholog. 
+akîlbílímí s. (med.) psihologie. 
+akîlbílímlí adj. (med.) psihologic. 
+akîldakalgan adj. memorabil. 
+akîldakalganlar s., pl. (lit.) memorii; amintiri; autobiografie. 
+akîldanğengíl adj. debil mintal. 
+akîldanğengíllík s. debilitate mintală. 
+akîldanğeñgíl adj. prostuŃ; prostănac; neghiob; debil. 
+akîldanğeñgíllík s. prostie; neghiobie; debilitate. 
+akîldanşîgargan adj. enervant; exasperant. 
+akîldanşîguw s. enervare; exasperare. 
+akîldanşîkkan adj. supărat; enervat; exasperat. 
+akîldanşîkmagan adj. obsedant. 
+akîldanşîkmama s. obsesie. 
+akîldanşîkmaz adj. neuitat; de neuitat; nepieritor. 
+akîldanyazgan adj. 1. (med.) alienat mintal; dement. 2. trăsnit; Ńicnit; Ńăcănit; smintit; dement; descreierat; diliu; înnebunit; nebun; zurliu. 
+akîldanyazuw s. 1. demenŃă; nebunie; sminteală; Ńicneală. 2. (med.) alienaŃie; demenŃă. 
+akîldanzayîp adj. prostuŃ; prostănac; neghiob; debil mintal; slab de minte. 
+akîldanzayîplîk s. prostie; neghiobie; debilitae. 
+akîldar s. intelectualitate. 
+akîldarlar s., pl. intelectualii; intelectualitate. 
+akîldatutmama s. uitare. 
+akîletílgen adj. prevăzut; întrezărit; presimŃit; chibzuit. 
+akîletken adj. cugetător; precaut; prevăzător. 
+akîletmeden adv. nechibzuit; imprudent. 
+akîletúw s. 1. întrezărire; previziune. 2. intuire; intuiŃie; precauŃie. 3. prevedere; precauŃie. 4. gândire; cugetare; cuget; reflecŃie; meditaŃie; chibzuire; cumpănire. 
+akîlgaakelgen adj. comemorativ. 
+akîlgaakelíngen adj. comemorat; evocat. 
+akîlgaakelúw s. 1. pomenire; amintire. 2. amintire; amintire; comemorare; evocare. 
+akîlgaakelúwğí s. pomelnic. 
+akîlgakelgen adj. pomenit; amintit. 
+akîlgakelmez adj. nebănuit. 
+akîlgakelmiykalgan adj. nebănuit.
 `;
 export default rawDictionaryText;
