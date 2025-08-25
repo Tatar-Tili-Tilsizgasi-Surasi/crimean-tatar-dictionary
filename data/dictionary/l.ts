@@ -16,7 +16,7 @@ lakîrdagî, Arap- s. (orn.) flecar arab (lat., Turdoides squamiceps).
 lakîrdagî, Irak- s. (orn.) flecar irakian (lat., Turdoides altirostris). 
 lakîrdak, sarîğa- s. (orn.) flecar berber (lat., Turdoides fulvus). 
 lakîrdak, sîradan- s. (orn.) flecar (lat., Turdoides caudaus). 
-lakon ik adj. laconic. 
+lakonik adj. laconic. 
 lakşa s. (gastron.) tăiŃei. // ●lakşa şorbasî — ciorbă cu tăiŃei. 
 laktoza s. lactoză. 
 lal I. adj. (d. ape) lin. II. s., adj. mut; necuvântător. 
