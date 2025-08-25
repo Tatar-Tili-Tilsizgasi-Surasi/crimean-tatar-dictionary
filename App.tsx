@@ -52,6 +52,9 @@ const App: React.FC = () => {
           <p className="text-lg text-gray-600 dark:text-gray-400">
             A searchable Crimean Tatar - Romanian Dictionary
           </p>
+          <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">
+            Based on the Crimean Tatar language standard from the University of Bucharest.
+          </p>
         </header>
 
         <main>
