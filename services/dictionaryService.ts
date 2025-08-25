@@ -1,326 +1,188 @@
-import { DictionaryEntry } from '../types';
 
-const rawDictionaryText = `
-a interj. a!; ah!; ay!;
-aba s. 1. soră mai mare. 2. mătuşă (după mamă). 3. mamă. 4. (text.) aba; dimie; pănură.
-abadan adj. 1. înfloritor; prosper. 2. locuit; populat.
-abadanlîk s. 1. centru populat; aşezare; localitate prosperă. 2. înflorire; prosperitate.
-abağî s. abagiu.
-abajur s. abajur.
-abakay s. (ent.) tarantulă (lat., Lycosa tarentula).
-abalamak v.i. a lătra.
-abalaw s. lătrat.
-abanoz s. (bot.) curmal-japonez; abanos; eben (lat., Dyospiros kaki).
-abat I. adj. 1. înfloritor; prosper. 2. locuit; populat. II. s. centru populat; aşezare; localitate prosperă. // ●abat bolmak a se popula; a fi locuit; a înflori; a prospera; a se popula; a se construi; a se renova; a se moderniza. ●abat etmek a popula; a construi; a renova; a moderniza. // ●abat kasaba localitate prosperă.
-abatlaşkan adj. locuit; populat; propăşit; prosper; înflorit; edificat; construit; modernizat; reclădit; recondiţionat; reconstruit; renovat; restaurat.
-abatlaşmak v.i. 1. a se popula; a fi locuit. 2. a înflori; a prospera.
-abatlaştîrîlgan adj. 1. populat; locuit. 2. construit; renovat; restaurat; modernizat.
-abatlaştîrîlmak v.i. 1. a se popula. 2. a se construi; a se renova; a se restaura; a se moderniza.
-abatlaştîrmak v.t. 1. a popula. 2. a construi; a renova; a restaura; a moderniza.
-abatlaştîruw s. 1. populare. 2. construire; renovare; restaurare; modernizare.
-abatlaştîruwğî s., adj. novator; renovator; restaurator; modernizator.
-abatlîk s. 1. construcţie; clădire. 2. renovare; restaurare; modernizare. // ●abatlîk íşlerí şantier de construcţii.
-abay s. (dim., fam.) mămică; mătuşică maternală; surioară mai mare. // ●abaym maraz mama e bolnavă.
-abaylama s. 1. sesizare; observare. 2. percepţie; simţire.
-abaylamak v.t. a observa; a sesiza; a simţi; a percepe; a băga de seamă.
-abaylanaalgan adj. perceptibil.
-abaylanaalmaz adj. imperceptibil.
-abaylanatan adj. perceptibil.
-abaylangan adj. observat; sesizat; simţit; perceput.
-abaylanîr adj. perceptibil.
-abaylanmadan adv. neobservat; pe neobservate; tiptil; fără a fi sesizat; fără a fi perceput. // ●abaylanmadan barmak a se furişa; a se strecura; a se fofila.
-abaylanmadanbargan adj. strecurat; furişat.
-abaylanmadanbaruw s. strecurare; furişare; fofilare.
-abaylanmagan adj. neobservat; nesesizat; neperceput.
-abaylanmak v.i. a fi perceput; a fi observat; a fi simţit.
-abaylanmaykalîr adj. imperceptibil.
-abaylanmaytan adj. imperceptibil.
-abaylanmaz adj. imperceptibil.
-abaylaw s. 1. sesizare; observare. 2. percepere; simţire.
-abaylawğî s. (d. oameni) observator.
-abaylîk s. maternitate; calitate de mamă.
-abayşîk s. (dim., pop.) măicuţă; mătuşică; surioară.
-abbas s. (zool.) leu (lat., Felis leo).
-Abbas s. (antrop. m., arab.) "Leul".
-abçes s. (med.) abces.
-abdal s., adj. cretin; imbecil; dobitoc.
-abdallaşkan adj. îndobitocit.
-abdallaşma s. îndobitocire.
-abdallaşmak v.i. a se îndobitoci.
-abdallaşuw s. îndobitocire.
-abdallîk s. cretinism; imbecilitate.
-abdest s. (relig., la musulmani) spălare rituală a corpului pentru purificare; abluţiune. // ●abdest almak (relig., la musulmani) a face abluţiune. ●abdestín bermek a muştrului; a trage cuiva o papară. ●abdestín bîzmak a merge la toaletă; a-şi face nevoile.
-abdestbergen adj. dojenitor; mustrător.
-abdestberúw s. dojană; muştruluială; burduşeală; ciomăgeală; mustrare; chelfăneală.
-abdestíberílgen adj. dojenit; muştruluit; burduşit; ciomăgit; mustrat.
-abdestkana s. toaletă; closet.
-Abdim'níñ-legelegí s. (orn.) barza lui Abdim (lat., Ciconia abdimii).
-Abdiy s. (antrop. m., arab.) "Proslăvitorul"; "Adoratorul"; "Robul"; "Slujitorul"; "Supusul".
-abdîragan adj. pripit.
-abdîrama interj. uşurel!; încetişor!;
-abdîramadan adv. încet; tacticos; lent; agale; alene.
-abdîramak v.i. a se pripi.
-abdîratmak v.t. a determina să se pripească.
-abdîraw s. pripă.
-Abdul s. (antrop. m., arab.) "Proslăvitorul (lui Allah)"; "Supusul (lui Allah)"; "Robul (lui Allah)".
-Abduladil s. (antrop. m., arab.) “Supusul Celui drept”.
-Abdulafuw s. (antrop. m., arab.) “Supusul Celui iertător”.
-Abdulalim s. (antrop. m., arab.) “Supusul Celui atotştiutor”.
-Abdulaliy s. (antrop. m., arab.) “Supusul Celui preaînalt”.
-Abdulazim s. (antrop. m., arab.) “Supusul Celui grandios”.
-Abdulaziz s. (antrop. m., arab.) “Supusul Celui preacinstit”.
-Abdulbakiy s. (antrop. m., arab.) “Supusul Celui veşnic”.
-Abdulbariy s. (antrop. m., arab.) “Supusul Făuritorului”.
-Abdulbasir s. (antrop. m., arab.) “Supusul Atotvăzătorului”.
-Abdulbasit s. (antrop. m., arab.) “Supusul Celui munific”.
-Abdulbatin s. (antrop. m., arab.) “Supusul Celui misterios”.
-Abdulbayis s. (antrop. m., arab.) “Supusul Celui ce reînsufleţeşte”.
-Abdulbediy s. (antrop. m., arab.) “Supusul Ziditorului”.
-Abdulberr s. (antrop. m., arab.) “Supusul Binefăcătorului”.
-Abdulehat s. (antrop. m., arab.) “Supusul Celui unic”; “Supusul Celui indivizibil”.
-Abdulevvel s. (antrop. m., arab.) “Supusul Celui ce este obârşia tuturor lucrurilor şi vieţuitoarelor”.
-Abdulfettah s. (antrop. m., arab.) “Supusul Desferecătorului”.
-Abdulgaffar s. (antrop. m., arab.) “Supusul Celui cruţător”.
-Abdulgafur s. (antrop. m., arab.) “Supusul Celui îndurător”.
-Abdulganiy s. (antrop. m., arab.) “Supusul Celui îmbelşugat”.
-Abdulğebbar s. (antrop. m., arab.) “Supusul Celui măiestru”.
-Abdulğelil s. (antrop. m., arab.) “Supusul Celui sublim”.
-Abdulğewat s. (antrop. m., arab.) “Supusul Celui generos”.
-Abdulhadiy s. (antrop. m., arab.) “Supusul Călăuzitorului”.
-Abdulhafiz s. (antrop. m., arab.) “Supusul Depozitarului”.
-Abdulhakem s. (antrop. m., arab.) “Supusul Judecătorului”.
-Abdulhakim s. (antrop. m., arab.) “Supusul Celui preaînţelept”.
-Abdulhakk s. (antrop. m., arab.) “Supusul Adevărului”.
-Abdulhalik/Abdulkalik s. (antrop. m., arab.) “Supusul Întemeietorului”.
-Abdulhalim s. (antrop. m., arab.) “Supusul Celui preabun”.
-Abdulhamit s. (antrop. m., arab.) “Supusul Celui preaslăvit”.
-Abdulhasip s. (antrop. m., arab.) “Supusul Socotitorului”.
-Abdulhayiy s. (antrop. m., arab.) “Supusul Celui aievea viu”.
-Abdulkabir s. (antrop. m., arab.) “Supusul Celui cunoscător”.
-Abdulkadir s. (antrop. m., arab.) “Supusul Celui atotputernic”.
-Abdulkahhar s. (antrop. m., arab.) “Supusul Celui covârşitor”.
-Abdul-Kasîm s. (topon.) Abdulcasim (astăzi Casimcea, prin unirea cu Caracasim) (jud. Tulcea).
-Abdulkawuy s. (antrop. m., arab.) “Supusul Celui preaputernic”.
-Abdulkayyum s. (antrop. m., arab.) “Supusul Atotdiriguitorului”.
-Abdulkebir s. (antrop. m., arab.) “Supusul Celui maiestuos”.
-Abdulkerim s. (antrop. m., arab.) “Supusul Celui mărinimos”.
-Abdulkuddus s. (antrop. m., arab.) “Supusul Celui sfânt şi neîntinat”.
-Abdulla(h) s. (antrop. m., arab.) "Supusul lui Allah"; "Proslăvitorul lui Allah"; "Robul lui Allah" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam)(nume purtat, de obicei, de noii convertiţi la religia islamică).
-Abdullátif s. (antrop. m., arab.) “Supusul Celui subtil”.
-Abdulmağit/Abdulmajit s. (antrop. m., arab.) “Supusul Celui nobil”.
-Abdulmalik s. (antrop. m., arab.) “Supusul Atotstăpânitorului”.
-Abdulmaniy s. (antrop. m., arab.) “Supusul Celui ce preîntâmpină”. 
-Abdulmeğit/Abdulmejit s. (antrop. m., arab.) “Supusul Celui glorios”. 
-Abdulmetin s. (antrop. m., arab.) “Supusul Celui dăinuitor”. 
-Abdulmubdiy s. (antrop. m., arab.) “Supusul Atoateziditorului”. 
-Abdulmugn iy s. (antrop. m., arab.) “Supusul Celui mănos”. 
-Abdulmuğip s. (antrop. m., arab.) “Supusul Celui simŃitor”. 
-Abdulmuhsiy s. (antrop. m., arab.) “Supusul Atoatesocotitorului”. 
-Abdulmukaddim s. (antrop. m., arab.) “Supusul Înaitestrămutătorului”. 
-Abdulmukit s. (antrop. m., arab.) “Supusul SusŃinătorului”. 
-Abdulmuksit s. (antrop. m., arab.) “Supusul Celui chibzuit”. 
-Abdulmukted ir s. (antrop. m., arab.) “Supusul Celui preaputincios”. 
-Abdulmuntakim s. (antrop. m., arab.) “Supusul Osânditorului”. 
-Abdulmusavvir s. (antrop. m., arab.) “Supusul Plămăduitorului”. 
-Abdulmuyit s. (antrop. m., arab.) “Supusul Reînvietorului”. 
-Abdulmuyiz s. (antrop. m., arab.) “Supusul Apreciatorului”. 
-Abdulmúheym in s. (antrop. m., arab.) “Supusul Proteguitorului”. 
-Abdulmúmin s. (antrop. m., arab.) “Supusul Chezaşului”. 
-Abdulnaf iy s. (antrop. m., arab.) “Supusul Celui priincios”. 
-Abdulnasîr/Abdulnes ir s. (antrop. m., arab.) “Supusul Protectorului”. 
-Abdulnebiy s. (antrop. m., arab.) "Supusul Profetului". 
-Abdulnur s. (antrop. m., arab.) “Supusul Luminii”. 
-Abdulsamet s. (antrop. m., arab.) “Supusul Absolutului”. 
-Abdulselam s. (antrop. m., arab.) “Supusul Păcii”. 
-Abdulşafiy s. (antrop. m., arab.) “Supusul Tămăduitorului”. 
-Abdulşahit s. (antrop. m., arab.) “Supusul Martorului”. 
-Abdulşekúr s. (antrop. m., arab.) “Supusul Celui recunoscător”. 
-Abdultewap s. (antrop. m., arab.) “Supusul Celui îngăduitor şi milostiv”. 
-Abdulvağit s. (antrop. m., arab.) “Supusul Descoperitorului”. 
-Abdulvahit s. (antrop. m., arab.) “Supusul Celui unic”. 
-Abdulvaliy s. (antrop. m., arab.) “Supusul Ocârmuitorului”. 
-Abdulvaris s. (antrop. m., arab.) “Supusul Urmaşului absolut”. 
-Abdulvasiy s. (antrop. m., arab.) “Supusul Celui nemărginit”. 
-Abdulvedút s. (antrop. m., arab.) “Supusul Celui preaiubit şi preaiubitor”. 
-Abdulvehhap s. (antrop. m., arab.) “Supusul Celui ce binecuvântează”. 
-Abdulvekil s. (antrop. m., arab.) “Supusul Celui împuternicit”. 
-Abdulzahir s. (antrop. m., arab.) “Supusul Celui neîndoielnic”. 
-Abdurrahim s. (antrop. m., arab.) “Supusul Celui iertător şi milostiv”. 
-Abdurrahman s. (antrop. m., arab.) “Supusul Celui priitor”. 
-Abdurrakip s. (antrop. m., arab.) “Supusul Priveghetorului”. 
-Abdurrazaak s. (antrop. m., arab.) “Supusul Atoatedătătorului”. 
-Abdurrefiy s. (antrop. m., arab.) “Supusul ÎnălŃătorului”. 
-Abdurreşit s. (antrop. m., arab.) “Supusul Celui ce călăuzeşte pe calea întemeiată”. 
-Abdurrewúf s. (antrop. m., arab.) “Supusul Celui blajin”. 
-aberasiya s. aberaŃie. 
-abide s. monument; statuie. //●kadîm abideler monumente antice. 
-Abide s. (antrop. f., arab.) "Proslăvitoarea"; "Adoratoarea"; "Roaba"; "Slujitoarea"; "Supusa". 
-abideviy adj. monumental. //●abideviy donatma decor monumental. 
-Abit s. (antrop. m., arab.) "Proslăvitorul"; "Adoratorul"; "Robul"; "Slujitorul"; "Supusul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
-abiy s. (dim., fam.) frăŃior mai mare; nene. 
-abîklîk-sabîklîk s. incoerenŃă. 
-abîk-sabîk adj. incoerent. 
-abîna-súrúne adv. pe brânci. 
-abîndîrma s. 1. aservire; înrobire; subjugare. 2. împiedicare; îngenunchere. 
-abîndîrmak v.t. 1. a împiedica; a îngenunchea (şi fig.). 2. (fig.) a supune. 
-abîndîruw s. 1. aservire; înrobire; 
-subjugare. 2. împiedicare; îngenunchere. 
-abîngan adj. 1. împiedicat; îngenuncheat; căzut în brânci. 2. (fig.) supus. 
-abînma s. 1. împiedicare. 2. (fig.) supunere. 
-abînmak v.i. 1. a se împiedica; a îngenunchea; a cădea în brânci. 2. (fig.) a se supune. // ●Amet ğúrgende abîna Amet se împiedică când merge. 
-abînuw s. 1. împiedicare. 2. (fig.) supunere. 
-abîr-şîbîr s. bagatele; mărunŃişuri; multe şi mărunte; fleacuri; chiŃibuşuri. 
-abla s. soră mai mare. 
-Abla-Kóy/Abla-Góy s. (topon.) Potârnichea (jud. ConstanŃa). 
-abonament s. abonament. 
-abonamentlí s., adj. abonat. 
-abonat s., adj. abonat. 
-abruy s. stimă; onoare; consideraŃie; respect. 
-abruylî adj. stimat; onorat; respectat. 
-abstrakt adj. abstract. 
-açetilena s. (chim.) acetilenă. 
-açetona s. (chim.) acetonă. 
-açit s. (chim.) acid. 
-açitlemek v.t. (chim.) a acidula. 
-açitleşken adj. (chim.) acid; acidulat. 
-açitleşme s. (chim.) acidulare. 
-açitleşmek v.i. (chim.) a se acidula. 
-açitleştírmek v.t. (chim.) a acidula. 
-açitleşúw s. (chim.) acidulare. 
-açitlí adj. (chim.) acid; acidulat. 
-açitlík s. (chim.) aciditate. 
-ada s. (geogr.) insulă; ostrov. //●takîm adalar arhipelag. 
-adak s. 1. promisiune; făgăduială; angajament. 2. logodnă. 
-adaklama s. promisiune; făgăduială; angajament. 
-adaklamak v.t. a promite; a făgădui; a se angajament. 
-adaklangan adj. promis; făgăduit; angajat. 
-adaklaw s. promisiune; făgăduială; angajament. 
-adaklawğî adj. promiŃător. 
-adaklî adj. promis; făgăduit; angajat. 
-adale s. (anat.) muşchi; musculatură. // ●sîguwğî adale (anat.) muşchi constrictor. 
-adaleíşí adj. intramuscular. 
-adalelí adj. (anat.) musculos. 
-adalesíz adj. (anat.) fără muşchi; fără musculatură. 
-adalesízlík s. (anat.) lipsă de muşchi; lipsă de musculatură. 
-adalet s. 1. justiŃie. 2. dreptate; echitate; justeŃe; imparŃialitate; nepărtinire. // ●adalet bakanlîgî / nazirlígí (pol.) ministerul justiŃiei. 
-adaletlí adj. drept; echitabil; just; imparŃial; nepărtinitor. 
-adaletsíz adj. injust; inechitabil; nedrept. 
-adaletsízlík s. inechitate; nedreptate. 
-adalgan adj. promis; făgăduit; angajat. 
-adalî adj. insular. 
-adam s. bărbat; om. 
-adamak v.t. a promite; a făgădui; a se angajament. 
-adamakîllî adj. perfect; desăvârşit; ireproşabil. 
-adañ I. adj. exterior; extern; externat; din afară. II. s. exterior; partea din exterior. // ●adañ etmek a externa. 
-adañda adv. afară; în exterior. 
-adañdan adv. dinspre afară; dinspre exterior. 
-adañdúniyalî adj. 1. extraterestru. 2. nepământean; transcendental. 
-adañdúniyalîk s. transcendentalism. 
-adañgadliy adj. (jur.) extrajudiciar. 
-adañka I. adj. exterior; extern; externat; din afară. II. s. exterior; partea din exterior. // ●a dañ k a e tm e k a externa. 
-adañkaadliy adj. (jur.) extrajudiciar. 
-adañkada adv. afară; în exterior. 
-adañkadan adv. dinspre afară; dinspre exterior. 
-adañkadúniyalî adj. 1. extraterestru. 2. nepământean; transcendental. 
-adañkadúniyalîk s. transcendentalism. 
-adañkaga adv. spre exterior. 
-adañkakanuniy adj. extralegal. 
-adañkameşruw adj. extralegal. 
-adañkanuniy adj. extralegal. 
-adañkatúzel adj. (jur.) extrajudiciar. 
-Adañ -Kúlesí s. (topon.) ("Turnul invadatorilor") Adamclisi (jud. ConstanŃa). 
-adañmeşruw adj. extralegal. 
-adañtúzel adj. (jur.) extrajudiciar. 
-ada-soganî s. (bot.) ceapă-de-mare (lat., Urginea maritima; Scilla maritima). 
-adaşayî s. (bot.) salvie; jale; jaleş; 
-zdraviŃă (lat., Salvia of f icinalis). 
-adaşayî, ğabîşkan - s. (bot.) cinsteŃ; lăpuş; jale-cleioasă; salvie-cleioasă (lat., Salvia gl utinosa). 
-adaşayî, múslí- s. (bot.) iarba-sfântului-Ioan (lat., Salvia sclarea). 
-adaşayî, túylí- s. (bot.) şerlai (lat., Salvia aethiopis). 
-adaşîk s. (geogr.) insuliŃă. 
-adaşkan adj. rătăcit. 
-adaşma s. rătăcire. 
-adaşmak v.i. a se rătăci. 
-adaşuw s. rătăcire. 
-adaw s. promisiune; făgăduială; angajament. 
-adawğî adj. promiŃător.
-`;
+import { DictionaryEntry, WordMeaning } from '../types';
 
-let dictionaryEntries: DictionaryEntry[] | null = null;
+// The base letters for which data files exist. One file per letter.
+const alphabetFiles = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'w', 'y', 'z'];
+
+// Maps specific alphabet characters (including diacritics) to their base file letter.
+const letterToFileMap: { [key: string]: string } = {
+    'a': 'a', 'á': 'a',
+    'b': 'b',
+    'ç': 'c',
+    'd': 'd',
+    'e': 'e',
+    'f': 'f',
+    'g': 'g', 'ğ': 'g',
+    'h': 'h',
+    'i': 'i', 'í': 'i', 'î': 'i',
+    'j': 'j',
+    'k': 'k',
+    'l': 'l',
+    'm': 'm',
+    'n': 'n', 'ñ': 'n',
+    'o': 'o', 'ó': 'o',
+    'p': 'p',
+    'r': 'r',
+    's': 's', 'ş': 's',
+    't': 't',
+    'u': 'u', 'ú': 'u',
+    'v': 'v',
+    'w': 'w',
+    'y': 'y',
+    'z': 'z',
+};
+
+// Cache to store parsed dictionary entries to avoid re-parsing files.
+const cache = new Map<string, DictionaryEntry[]>();
+
+const parseMeaningChunk = (chunk: string): WordMeaning => {
+  const partNumberMatch = chunk.match(/^([IVX]+\.)/);
+  const partNumber = partNumberMatch ? partNumberMatch[1] : undefined;
+  let remainingChunk = partNumber ? chunk.substring(partNumber.length).trim() : chunk;
+
+  const abbrMatch = remainingChunk.match(/^((?:[a-zA-Z]+\.,?\s*)+)/);
+  const abbreviation = abbrMatch ? abbrMatch[1].trim() : undefined;
+  let definitionsString = abbreviation ? remainingChunk.substring(abbrMatch[1].length).trim() : remainingChunk;
+  
+  let definitions: string[];
+
+  // If there are numbered definitions, split by number.
+  if (/^\s*\d+\.\s*/.test(definitionsString) || /\s+\d+\.\s*/.test(definitionsString)) {
+    definitions = definitionsString
+      .split(/\s*\d+\.\s*/)
+      .map(d => d.trim().replace(/[;.]\s*$/, ''))
+      .filter(Boolean);
+  } else {
+    // Treat as a single definition if not numbered
+    definitions = [definitionsString.trim().replace(/[.]\s*$/, '')].filter(Boolean);
+  }
+  
+  return { partNumber, abbreviation, definitions };
+};
 
 const parseDictionaryEntries = (text: string): DictionaryEntry[] => {
   const entries: DictionaryEntry[] = [];
   const lines = text.trim().split('\n');
-
-  // This character set includes all necessary letters for Crimean Tatar and Romanian,
-  // plus special characters found in some words like '()', '/', and apostrophes.
-  const wordChars = `[a-zA-ZăĂâÂîÎşŞţŢáÁçÇğĞíÍñÑóÓúÚéÉ’'()/]`;
+  const wordAndDefRegex = new RegExp(`^(.*?)\\s+((?:[IVX]+\\.|[a-z]+\\.).*)`);
 
   for (const line of lines) {
-    if (!line.trim()) {
-      continue;
+    if (!line.trim()) continue;
+
+    const match = line.match(wordAndDefRegex);
+    if (!match) continue;
+    
+    const word = match[1];
+    let restOfLine = match[2].trim();
+
+    if (restOfLine.startsWith('- ')) {
+        const definition = restOfLine.substring(2).trim();
+        entries.push({
+            word,
+            meanings: [{ definitions: [definition] }],
+            examples: [],
+        });
+        continue;
     }
 
-    // Case 1: 'word - definition' (e.g., 'a - Abdulmalik')
-    let match = line.match(`^(${wordChars}+(?:-${wordChars}+)*)\\s+-\\s+(.*)`);
-    if (match) {
-      entries.push({
-        word: match[1],
-        definition: match[2].trim().replace(/\s\s+/g, ' '),
-      });
-      continue;
-    }
+    const [meaningsPart, ...exampleParts] = restOfLine.split('//');
+    const examples = exampleParts.flatMap(p => p.split('●')).map(p => p.trim()).filter(Boolean);
 
-    // Case 2: 'word abbr. definition' (e.g., 'aba s. ...' or 'abat I. adj. ...')
-    // Allows for uppercase abbreviations like 'I.'.
-    match = line.match(`^(${wordChars}+(?:-${wordChars}+)*)\\s+((?:[a-zA-Z]+\\.,?\\s*)+)(.*)`);
-    if (match) {
-      entries.push({
-        word: match[1],
-        abbreviation: match[2].trim(),
-        definition: match[3].trim().replace(/\s\s+/g, ' '),
-      });
-      continue;
+    const meanings: WordMeaning[] = [];
+    const meaningChunks = meaningsPart.trim().split(/\s+(?=[IVX]+\.\s)/).map(s => s.trim()).filter(Boolean);
+    
+    if (meaningChunks.length > 0) {
+        meaningChunks.forEach(chunk => meanings.push(parseMeaningChunk(chunk)));
+    } else if (meaningsPart.trim()) {
+        meanings.push(parseMeaningChunk(meaningsPart.trim()));
     }
     
-    // Lines that don't match either pattern are ignored, treating each valid line as a new entry.
+    if (word && (meanings.length > 0 || examples.length > 0)) {
+        entries.push({ word, meanings, examples });
+    }
   }
 
   return entries;
 };
 
-
-const getDictionaryEntries = (): Promise<DictionaryEntry[]> => {
-  return new Promise((resolve) => {
-    if (dictionaryEntries) {
-      resolve(dictionaryEntries);
-    } else {
-      dictionaryEntries = parseDictionaryEntries(rawDictionaryText);
-      resolve(dictionaryEntries);
+const loadDictionaryFile = async (fileLetter: string): Promise<DictionaryEntry[]> => {
+    if (cache.has(fileLetter)) {
+        return cache.get(fileLetter)!;
     }
-  });
+    
+    try {
+        // Dynamically import the dictionary data file.
+        const module = await import(`../data/dictionary/${fileLetter}.ts`);
+        const rawDictionaryText = module.default;
+        const entries = parseDictionaryEntries(rawDictionaryText);
+        cache.set(fileLetter, entries);
+        return entries;
+    } catch (error) {
+        console.warn(`Could not load dictionary file for letter '${fileLetter}':`, error);
+        // Return empty array and cache it to prevent future failed attempts for the same letter in the same session.
+        cache.set(fileLetter, []);
+        return [];
+    }
 };
 
 export const searchDictionary = async (term: string): Promise<DictionaryEntry[]> => {
-  const entries = await getDictionaryEntries();
   if (!term.trim()) {
     return [];
   }
 
   const lowerCaseTerm = term.toLowerCase();
-  return entries.filter(entry => 
-    entry.word.toLowerCase().startsWith(lowerCaseTerm) || 
-    entry.definition.toLowerCase().includes(lowerCaseTerm)
-  );
+  const allResults: DictionaryEntry[] = [];
+  const addedWords = new Set<string>(); // To prevent duplicate entries in results
+
+  // Iterate over all possible dictionary files to perform a comprehensive search.
+  for (const fileLetter of alphabetFiles) {
+    const entries = await loadDictionaryFile(fileLetter);
+    const results = entries.filter(entry => {
+      if (addedWords.has(entry.word)) {
+        return false;
+      }
+
+      if (entry.word.toLowerCase().startsWith(lowerCaseTerm)) {
+        return true;
+      }
+
+      const isInDefinitions = entry.meanings.some(m => 
+        m.definitions.some(d => d.toLowerCase().includes(lowerCaseTerm))
+      );
+      if (isInDefinitions) {
+        return true;
+      }
+
+      const isInExamples = entry.examples.some(p => p.toLowerCase().includes(lowerCaseTerm));
+      if (isInExamples) {
+        return true;
+      }
+      
+      return false;
+    });
+    
+    for (const entry of results) {
+        if (!addedWords.has(entry.word)) {
+            allResults.push(entry);
+            addedWords.add(entry.word);
+        }
+    }
+  }
+  
+  return allResults;
 };
 
 export const getEntriesByLetter = async (letter: string): Promise<DictionaryEntry[]> => {
-    const entries = await getDictionaryEntries();
-    if (!letter || letter.length !== 1) {
+    if (!letter) {
         return [];
     }
+    
+    const fileLetter = letterToFileMap[letter.toLowerCase()];
+    if (!fileLetter) {
+        return [];
+    }
+
+    const entries = await loadDictionaryFile(fileLetter);
     const lowerCaseLetter = letter.toLowerCase();
-    // A special collation for Crimean Tatar might be needed for perfect sorting,
-    // but for filtering, this is sufficient.
+    
     return entries.filter(entry => entry.word.toLowerCase().startsWith(lowerCaseLetter));
 };
