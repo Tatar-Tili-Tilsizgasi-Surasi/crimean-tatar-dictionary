@@ -46,7 +46,7 @@ const App: React.FC = () => {
           <div className="flex items-center justify-center mb-2">
             <BookOpenIcon className="h-10 w-10 text-blue-600 dark:text-blue-400" />
             <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-800 dark:text-white ml-3">
-              Crimean Tatar Dictionary
+              Sózlík
             </h1>
           </div>
           <p className="text-lg text-gray-600 dark:text-gray-400">
@@ -114,7 +114,7 @@ const App: React.FC = () => {
 
             {!isLoading && searchedTerm === null && selectedLetter === null && (
                <div className="text-center p-10 bg-white dark:bg-slate-800 rounded-lg shadow-md">
-                <h3 className="text-xl font-semibold mb-2">Welcome to the Dictionary</h3>
+                <h3 className="text-xl font-semibold mb-2">Welcome to Sózlík!</h3>
                 <p className="text-gray-600 dark:text-gray-400">Enter a word above or select a letter to begin your search.</p>
               </div>
             )}
