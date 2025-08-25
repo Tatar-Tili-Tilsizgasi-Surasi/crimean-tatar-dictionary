@@ -1041,14 +1041,10 @@ akşa-suwtorgay s. (orn.) prundăraş de sărătură (lat., Charadrius alexandri
 akşa-şímşíge s. (orn.) piŃigoi azuriu (lat., Parus cyanus).
 akşateregí, Amerika- s. (bot.) arŃar american (lat., Acer negundo). 
 akşateregí, Frengístan- s. (bot.) jugastru de Banat (lat., Acer monspessulanum).
-akşateregí, kîr- s. (bot.) jugastru 
-(lat., Acer campestre). 
-akşateregí, şeker- s. (bot.) artar 
-canadian (lat., Ace r saccha ru m). 
-akşaterek s. (bot.) arŃar (lat., Acer 
-platanoides). 
-akşaterek, gúmúş- s. (bot.) arŃar 
-argintiu (lat., Ace r sacc harin um). 
+akşateregí, kîr- s. (bot.) jugastru (lat., Acer campestre). 
+akşateregí, şeker- s. (bot.) artar canadian (lat., Acer saccharum). 
+akşaterek s. (bot.) arŃar (lat., Acer platanoides). 
+akşaterek, gúmúş- s. (bot.) arŃar argintiu (lat., Acer saccharinum). 
 akşa-toygîn s. (orn.) erete alb (lat., Circus macrourus). 
 akşaygan adj. albit; înălbit. 
 ak-şaylak s. (orn.) gaie albă (lat., Elanus caerulus). 
