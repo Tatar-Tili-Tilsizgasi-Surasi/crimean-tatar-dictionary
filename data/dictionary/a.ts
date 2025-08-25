@@ -774,18 +774,18 @@ Ak-Kadîn s. (topon.) Alba (jud. Tulcea).
 akkalaklî adj. breaz. 
 akkan s. (biol.) limfă. 
 akkan adj. fluid. 
-ak-kanatlî-boraganğî s. (orn.) rândunica furtunii gulerată (lat., Pterodroma le ucoptera). 
-ak-kanatlî-boztorgay s. (orn.) ciocârlie cu aripi albe (lat., Melanocoryp ha le ucoptera). 
-ak-kanatlî-karkîldak s. (orn.) chirighiŃă cu aripi albe (lat., Chlidonias le ucopterus). 
+ak-kanatlî-boraganğî s. (orn.) rândunica furtunii gulerată (lat., Pterodroma leucoptera). 
+ak-kanatlî-boztorgay s. (orn.) ciocârlie cu aripi albe (lat., Melanocorypha leucoptera). 
+ak-kanatlî-karkîldak s. (orn.) chirighiŃă cu aripi albe (lat., Chlidonias leucopterus). 
 ak-kanatlî-kîyîşawuz s. (orn.) forfecuŃă bălŃată (lat., Loxia leucoptera). 
-ak-kanatlî-kîzîlkuyruk s. (orn.) codroş cu aripă albă (lat., Phoenicu ru s e rythrogaster). 
-ak-kanatlî-kúrte s. (orn.) ciocănitoare cu aripi albe (lat., Dend rocopos leucopterus). 
-ak-kanatlî-terekkakkan s. (orn.) ciocănitoare cu aripi albe (lat., Dend rocopos leucopterus). 
-ak-kanatlî-tokîldak s. (orn.) ciocănitoare cu aripi albe (lat., Dend rocopos leucopterus). 
+ak-kanatlî-kîzîlkuyruk s. (orn.) codroş cu aripă albă (lat., Phoenicurus erythrogaster). 
+ak-kanatlî-kúrte s. (orn.) ciocănitoare cu aripi albe (lat., Dendrocopos leucopterus). 
+ak-kanatlî-terekkakkan s. (orn.) ciocănitoare cu aripi albe (lat., Dendrocopos leucopterus). 
+ak-kanatlî-tokîldak s. (orn.) ciocănitoare cu aripi albe (lat., Dendrocopos leucopterus). 
 ak-kanatlî-tultokîmağî s. (orn.) pasăre-episcop cu aripi albe (lat., Euplectes albonotatus). 
 akkankóz s. izvor. 
 akkanyuwarî s. (anat.) limfocită. 
-ak-kara-ótlegen s. (orn.) parulă alb-negru (lat., M niotilta varia). 
+ak-kara-ótlegen s. (orn.) parulă alb-negru (lat., Mniotilta varia). 
 ak-kardeniye s. (bot.) gardenie (lat., Gardenia thunbergia). 
 ak-karînlî-akkózlík s. (orn.) privighetoare-cu-ochi-alb cu piept alb (lat., Zosterops abyssinica). 
 ak-karînlî-biydayak s. (orn.) lişiŃă cu piept alb (lat., Amaurornis phoenicurus).
