@@ -326,7 +326,7 @@ afflî adj. 1. (jur.) graŃiat; amnistiat. 2. iertat; scutit.
 affuw I. adj. iertător; indulgent; îndurător; îngăduitor; milostivit; clement. II. s. 1. iertare; scutire. 2. (jur.) graŃiere; amnistie. // ●affuw bolmak — a fi iertat; a fi scuzat; a fi graŃiat. ●affuw etmek — a ierta; a scuza; a graŃia. // ●affuw etílealgan — scuzabil. ●affuw etíñíz! — iertaŃi-mă!; 
 affuwlî adj. 1. (jur.) graŃiat; amnistiat. 2. iertat; scutit. 
 afgan s., adj. afgan. 
-Afgan îstan s. (topon.) Afganistan. 
+Afganîstan s. (topon.) Afganistan. 
 afganîstanlî s., adj. afgan. 
 Afife s. (antrop. f., arab.) “Cea smerită”. 
 afiş s. afiş. 
@@ -376,5 +376,110 @@ agarkuyruk s. (anat.) coccis; noadă.
 agarlarseriyetí s. (fiz.) hidromecanică. 
 agarma s. 1. albire; înălbire; încărunŃire. 2. iluminare (de ziuă). 
 agarmak v.i. 1. a se albi; a se înălbi; a deveni alb. 2. a încărunŃi. 3. a se lumina (de ziuă). // ●kún agarmak — a se lumina de ziuă. ●şáşí-başî agarmak — a-i albi părul; a încărunŃi. // ●bírkaş dakkada agardî — în câteva minute a albit. ●kîrmîzîm agardî — mi s-a decolorat roşul. ●ortalîk agargan hálínde — cu toate că se luminase.
+agarsuw s. apă curgătoare. 
+agartkan adj. albitor; înălbitor. 
+agartmak v.t. a albi; a înălbi; a face să se înălbească. // ●sakalîn tírmende agartmak — a încărunŃi de pomană. ●şáşín agartmak — a-i scoate peri albi. 
+agartuwğî adj. albitor; înălbitor. 
+agaruw s. 1. iluminare. 2. albire; înălbire; încărunŃire. 
+agaş I. adj. lemnos. II. s. 1. lemn. 2. (constr.) căprior; grindă; consolă; bârnă. 3. stănoagă. // ●agaş ğarmak / parlamak — a sparge lemne. // ●agaş kewdesí — trunchi de copac. ●agaş kópír — pod de lemn. ●agaş kopkasî — cofă. ●agaş parlagan — spărgător de lemne. ●ğangan agaş — rug. ●kîrmîzî agaş — mahon. ●kurî agaş — uscături. ●parlawlî agaş — lemne sparte. 
+agaşaşagan s. xilofag. 
+agaşayak s. 1. pilug; picior de lemn; proteză de lemn a unui picior. 2. olog cu picior de lemn. 3. capră de tăiat lemne. 
+agaşbaş î s. buturugă; butuc; buştean; ciot; cioată. 
+agaşbaşîday adj. butucănos; cioturos. 
+agaşbaşlî adj. butucănos; cioturos. 
+agaşlî adj. (d. materiale) de natură lemnoasă; asemănător cu lemnul; xiloid. 
+agaş-şelegí s. zmeură. 
+agaş-şeleklígí s. (bot.) zmeur; zmeurar (lat., R ubus idaeus). 
+agaştan adj. de lemn; din lemn; lemnos. // ●agaştan yasalgan kapî — uşă făcută din lemn. 
+agaştaósken s. xilofil. 
+agaştay adj. (d. materiale) de natură lemnoasă; asemănător cu lemnul; xiloid. 
+agaştokîs î s. (bot.) xilem. 
+ag-atîrîş I. adj. (ist.)(ak atîrîş-"separaŃia albă") elitist; nobil; autohton; indigen; băștinaș; neaoș. II. s., adj. (ist.)(ak atîrîş-"separaŃia albă") agatârş; elită; nobil; nobilime; autohton; indigen; băștinaș; tătar. 
+agîm s. 1. curent; curgere. 2. (geogr.) pantă; povârniş; versant; coastă. 3. înclinaŃie; vocaŃie; aptitudine; tendinŃă. // ●agîm anatîgaşî — priză electrică. ●agîm şebekesí — reŃea electrică. ●dalgalî / dulkunlî agîm — (electr.) curent alternativ. ●dogrî agîm — (electr.) curent continuu. ●hawa agîmî — curent de aer. ●istikra agîmî — curent de inducŃie. ●şagîlgan / elektrik agîm — curent electric. 
+agîmsuw s. fluviu; râu. 
+agîn s. 1. incursiune; atac. 2. afluenŃă. // ●agîn etmek — a ataca. 
+agîn-agîn adv. valuri – valuri; buluc; droaie. 
+agînğî s. (mil.) avangardă; diversionist; atacant. 
+agîntî s. 1. curent; curs. 2. (med.) supuraŃie. 3. (fig.) înclinaŃie; predispoziŃie. // ●agîntîga kúrek şekmek — a munci fără rost. 
+agîstos s. (cron.) august. 
+agîş s. curgere; scurgere. 
+agît I. adj. (anat.) xifoid; xifoidian. II. s. 1. (anat.) cartilaj xifoid. 2. piept de pasăre. 
+agîzdîrîlgan adj. vărsat; scurs; picurat; drenat. 
+agîzdîrma s. vărsare; scurgere; picurare; drenaj. 
+agîzdîrmak v.t. a scurge; a picura; a vărsa; a drena; a determina să curgă. // ●kózyaşî agîzdîrmak — a vărsa lacrimi; a plânge. 
+agîzdîruw s. vărsare; scurgere; picurare; drenaj. 
+agîzma s. scurgere; secare. 
+agîzmak v.t. a scurge; a picura; a vărsa; a drena; a determina să curgă. 
+agîzuw s. vărsare; scurgere; picurare; drenaj. 
+agnostiçism s. (fil.) agnosticism. 
+agnostik s., adj. (fil.) agnostic. 
+agoniya s. agonie. 
+agronom s. agronom. 
+agronomik adj. agronomic. 
+agronomiya I. adj. agronomic. II. s. agronomie. 
+agronomiyağî s. agronom. 
+agronomiyalî adj. agronomic. 
+agroteknika s. agrotehnică. 
+aguw s. (bot.) leandru; oleandru; rododafin (lat., Ne rium oleande r). 1. (fiz.) flux. 2. curgere; scurgere; vărsare. 3. otravă; venin; toxină. 
+aguwdalî s. (bot.) leandru; oleandru; rododafin (lat., Neriu m olea nde r). 
+aguwgakarşî s. antidot; antitoxină. 
+aguw-gúlí s. (bot.) rododendron; smirdar; bujor-de-munte; trandafir-de-munte; iederă (lat., Rhodode ndro n kotschyi). 
+aguwğî adj. (d. ape) curgător. 
+aguwlagan adj. otrăvitor; veninos. 
+aguwlama s. otrăvire; intoxicaŃie; înveninare. 
+aguwlamak v.t. a otrăvi; a intoxica; a învenina. 
+aguwlangan adj. otrăvit; înveninat; intoxicat. 
+aguwlanma s. otrăvire; intoxicaŃie; înveninare. 
+aguwlanmagan adj. nepoluat. 
+aguwlanmak v.i. a se otrăvi; a se intoxica; a se învenina. 
+aguwlanuw s. otrăvire; intoxicaŃie; înveninare. 
+aguwlaw s. otrăvire; intoxicaŃie; înveninare. 
+aguwlî adj. otrăvit; înveninat; veninos; intoxicat; toxic. 
+aguwluk s. toxicitate. 
+aguwotî s. (bot.) cucută; dudău (lat., Coniu m mac ulatum). 
+aguwotî, suw - s. (bot.) cucută-de-apă (lat., Cicuta virosa). 
+aguwsuzlaşkan adj. dezintoxicat. 
+aguwsuzlaştîrma s. dezintoxicare. 
+aguwsuzlaştîrmak v.t. a dezintoxica. 
+aguwsuzlaştîruw s. dezintoxicare. 
+ağa s. mamă (dacă bunica încă mai trăieşte). 
+ağaba adv. oare?; nu cumva?; 
+ağagan s. fulger; trăsnet. 
+ağaganlî adj. fulgerat. 
+ağar adj. 1. destoinic; vrednic. 2. ager; isteŃ. 
+ağarlîk s. 1. destoinicie; vrednicie. 2. agerime; isteŃime. 
+ağay s. (dim., fam.) mămică; maică (termen utilizat cât timp bunica este în viaŃă). 
+ağayîp I. adj. ciudat; straniu. II. interj. ciudat!; 
+ağayşîk s. (dim., pop.) măicuŃă (termen utilizat cât timp bunica este în viaŃă). 
+ağele I. adj. grăbit; rapid; iute. II. s. 1. grabă; iuŃeală; pripă. 2. urgenŃă. //●ağele etmek — a da zor; a se grăbi. ●ağelege kelmek — a impune grabă; a cere iuŃeală. ●ağelelí bolmak — a impune grabă; a cere iuŃeală. //●ağele etemen — mă grăbesc. ●ağele etme! — uşurel!; încetişor!; ●ağele turum — situaŃie de urgenŃă. ●ağelem yok — nu mă grăbesc. ●asta ağele et! — grăbeşte-te încet!; ●eger ağeleñíz bolsa — dacă vă grăbiŃi. ●ne ağeleñíz bar ? — de ce vă grăbiŃi?; ●şo kadar ağelesí bar mî? — este chiar atât de urgent?; 
+ağele-ağele adv. în grabă; în pripă; de mântuială. 
+ağeleden adv. în grabă; în pripă; de mântuială. 
+ağeleetmeden adv. agale; alene; încet; încetişor; lent; liniştit; tacticos; uşurel; fără grabă. 
+ağeleettírúw s. activizare. 
+ağelegeşakîruw s. grăbire; apel; îndemn. 
+ağeleğí adj. presant; precipitant; grabnic; urgent; care impune urgentarea. 
+ağeleleştírmek v.t. a grăbi; a urgenta. 
+ağelelí adj. grăbit; zorit; agitat; impacientat; nerăbdător. 
+ağelesíbolgan adj. grăbit. 
+ağelesíz adj., adv. încet; tacticos; lent; domol; greoi; agale; alene. 
+ağelesízlík s. încetineală. 
+ağem s. iranian; persan. 
+Ağem-aykabagî s. (orn.) lăcar persan (lat., Acro cephalus griseldis). 
+ağem-borazanî s. (bot.) begonie (lat., Be gonia). 
+Ağem-ğelkuwganî s. (orn.) ielcovan persan; furtunar persan; pasărea-furtunii persană (lat., Puf f inus persicus). 
+ağemiy adj. 1. începător; necalificat. 2. nepriceput; novice; ageamiu; diletant. 
+ağemiylík s. stângăcie; neîndemânare. 
+ağem-kemenegí s. (bot.) chimion-amar (lat., C umin um cymin um). 
+Ağem-kúrteşígí s. (orn.) Ńiclean persan; Ńiclean de stâncă estic (lat., Sitta tephronota). 
+Ağemler s. (topon.) ("Perşii") CiobăniŃa (jud. ConstanŃa). 
+ağemlí adj. iranian; persan. 
+Ağem-sayrawğusî s. (orn.) bulbul persan (lat., Pycnonotus jocosus). 
+Ağem-şîbawî s. (orn.) lăcar persan (lat., Acro cephalus griseldis). 
+ağem-ziresí s. (bot.) chimion-amar (lat., C umin um cyminu m). 
+ağenda s. agendă. 
+ağensiya s. agenŃie. // ●ğolşîlík ağensiyasî — agenŃie de voiaj. ●tiğaret ağensiyasî — agenŃie comercială. 
+ağent s. agent; spion. //●haleket / trafik ağentí — agent de circulaŃie. 
+ağil adj. grabnic; urgent; presant. //●ağil şifalar! — însănătoşire grabnică!; ●ağil turum — situaŃie de urgenŃă. 
+ağiz I. adj. inapt; incapabil. II. s. 1. incapacitate; neputinŃa. 2. debilitate; slăbiciune. // ●ağiz kalmak — a fi incapabil să…; a nu fi în stare să…; a nu putea să…;
 `;
 export default rawDictionaryText;
