@@ -150,7 +150,7 @@ Trigonella foenum graecum).
 çomak s. ciomag; ghioagă. 
 çuma s. (med.) ciumă; pestă. 
 çumalî adj. (med.) ciumat. 
-çuş -çuş interj. ciuş!; 
+çuş-çuş interj. ciuş!; 
 çúke s. (iht.) cegă (lat., Acipenser ruthenus). 
 çúnkí conj. pentru că; deoarece. 
 çúyún s. (bot.) săpunariŃă; spumariŃă; odagaci; ciuin (lat., Saponaria officinalis).
