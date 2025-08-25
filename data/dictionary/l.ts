@@ -3,48 +3,9 @@ la s. (muz.) la.
 labîz s. melodie. 
 labîzlî adj. melodic; melodios. 
 laborant s. laborant. 
-laborator s. laborator. // ●m e k t e p 
-l a b o r a t o r î laborator şcolar. 
-laboratorğ î s. laborant. 
-laf s. 1. vorbă; cuvânt. 2. vorbărie; 
-vorbe goale. // ●á r úw l a f m an 
-añ l a tm a k a lua pe cineva cu 
-binişorul. ●aw u z und an l a fn î n 
-a lm a k a lua cuiva vorba din gură; a 
-spune tocmai ceea ce voia să zică 
-alcineva. ●a y t k an l a f l a r î n a s a k 
-b o lm a k a-şi păzi gura; a-şi măsura 
-cuvintele. ●b a l a b an l a f a tm a k a 
-arunca vorbe mari. ●b í r l a f 
-k a ş î rm a k a scăpa o vorbă. ●e k í 
-l a f a y tm a k a spune cuiva două 
-vorbe. ●l a f a ñ l a tm a k a explica; a 
-se face înŃeles. ●l a f e tm e k a vorbi; 
-a discuta. ●l a f g e zm e k a umbla 
-vorba; a se zvoni. ●l a f k a r am a k a 
-căuta capăt de vorbă; a se da în vorbă 
-cu cineva; a trage de limbă. ●l a f 
-k a tm a k a se băga în vorbă; a 
-interveni în discuŃie. ●l a f s a tm a k a 
-vinde pielea ursului din pădure. 
-●l a f î n ğ u tm a k a-şi pune frâu la 
-limbă; a-şi Ńine limba în gură; a-şi Ńine 
-gura. ●l a f î n t a r tm a k a-şi retrage 
-cuvântul; a retracta; a se dezice. 
-●l a f î n t u tm a k a se Ńine de cuvânt. 
-●l a f î nda t u rm a k a se Ńine de 
-cuvânt. ●l a f î n dan k a y tm a k a nu 
-se Ńine de cuvânt; a-şi retrage 
-cuvântul; a retracta; a se dezice. 
-●l a f î nda n ş î km am a k a nu ieşi 
-din cuvântul cuiva. ●l a f k a 
-k í r í şm e k a se băga în vorbă; a 
-interveni în discuŃie. ●l a f k a 
-t u rm a k a sta de vorbă; a sta de 
-poveşti; a sta la taifas. ●l a f k a 
-t u tm a k a Ńine de vorbă. ●l a f n î 
-d e ñ í ş t í rm e k a schimba vorba. 
-●l a f t a n a ñ l am a k a asculta de cuvânt. // ●árúw laf — vorbă bună. ●gúzel laf — compliment. ●kurî laf — vorbă goală. ●laf ustasî — orator. ●sáde bírkaş laf bílemen — ştiu doar câteva cuvinte. ●tatlî laf — vorbe dulci. 
+laborator s. laborator. // ●mektep laboratorî — laborator şcolar. 
+laboratorğî s. laborant. 
+laf s. 1. vorbă; cuvânt. 2. vorbărie; vorbe goale. // ●árúw laf man añlatmak — a lua pe cineva cu binişorul. ●awuzundan lafnîn almak — a lua cuiva vorba din gură; a spune tocmai ceea ce voia să zică alcineva. ●aytkan laflarîna sak bolmak — a-şi păzi gura; a-şi măsura cuvintele. ●balaban laf atmak — a arunca vorbe mari. ●bír laf kaşîrmak — a scăpa o vorbă. ●ekí laf aytmak — a spune cuiva două vorbe. ●laf añlatmak — a explica; a se face înŃeles. ●laf etmek — a vorbi; a discuta. ●laf gezmek — a umbla vorba; a se zvoni. ●laf karamak — a căuta capăt de vorbă; a se da în vorbă cu cineva; a trage de limbă. ●laf katmak — a se băga în vorbă; a interveni în discuŃie. ●laf satmak — a vinde pielea ursului din pădure. ● afîn ğutmak — a-şi pune frâu la limbă; a-şi Ńine limba în gură; a-şi Ńine gura. ●lafîn tartmak — a-şi retrage cuvântul; a retracta; a se dezice. ●lafîn tutmak — a se Ńine de cuvânt. ●lafînda turmak — a se Ńine de cuvânt. ●lafîndan kaytmak — a nu se Ńine de cuvânt; a-şi retrage cuvântul; a retracta; a se dezice. ●lafîndan şîkmamak — a nu ieşi din cuvântul cuiva. ●lafka kíríşmek — a se băga în vorbă; a interveni în discuŃie. ●lafka turmak — a sta de vorbă; a sta de poveşti; a sta la taifas. ●lafka tutmak — a Ńine de vorbă. ●lafnî deñíştírmek — a schimba vorba. ●laftan añlamak — a asculta de cuvânt. // ●árúw laf — vorbă bună. ●gúzel laf — compliment. ●kurî laf — vorbă goală. ●laf ustasî — orator. ●sáde bírkaş laf bílemen — ştiu doar câteva cuvinte. ●tatlî laf — vorbe dulci. 
 lafezúw s. emfază. 
 lafsîz adj. fără vorbe. 
 lafsîzkalma s. scăpare; lapsus. 
