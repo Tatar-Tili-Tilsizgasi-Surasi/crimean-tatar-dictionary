@@ -200,8 +200,7 @@ adaleíşí adj. intramuscular.
 adalelí adj. (anat.) musculos. 
 adalesíz adj. (anat.) fără muşchi; fără musculatură. 
 adalesízlík s. (anat.) lipsă de muşchi; lipsă de musculatură. 
-adalet s. 1. justiŃie. 2. dreptate; 
-echitate; justeţe; imparţialitate; nepărtinire. // ●adalet bakanlîgî / nazirlígí — (pol.) ministerul justiţiei. 
+adalet s. 1. justiŃie. 2. dreptate; echitate; justeţe; imparţialitate; nepărtinire. // ●adalet bakanlîgî / nazirlígí — (pol.) ministerul justiţiei. 
 adaletlí adj. drept; echitabil; just; imparţial; nepărtinitor. 
 adaletsíz adj. injust; inechitabil; nedrept. 
 adaletsízlík s. inechitate; nedreptate. 
@@ -232,7 +231,7 @@ adañmeşruw adj. extralegal.
 adañtúzel adj. (jur.) extrajudiciar. 
 ada-soganî s. (bot.) ceapă-de-mare (lat., Urginea maritima; Scilla maritima). 
 adaşayî s. (bot.) salvie; jale; jaleş; zdraviţă (lat., Salvia officinalis). 
-adaşayî, ğabîşkan - s. (bot.) cinsteţ; lăpuş; jale-cleioasă; salvie-cleioasă (lat., Salvia glutinosa). 
+adaşayî, ğabîşkan- s. (bot.) cinsteţ; lăpuş; jale-cleioasă; salvie-cleioasă (lat., Salvia glutinosa). 
 adaşayî, múslí- s. (bot.) iarba-sfântului-Ioan (lat., Salvia sclarea). 
 adaşayî, túylí- s. (bot.) şerlai (lat., Salvia aethiopis). 
 adaşîk s. (geogr.) insuliţă. 
