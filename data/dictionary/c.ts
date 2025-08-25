@@ -126,7 +126,7 @@ Trigonella foenum graecum).
 çiniyğílík s. 1. arta de prelucrare a faianŃei. 2. obiecte de faianŃă. 
 çinlí s., adj. chinez; chinezesc. 
 çirk s. circ. 
-çiroza s. (med.) ciroză. //●kara ğíger çirozasî — (med.) ciroză. 
+çiroza s. (med.) ciroză. //●karağíger çirozasî — (med.) ciroză. 
 çisterna s. cisternă. // ●çisterna vagonî — vagon cisternă. 
 çistita s. (med.) cistită. 
 çiş s. (fam.) urină. // ●çiş etmek — (fam.) a urina. 
