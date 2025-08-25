@@ -789,5 +789,118 @@ ak-kara-ótlegen s. (orn.) parulă alb-negru (lat., Mniotilta varia).
 ak-kardeniye s. (bot.) gardenie (lat., Gardenia thunbergia). 
 ak-karînlî-akkózlík s. (orn.) privighetoare-cu-ochi-alb cu piept alb (lat., Zosterops abyssinica). 
 ak-karînlî-biydayak s. (orn.) lişiŃă cu piept alb (lat., Amaurornis phoenicurus).
+ak-karînlî-boraganğî s. (orn.) fregată cu pântece alb (lat., Fregata grallaria). 
+ak-karînlî-sîyîrşîk s. (orn.) graur ametist (lat., Cinnyricinclus leucogaster). 
+ak-karînlî-surkarlîgaş s. (orn.) drepnea mare (lat., Apus melba; Tachymarptis melba). 
+ak-karînlî-şegertkíğí s. (orn.) graur ametist (lat., Cinnyricinclus leucogaster). 
+ak-karînlî-yas-kazî s. (orn.) gâscă cu pântece alb; gâscă de Atlantic (lat., Branta bernicla hrota). 
+ak-karkara s. (orn.) egretă mare; egretă albă; stârc alb (lat., Egretta alba). 
+akkaşalar adj. alburiu; albicios. 
+ak-kaşlî-kirazkuşî s. (orn.) presură cu sprâncene albe (lat., Emberiza rustica). 
+ak-kaşlî-sayrak s. (orn.) sturz cu sprâncene albe (lat., Turdus obscurus). 
+ak-kaşlî-súlekeş s. (orn.) presură cu sprâncene albe (lat., Emberiza rustica). 
+ak-kaşlî-tenek s. (orn.) presură cu sprâncene albe (lat., Emberiza rustica). 
+akkatartar adj. alburiu; albicios. 
+ak-kawak s. (bot.) plop; plop-alb (lat., Populus alba). 
+ak-kaz s. (orn.) gâscă de vară (lat., Anser anser). 
+ak-kazayagî s. (bot.) lobodă; spanac-sălbatic; piciorul-caprei (lat., Chenopodium album). 
+ak-kekeşlí-albatros s. (orn.) albatros cu moŃ alb (lat., Diomedea cauta). 
+ak-kekeşlí-ğayka s. (orn.) albatros cu moŃ alb (lat., Diomedea cauta). 
+ak-kerdanlî-ğeleşe s. (orn.) silvie de câmp (lat., Sylvia communis). 
+ak-keren s. (orn.) gaie albă (lat., Elanus caerulus). 
+ak-keşír s. (bot.) păstârnac (lat., Pastinaca sativa hortensis). 
+akkírpígí, it- s. (bot.) muşeŃel-prost; romaniŃă-nemirositoare; mărăriŃă (lat., Anthemis cotula). 
+akkírpígí, şayîr- s. (bot.) crizantemă-de-câmp; romaniŃă (lat., Anthemis arvensis). 
+akkírpík s. (bot.) muşeŃel; romaniŃă (lat., Chamomilla recutita; Matricaria chamomilla). 
+ak-kîmîrska s. (ent.) termită; furnică-albă (lat., Isoptera). 
+Akkoğa s. (antrop. m.) "Bătrânul cărunt". 
+ak-koğayonğa s. (bot.) sulfină; molotru-alb (lat., Melilotus albus). 
+akkor adj. incandescent. 
+ak-korîş s. (bot.) frasin-alb (lat., Fraxinus alba). 
+akkorlîk s. incandescenŃă. 
+ak-kortpa s. (iht.) morun-alb (lat., Acipenser transmontanus). 
+ak-kókrík s. (bot.) frasin-alb (lat., Fraxinus alba). 
+akkózlígí, Japon- s. (orn.) privighetoare-cu-ochi-alb japoneză (lat., Zosterops japonicus). 
+akkózlík, ak-karînlî- s. (orn.) privighetoare-cu-ochi-alb cu piept alb (lat., Zosterops abyssinica). 
+akkózlík, kulan-kanatlî- s. (orn.) privighetoare-cu-ochi-alb cu aripi castanii (lat., Zosterops erythropleurus). 
+akkózlík, şarkiy- s. (orn.) privighetoare-cu-ochi-alb orientală (lat., Zosterops palpebrosus). 
+ak-kózlí-kagay s. (orn.) pescăruş cu ochi albi (lat., Larus leucophthalmus). 
+ak-kózlí-sar s. (orn.) şorecar cu ochi alb (lat., Butastur teesa). 
+ak-kózlí-şaklay s. (orn.) pescăruş cu ochi albi (lat., Larus leucophthalmus). 
+ak-kózlí-şomar s. (orn.) raŃă asiatică cu ochi albi (lat., Aythya baeri). 
+ak-kózlí-toynak s. (orn.) şorecar cu ochi alb (lat., Butastur teesa). 
+ak-kulaklî-sayrawğî s. (orn.) bulbul himalaian (lat., Pycnonotus leucogenys). 
+ak-kumtawuk s. (orn.) nisipar (lat., Calidris alba). 
+akkurgaş s. cositor; staniu. 
+akkurgaşçî s. spoitor. 
+akkurgaşkáátí s. staniol. 
+akkurgaşlamak v.t. a cositori; a spoi. 
+akkurgaşlangan adj. cositorit; spoit. 
+akkurgaşlanmak v.i. a se cositori; a se spoi. 
+akkurgaşlaw s. cositorire; spoială. 
+akkurgaşlî adj. cositorit; spoit. 
+ak-kuw s. (orn.) lebădă de vară; lebădă albă (lat., Cygnus olor). 
+ak-kuyruklî-Afrika-suwbúrkútí s. (orn.) vultur pescar african (lat., Haliaeetus vocifer). 
+ak-kuyruklî-paytonğî s. (orn.) faeton cu cioc alb (lat., Phaethon lepturus). 
+ak-kuyruklî-suwbúrkút s. (orn.) codalb (lat., Haliaeetus albicilla). 
+ak-kuyruklî-tarakay s. (orn.) nagâŃ cu coadă albă; ploier cu coadă albă (lat., Vanellus leucurus; Chettusia leucura). 
+ak-kuyruksallar s. (orn.) codobatură albă; prundar alb (lat., Motacilla alba). 
+aklan s. versant. 
+ak-ládin s. (bot.) brad (lat., Abies alba). 
+ak-legelek s. (orn.) barză albă; cocostârc alb (lat., Ciconia ciconia). 
+aklîk s. albeaŃă; albiciune. 
+Aklîk/Eskí-Kale s. (topon.) Chilia Veche (jud. Tulcea). 
+akma s. curgere; scurgere. 
+akmadde s. (anat.) materie cenuşie. 
+akmagan adj. (d. ape) stătător. 
+akmağatagî s. (geogr.) albie; matcă; curs. 
+akmak v.i. 1. a curge; a se scurge; a se vărsa (şi geogr.). 2. (d. o Ńeasătură) a se destrăma; a se deşira. // ●sel akmak — a curge torenŃial; a curge şuvoi; a şiroi. 
+akmakabiliyetí s. fluiditate; lichiditate. 
+ak-mañlaylî-balşîbînğî s. (orn.) prigorie cu frunte albă (lat., Merops bullockoides). 
+ak-mañlaylî-karlîgaş s. (orn.) rândunică cu frunte albă (lat., Hirundo pyrrhonota). 
+ak-mañlaylî-kîzlarkuşî s. (orn.) prigorie cu frunte albă (lat., Merops bullockoides). 
+ak-mawî-şîbînğî s. (orn.) muscar alb-albastru (lat., Cyanoptila cyanomelana). 
+Ak-Mesğit s. (topon.) ("Moscheea Albă") Simferopol (în Crimea). 
+ak-mideotî s. (bot.) pelin-alb (lat., Artemisia austriaca). 
+ak-moyînlî-balîkşî s. (orn.) pescăruş cu gât alb (lat., Halcyon smyrnensis). 
+ak-moyînlî-búlbúl s. (orn.) măcăleandru cu gât alb (lat., Irania gutturalis). 
+ak-moyînlî-legelek s. (orn.) barză cu gâtul creŃ (lat., Ciconia episcopus). 
+ak-moyînlî-torgay s. (orn.) presură striată cu gât alb (lat., Zonotrichia albicollis). 
+ak-narus s. (bot.) brad (lat., Abies alba). 
+ak-nilúfer s. (bot.) nufăr-alb; nenufar-alb (lat., Nymphaea alba). 
+akolada s. acoladă. 
+ak-omîzlî-sîyîrşîk s. (orn.) graur cu umeri albi; graur chinezesc (lat., Sturnus sinensis). 
+ak-omîzlî-suwbúrkút s. (orn.) vultur cu umeri albi (lat., Haliaeetus pelagicus). 
+ak-omîzlî-şegertkíğí s. (orn.) graur cu umeri albi; graur chinezesc (lat., Sturnus sinensis). 
+akont s. acont; avans. 
+akordeon s. acordeon. 
+akordeonğî s. acordeonist. 
+akordeonşalgan s. acordeonist. 
+akort s. (muz.) acord. 
+akortetílgen adj. (muz.) acordat. 
+akortetílmek v.i. (muz.) a se acorda. 
+akortetmek v.t. (muz.) a acorda. 
+akortetúw s. (muz.) acordare. 
+akortşî s. (muz.) acordor. 
+ak-pîşkî-órdek s. (orn.) ferestraş mic (lat., Mergus albellus). 
+akraba I. adj. înrudit. II. s. rudă; neam. // ●akraba tíller — limbi înrudite. 
+akrabalî adj. cu rude; cu neamuri. 
+akrabalîk s. rudenie; înrudire. 
+akrabasîz adj. fără rude; fără neamuri. 
+akran adv. de-o seamă. 
+akrebí, úy- s. (ent.) scorpionul-de-cărŃi; scorpia-de-hârtie; chelifer (lat., Chelifer cancroides). 
+akreditif s. (fin.) acreditiv. 
+akrep s. 1. (ent.) scorpion; scorpie (lat., Scorpionidae). 2. (astr.) zodia scorpionului. 3. (tehn.) ac indicator. // ●ğebínde akrep bolmak — a avea arici în buzunare; a fi zgârcit. 
+akrepbalîgî s. (iht.) scorpie-de-mare; porc-de-mare (lat., Scorpaena porcus). 
+akret s. (relig.) lumea de apoi; judecata de apoi. 
+akretlík s. adopŃie; copil adoptiv. //●akretlík bala — copil adoptiv. 
+akretlíkalîngan adj. înfiiat; adoptat. 
+akretlíkaluw s. înfiere; adopŃie. 
+akrîn adj. 1. fără grabă; încet; domol. 2. (d. voce şi sunete muzicale) scăzut; diminuat; molcom; şoptit. 3. (d. oameni) greoi; lent. 4. încet; lin; domol; liniştit. 
+akrîn-akrîn adv. încet-încet; încetul cu încetul. 
+akrînaygan adj. încetinit; potolit. 
+akrînayma s. încetinire; domolire. 
+akrînaymak v.i. 1. a încetini; a-şi micşora viteza. 2. a se potoli; a se linişti; a se calma. 
+akrînaytmak v.t. 1. a potoli; a linişti; a calma. 2. a încetini; a micşora viteza.
 `;
 export default rawDictionaryText;
