@@ -1212,7 +1212,7 @@ ak-yúzlí-karkîldak s. 1. (orn.) chirighiŃă cu obraz alb (lat., Chlidonias h
 ányagînaşîk adv. până în partea cealaltă. 
 ányagînda adv. pe partea cealaltă. 
 ányagîndan adv. din partea cealaltă. 
-ányakka adv. (arată direcŃia) încolo. //●ányakka taban — mai încolo. ●d e án y a k k a- d e m í n y a k k a când încolo, când încoace; încoace şi încolo. 
+ányakka adv. (arată direcŃia) încolo. //●ányakka taban — mai încolo. ●deányakka-demínyakka — când încolo, când încoace; încoace şi încolo. 
 ányakka-mínyakka adv. încoace şi încolo. // ●ányakka-mínyakka gezmek — a umbla de colo până colo; a nu avea stare; a se fâŃâi. 
 ányakta adv. (arată locul) încolo; acolo; dincolo. 
 ányakta-mínyakta adv. de colo până colo; când încolo; când încoace; ici şi colo; pe alocuri; din loc în loc; pe sărite. 
