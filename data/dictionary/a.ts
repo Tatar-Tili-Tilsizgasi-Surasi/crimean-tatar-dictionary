@@ -1134,7 +1134,7 @@ akyúzlí adj. desfigurat; palid.
 ak-yúzlí-boraganğî s. (orn.) rândunica furtunii cu faŃă albă (lat., Pelagodroma marina). 
 ak-yúzlí-ğelkuwgan s. (orn.) ielcovan cu faŃă albă; furtunar cu faŃă albă; pasărea-furtunii cu faŃă albă (lat., Calonectris leucomelas). 
 ak-yúzlí-karkîldak s. 1. (orn.) chirighiŃă cu obraz alb (lat., Chlidonias hybridus). 2. (orn.) chiră cu obraz alb; chiră arabă; pescăriŃă cu obraz alb; pescăriŃă arabă (lat., Sterna repressa).
-ádet s. 1. obicei; tradiŃie. 2. (fiziol.) menstruaŃie. // ●ádet bolmak a se obişnui; a se împământeni (d. obiceiuri). ●ádet etmek a se obişnui să…; a lua obiceiul să…; ●ádet kuwmak a respecta tradiŃiile. ●ádetí bolmak a obişnui; a avea obiceiul. // ●ádetím tuwul nu obişnuiesc. ●burun-burundan kalgan ádet obicei rămas din vechime. ●kadîmdan kelme ádetler obiceiuri străvechi. ●yerlí/mahalliy ádetler obiceiuri locale. 
+ádet s. 1. obicei; tradiŃie. 2. (fiziol.) menstruaŃie. // ●ádet bolmak — a se obişnui; a se împământeni (d. obiceiuri). ●ádet etmek — a se obişnui să…; a lua obiceiul să…; ●ádet kuwmak — a respecta tradiŃiile. ●ádetí bolmak — a obişnui; a avea obiceiul. // ●ádetím tuwul — nu obişnuiesc. ●burun-burundan kalgan ádet — obicei rămas din vechime. ●kadîmdan kelme ádetler — obiceiuri străvechi. ●yerlí/mahalliy ádetler — obiceiuri locale. 
 ádeta adv. îndeobşte; de obicei; de regulă. 
 ádetkuwgan s. tradiŃionalist. 
 ádetlengen adj. 1. deprins; familiarizat; obişnuit. 2. consacrat; încetăŃenit; statornicit; înrădăcinat. 
