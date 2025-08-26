@@ -131,8 +131,7 @@ láyîkboluw s. merit; potrivire.
 láyîkkórgen adj. îngăduitor; binevoitor. 
 láyîkkórílgen adj. preferabil; recomandabil; îngăduit; tolerat. 
 láyîkkórúw s. preferinŃă; recomandare; îngăduinŃă; bunăvoinŃă. 
-lázîm adj. necesar; trebuincios. //●lázím bolmak / kelmek — a fi necesar; a trebui. // ●kaloriferní aşmak lázîm — trebuie deschis caloriferul. ●kímge ódemem lázîm? — cui trebuie să plătesc?; ●maşinamnî tamir etmek lázîm — maşina mea trebuie reparată. ●mínda trenní deñíştírmemíz lázîm — aici trebuie să schimbăm trenul. ●sízíñde kórmeñíz lázîm — trebuie să vedeŃi şi dumneavoastră. ●tegerşíklerní ayarlamak lázîm — trebuie reglate 
-roŃile. 
+lázîm adj. necesar; trebuincios. //●lázím bolmak / kelmek — a fi necesar; a trebui. // ●kaloriferní aşmak lázîm — trebuie deschis caloriferul. ●kímge ódemem lázîm? — cui trebuie să plătesc?; ●maşinamnî tamir etmek lázîm — maşina mea trebuie reparată. ●mínda trenní deñíştírmemíz lázîm — aici trebuie să schimbăm trenul. ●sízíñde kórmeñíz lázîm — trebuie să vedeŃi şi dumneavoastră. ●tegerşíklerní ayarlamak lázîm — trebuie reglate roŃile. 
 Leach'nîñ-boraganğîsî s. (orn.) rândunica furtunii lui Leach (lat., Oceanodroma leucorhoa). 
 leblebí s. năut prăjit. 
 legelegí, Abdim'níñ- s. (orn.) barza lui Abdim (lat., Ciconia abdimii). 
