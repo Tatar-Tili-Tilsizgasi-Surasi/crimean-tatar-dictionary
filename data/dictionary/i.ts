@@ -205,7 +205,7 @@ const rawDictionaryText = `
 îşanî, úy- s. (zool.) şoarece-de-casă (lat., Mus musculus). 
 îşanîlağak adj. verosimil; demn de încredere. 
 îşanîlmaz adj. neverosimil; necrezut; evaziv. 
-îşan îş s. încredere. 
+îşanîş s. încredere. 
 îşankulagî s. (bot.) vulturică; hultenioară; culcuşul-vacii; urechea-şoarecelui (lat., Hieracium pilosella). 
 îşanma s. convingere; încredinŃare. 
 îşanmagan adj. neîncrezător. 
