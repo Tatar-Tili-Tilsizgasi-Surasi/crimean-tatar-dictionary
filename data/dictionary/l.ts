@@ -99,25 +99,16 @@ láta s. şipcă; leaŃ; scândurică.
 látif adj. fin; gingaş; duios; delicat; graŃios. 
 Látif, El- s. (relig., arab.) "Cel subtil"; “Cel capabil să pătrundă cele mai adânci şi delicate înŃelesuri”; “Cel care acordă binefacerea cu tâlc şi gingăşie” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
 látife s. glumă; snoavă. 
-Látife s. (antrop. f., arab.) “Cea 
-gingaşă”. 
-látifeğí s., adj. glumeŃ; hazliu; 
-şăgalnic; şugubăŃ. 
+Látife s. (antrop. f., arab.) “Cea gingaşă”. 
+látifeğí s., adj. glumeŃ; hazliu; şăgalnic; şugubăŃ. 
 látifelí adj. plin de haz; hazliu. 
-látiflík s. fineŃe; gingăşie; duioşie; 
-delicateŃe; graŃie. 
+látiflík s. fineŃe; gingăşie; duioşie; delicateŃe; graŃie. 
 látin s., adj. latin. 
-látinğe I. adv. în limba latină; 
-latineşte. II. s. (limba) latină. 
+látinğe I. adv. în limba latină; latineşte. II. s. (limba) latină. 
 láva s. lavă. 
-lávabo s. lavabou; lavoar; spălător; 
-chiuvetă. 
-lávanta s. 1. lavandă; apă de lavandă. 
-2. (bot.) levănŃică; lavandă (lat., 
-Lavandula an gustif olia; 
-Lavandula of f icinalis). 
-láwta s. 1. (muz.) lăută; scripcă; 
-vioară. 2. (med.) extractor; forceps. 
+lávabo s. lavabou; lavoar; spălător; chiuvetă. 
+lávanta s. 1. lavandă; apă de lavandă. 2. (bot.) levănŃică; lavandă (lat., Lavandula an gustif olia; Lavandula officinalis). 
+láwta s. 1. (muz.) lăută; scripcă; vioară. 2. (med.) extractor; forceps. 
 láwtağî s. lăutar; scripcar; violonist. 
 láyemut adj. nemuritor; nepieritor. 
 láyik adj. laic. 
@@ -125,16 +116,7 @@ láyikleşken adj. laicizat.
 láyikleşme s. laicizare. 
 láyikleştírmek v.t. a laiciza. 
 láyiklík s. laicism. 
-láyîk adj. 1. potrivit; corespunzător; 
-vrednic de. 2. convenabil. // ●l á y î k 
-b o lm a k a se potrivi. ●l á y î k 
-k ó rm e k a găsi de cuviinŃă; a crede că 
-e potrivit; a îngădui; a recomanda. //
-●d î k k a t l á y î k respectabil. 
-●e km eg e l á y î k cultivabil. 
-●m a k t aw ga l á y î k lăudabil. 
-●s a y g î ga l á y î k demn de respect. 
-●t aa l á y î k preferabil; recomandabil. 
+láyîk adj. 1. potrivit; corespunzător; vrednic de. 2. convenabil. // ●láyîk bolmak — a se potrivi. ●láyîk kórmek — a găsi de cuviinŃă; a crede că e potrivit; a îngădui; a recomanda. //●dîkkat láyîk — respectabil. ●ekmege láyîk — cultivabil. ●maktawga láyîk — lăudabil. ●saygîga láyîk — demn de respect. ●taa láyîk — preferabil; recomandabil. 
 láyîka s. schiŃă; schemă; plan. 
 láyîkağî s. planificator; proictant. 
 láyîkalaşkan adj. schiŃat; schematizat; proiectat; planificat. 
