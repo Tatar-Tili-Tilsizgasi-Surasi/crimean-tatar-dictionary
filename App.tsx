@@ -1,4 +1,5 @@
 
+
 import React from 'react';
 import { useState, useCallback } from 'react';
 import { DictionaryEntry } from './types';
@@ -59,6 +60,12 @@ const App: React.FC = () => {
 
         <main>
           <div className="mb-4 sticky top-4 z-10 bg-gray-100 dark:bg-slate-900/80 backdrop-blur-sm py-2 -mx-2 px-2 rounded-lg">
+             <div className="bg-blue-100 dark:bg-blue-900/30 border border-blue-200 dark:border-blue-800 text-blue-800 dark:text-blue-300 px-4 py-3 rounded-lg relative mb-4 text-sm flex items-center" role="alert">
+                <InformationCircleIcon className="h-5 w-5 mr-3 flex-shrink-0" />
+                <span>
+                    <strong>Work in Progress:</strong> This dictionary is actively being developed. New entries and features are added regularly.
+                </span>
+             </div>
              <SearchBar onSearch={handleSearch} isLoading={isLoading} />
           </div>
 
