@@ -232,5 +232,117 @@ likyorlî adj. cu lichior. // ●likyorlî bombon — bomboane cu lichior.
 limaks-ğílbízí s. (zool.) melc-fără-casă; limax (lat., Limax sp.). 
 liman s. (nav.) port; liman. // ●gemí limanga ogîrayğak — vasul va face escală în port. ●liman aşîklîgî — (nav.) radă. ●liman idaresí — (nav.) căpitănia portului. ●liman íşçísí — (nav.) docher. ●liman masîraplarî — (nav.) speze portuare. 
 limfa s. (biol.) limfă.
+limfatik adj. limfatic. 
+limfoçita s. (anat.) limfocită. 
+limita s. limită (şi mat.). 
+limon s. 1. lămâie. 2. (bot.) lămâi (lat., Citrus limon). // ●limon sarîsî — de culoarea lamâiei; ca lămâia. ●limon suwî — limonadă; citronadă. 
+limon, tatlî- s. (bot.) limetă; lămâie-verde (lat., Citrus aurantifolia). 
+limonada s. limonadă. 
+limon-kanariyasî s. (orn.) cănăraş galben (lat., Serinus citrinella). 
+limonlî adj. cu lămâie. // ●limonlî şay — ceai cu lămâie. ●limonlî sazan balîğî — doresc crap cu lămâie. 
+limonotî s. (bot.) citronelă; iarbă-de-lămâie (lat., Cymbopogon citratus; Andropogon citratum). 
+limontozî s. sare de lămâie. 
+lingvist s. lingvist. 
+lingvistika s. lingvistică. 
+lingvistikağî adj. lingvistic. 
+lingvistikalî adj. lingvistic. 
+linolewum s. linoleum. 
+linotip s. linotip. 
+linşaj s. linşaj. 
+lira s. (unitate monetară, muz.) liră. 
+lirik adj. liric. 
+lirism s. lirism. 
+lisan s. (lingv.) limbă; vorbire. 
+lista s. listă. // ●búgúngí yemek listasî — meniul de astăzi. ●terim listasî — nomenclatură. 
+litiyum s. (chim.) litiu. 
+litografiya s. litografie. 
+litografiyağî s. litograf. 
+litografiyalî adj. litografiat. 
+litosfera s. litosferă. 
+litre s. litru. 
+litrelík s. vas de un litru. // ●ekí litrelík sawut — vas de doi litri. 
+lituwan s., adj. lituanian. 
+lituwanğa I. adv. în limba lituaniană. II. s. (limba) lituaniană. 
+Lituwaniye s. (topon.) Lituania. 
+lituwaniyelí s., adj. lituanian. 
+liva s. 1. drapel. 2. (mil.) brigadă. 
+livar s. heleşteu; iaz; râmnic; bazin pentru peşti. 
+liyakat s. 1. folos; avantaj. 2. merit. 
+liyakatlî adj. 1. folositor; avantajos; convenabil. 2. acceptabil. 
+liyakatsîz adj. 1. nefolositor; dezavantajos; neconvenabil. 2. inacceptabil; intolerabil. 
+liyakatsîzlîk adj. inutilitate; dezavantaj. 
+liyla adj. liliachiu; lila. 
+liylak s. (bot.) liliac; iorgovan (lat., Syringa vulgaris). 
+liylakiy adj. liliachiu; lila. 
+liyla-salep s. (bot.) salep-purpuriu; poroinic-purpuriu; untul-vacii-purpuriu (lat., Orchis purpurea). 
+lobeliya s. (bot.) lobelie (lat., Lobelia inflata). 
+lobît s. măciucă; ghioagă. 
+lodos s. 1. vânt din sud. 2. sud; miazăzi. 
+logaritm s. (mat.) logaritm. 
+logofet s. (ist.) logofăt. 
+loğistika s. logistică. 
+loja s. lojă. 
+lokal s. local; clădire. 
+lokanta s. restaurant; local. 
+lokantalî adj. cu restaurant. //●lokantalî vagon — vagon restaurant. 
+lokîm s. rahat. // ●ğewezlí lokîm — rahat cu nuci. 
+lokma s. îmbucătură; înghiŃitură. 
+lokomotif s. locomotivă. 
+lokotenent s. (mil.) locotenent. 
+loksa s. lehuză. 
+loksalîk s. lehuzie. 
+loksalîkta adv. în perioadă care urmează imediat naşterii; în lăuzie. 
+loksaotî s. (bot.) curcubeŃea; remf; mărul-lupului; lepădătoare (lat., Aristolochia clematitis). 
+Londra s. (topon.) Londra. 
+londralî s., adj. londonez. 
+lop s. (anat.) lob. 
+lopşîk s. (anat.) lobul. 
+lort s. lord. // ●lortlar odasî (pol.) camera lorzilor. 
+losiyon s. loŃiune. 
+lostra s. lustragerie. 
+lostrağî s. lustragiu. 
+loş adj. (d. locuri) întunecos; obscur. 
+loşlîk s. loc întunecos; întuneric; obscuritate. 
+loteriya s. loterie. 
+lotus s. (bot.) lotus (lat., Nymphaea lotus). 
+lotus, sarî- s. (bot.) plutică (lat., Nymphoides peltata). 
+lugat s. 1. cuvânt; vorbă. 2. dicŃionar; glosar. // ●lugat bílgen — lexicolog. 
+lugatbílímğísí s. lexicolog. 
+lugatbílímí I. adj. lexicologic. II. s. lexicologie. 
+lugatbílímlí adj. lexicologic. 
+luk-luk interj. gâl-gâl!; 
+luks s. 1. (fiz.) lux. 2. lux; bogăŃie; somptuozitate. 
+Luksemburk s. (topon.) Luxemburg. 
+luksemburklî s., adj. luxemburghez. 
+lukuldagan adj. gâlgâitor; clocotitor. 
+lukuldama s. gâlgâit; clocot. 
+lukuldamak v.i. a gâlgâi; a clocoti. 
+lukuldaw s. gâlgâit; clocot. 
+lukultî s. gâlgâit; clocot. 
+lumbago s. (med.) lumbago. 
+lustra s. lustră. 
+luteran s., adj. luteran. 
+lúbnan s., adj. libanez. 
+Lúbnan s. (topon.) Liban. 
+lúbnanlî s., adj. libanez. 
+lúfer s. (iht.) lufar (lat., Pomatomus saltatrix). 
+lúle s. 1. lulea; pipă. 2. buclă; cârlionŃ. // ●lúle tútúní — tutun de pipă. ●şáş lúlesí — buclă (de păr). 
+lúleğí s. fabricant de lulele; vânzător de pipe. // ●lúleğí şamîrî — humă; argilă; lut. 
+lúlelí adj. buclat; cârlionŃat. 
+lúletaşî s. (geol.) magnezit. 
+lútfen adv. fiŃi bun!; fiŃi amabil; vă rog!; 
+lútfiy adj. respectuos; stimat; stimabil; amabil; cu consideraŃie; galant; curtenitor. 
+Lútfiy s. (antrop. m., arab.) “Cel amabil”. 
+Lútfiye s. (antrop. f., arab.) “Cea amabilă”. 
+lútfiyğe adv. 1. fiŃi bun!; fiŃi amabil; vă rog!; 2. respectuos; cu respect; cu stimă; amabil; cu amabilitate; cu consideraŃie. // ●lútfiyğe, bo yerden! — vă rog, pe aici!; ●lútfiyğe, mení terakay bekleñíz! — vă rog, aşteptaŃi-mă puŃin!; 
+lútfiylík s. respect; stimă; amabilitate; consideraŃie; galanterie; curtoazie. 
+Lútfúlla(h) s. (antrop. m., arab.) "Favoritul lui Allah/Dumnezeu". 
+lútúf s. respect; stimă; amabilitate; consideraŃie; hatâr; galanterie; curtoazie. 
+lútúfkáar adj. respectuos; amabil; cu consideraŃie; galant; curtenitor. //●bek lútúfkáarsîñîz — sunteŃi foarte amabil. 
+lútúfkáarlîk s. respect; stimă; amabilitate; consideraŃie; galanterie; curtoazie. 
+lúzum s. 1. necesitate; nevoie. 2. utilitate. 
+lúzumlî adj. 1. necesar. 2. util; trebuincios. 
+lúzumsuz adj. inutil; de prisos; superfluu. 
+lúzumsuzluk s. inutilitate; zădărnicie.
 `;
 export default rawDictionaryText;
