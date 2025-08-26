@@ -98,5 +98,158 @@ láşinğí s. şoimar.
 láta s. şipcă; leaŃ; scândurică. 
 látif adj. fin; gingaş; duios; delicat; graŃios. 
 Látif, El- s. (relig., arab.) "Cel subtil"; “Cel capabil să pătrundă cele mai adânci şi delicate înŃelesuri”; “Cel care acordă binefacerea cu tâlc şi gingăşie” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+látife s. glumă; snoavă. 
+Látife s. (antrop. f., arab.) “Cea 
+gingaşă”. 
+látifeğí s., adj. glumeŃ; hazliu; 
+şăgalnic; şugubăŃ. 
+látifelí adj. plin de haz; hazliu. 
+látiflík s. fineŃe; gingăşie; duioşie; 
+delicateŃe; graŃie. 
+látin s., adj. latin. 
+látinğe I. adv. în limba latină; 
+latineşte. II. s. (limba) latină. 
+láva s. lavă. 
+lávabo s. lavabou; lavoar; spălător; 
+chiuvetă. 
+lávanta s. 1. lavandă; apă de lavandă. 
+2. (bot.) levănŃică; lavandă (lat., 
+Lavandula an gustif olia; 
+Lavandula of f icinalis). 
+láwta s. 1. (muz.) lăută; scripcă; 
+vioară. 2. (med.) extractor; forceps. 
+láwtağî s. lăutar; scripcar; violonist. 
+láyemut adj. nemuritor; nepieritor. 
+láyik adj. laic. 
+láyikleşken adj. laicizat. 
+láyikleşme s. laicizare. 
+láyikleştírmek v.t. a laiciza. 
+láyiklík s. laicism. 
+láyîk adj. 1. potrivit; corespunzător; 
+vrednic de. 2. convenabil. // ●l á y î k 
+b o lm a k a se potrivi. ●l á y î k 
+k ó rm e k a găsi de cuviinŃă; a crede că 
+e potrivit; a îngădui; a recomanda. //
+●d î k k a t l á y î k respectabil. 
+●e km eg e l á y î k cultivabil. 
+●m a k t aw ga l á y î k lăudabil. 
+●s a y g î ga l á y î k demn de respect. 
+●t aa l á y î k preferabil; recomandabil. 
+láyîka s. schiŃă; schemă; plan. 
+láyîkağî s. planificator; proictant. 
+láyîkalaşkan adj. schiŃat; schematizat; proiectat; planificat. 
+láyîkalaşrmak v.i. a se schiŃa; a se schematiza; a se proiecta; a se planifica. 
+láyîkalaştîrma s. schiŃare; schematizare; proiectare; planificare. 
+láyîkalaştîrmak v.t. a schiŃa; a schematiza; a proiecta; a planifica. 
+láyîkalaştîruw s. schiŃare; schematizare; proiectare; planificare. 
+láyîkalî adj. schiŃat; schematizat; proiectat; planificat. 
+láyîkbolgan adj. binemeritat; meritat. 
+láyîkbolmagan adj. nevrednic. 
+láyîkboluw s. merit; potrivire. 
+láyîkkórgen adj. îngăduitor; binevoitor. 
+láyîkkórílgen adj. preferabil; recomandabil; îngăduit; tolerat. 
+láyîkkórúw s. preferinŃă; recomandare; îngăduinŃă; bunăvoinŃă. 
+lázîm adj. necesar; trebuincios. //●lázím bolmak / kelmek — a fi necesar; a trebui. // ●kaloriferní aşmak lázîm — trebuie deschis caloriferul. ●kímge ódemem lázîm? — cui trebuie să plătesc?; ●maşinamnî tamir etmek lázîm — maşina mea trebuie reparată. ●mínda trenní deñíştírmemíz lázîm — aici trebuie să schimbăm trenul. ●sízíñde kórmeñíz lázîm — trebuie să vedeŃi şi dumneavoastră. ●tegerşíklerní ayarlamak lázîm — trebuie reglate 
+roŃile. 
+Leach'nîñ-boraganğîsî s. (orn.) rândunica furtunii lui Leach (lat., Oceanodroma leucorhoa). 
+leblebí s. năut prăjit. 
+legelegí, Abdim'níñ- s. (orn.) barza lui Abdim (lat., Ciconia abdimii). 
+legelek, ak- s. (orn.) barză albă; cocostârc alb (lat., Ciconia ciconia). 
+legelek, ak-moyînlî- s. (orn.) barză cu gâtul creŃ (lat., Ciconia episcopus). 
+legelek, hağí- s. (orn.) barză neagră; cocostârc negru (lat., Ciconia nigra). 
+legelek, kara- s. (orn.) barză neagră; cocostârc negru (lat., Ciconia nigra). 
+legelek, kíşkene-kara- s. (orn.) barza lui Abdim (lat., Ciconia abdimii). 
+legelek, sarî-tumşuklî- s. (orn.) barză cu ciocul galben (lat., Mycteria ibis). 
+legelekgágáasî s. (bot.) priboi (lat., Geranium macrorrhizum). 
+legelekgágáasî, alşeşeklí- s. (bot.) laba-gâştei (lat., Geranium dissectum). 
+legelekgágáasî, morşeşeklí- s. (bot.) pălăria-cucului (lat., Geranium phaeum). 
+legelekgágáasî, şayîr- s. (bot.) greghetin; ciocul-berzei (lat., Geranium pratense). 
+legelekgágáasî, sasîk- s. (bot.) năprasnică (lat., Geranium robertianum). 
+lehenk s. (iht.) rechin (lat., Selachoidei sp.). 
+lehim s. (fiz.) sudură; sudare. 
+lehimğí s. sudor. 
+lehimlemek v.t. (fiz.) a suda. 
+lehimlengen adj. sudat. 
+lehimlenmek v.i. (tehn.) a se suda. 
+lehimlí adj. (fiz.) sudat. 
+lehşe s. dialect; idiom. 
+lehşelí adj. idiomatic. 
+lek s. (geol.) aluviune. 
+leke I. adj. agasant; sâcâitor. II. s. 1. pată. 2. (fig.) ruşine; stigmat. //●leke bîrakmak — a păta. //●múrekkep lekesí — pată de cerneală. 
+lekeleme s. 1. stigmatizare; batjocură. 2. pătare; murdărire. 
+lekelemek v.t. a păta (şi fig.). 
+lekelengen adj. (d. femei) batjocorită. 
+lekelenme s. mânjire; pătare. 
+lekelenmegen adj. nepătat. 
+lekelenmek v.i. 1. a se păta (şi fig.). 2. a sâcâi. 
+lekelenmiykalgan adj. nepătat. 
+lekelí adj. pătat (şi fig.). // ●lekelí ğatalak / humma — (med.) tifos exantematic. 
+lekelík s. sâcâire. 
+lekesíz adj. 1. curat; fără pete; imaculat. 2. (fig.) nepătat; cinstit. 
+lekesízlík s. curăŃenie; cinste; puritate; neprihănire. 
+leksikoloğik adj. lexicologic. 
+leksikoloğiya I. adj. lexicologic. II. s. lexicologie. 
+leksikoloğiyağî s. lexicolog. 
+leksikoloğiyalî adj. lexicologic. 
+leksikolok s. lexicolog. 
+lenger s. platou; tavă. 
+leninğí s., adj. leninist. 
+leninğílík s. leninism. 
+leninism s. leninism. 
+lenta s. panglică; cordeluŃă. 
+lepe s. (anat., bot.) cotiledon. 
+Lesotho s. (topon.) Lesotho. 
+leş s. cadavru; hoit; stârv; leş; mortăciune. 
+leş-kargasî s. (orn.) cioară grivă (lat., Corvus corone). 
+leş-şîbînî s. (ent.) muscă-albastră (lat., Calliphora vomitoria). 
+leş-şoñgîrî s. (orn.) hoitar (lat., Neophron percnopterus). 
+leştiy adj. cadaveric. 
+letafet s. fineŃe; gingăşie; duioşie; delicateŃe; graŃie. 
+letafetlí adj. fin; gingaş; duios; delicat; graŃios. 
+letafetsíz adj. dizgraŃios; grosolan; vulgar. 
+letafetsízlík adj. lipsă de graŃie; grosolănie; vulgaritate. 
+letarğiya s. letargie. 
+letarna s. flaşnetă. 
+letarnağî s. flaşnetar. 
+leton s., adj. leton. 
+letonğa I. adv. în limba letonă. II. s. (limba) letonă. 
+Letoniye s. (topon.) Letonia. 
+letoniyelí s., adj. leton. 
+Levaillant'nîñ-kúrtesí s. (orn.) ghionoaie verde Levaillant (lat., Picus vailantii). 
+Levaillant'nîñ-terekkakkanî s. (orn.) ghionoaie verde Levaillant (lat., Picus vailantii). 
+Levaillant'nîñ-tokîldagî s. (orn.) ghionoaie verde Levaillant (lat., Picus vailantii). 
+levazîm s. obiect de strictă necesitate; ustensilă. // ●levazîm sînîfî — (mil.) intendenŃă. 
+levazîmat s. obiecte de strictă necesitate; ustensile. 
+levazîmğî s., adj. (mil.) intendent. 
+levha s. 1. tablou; tăbliŃă. 2. dală; placă; lespede. 
+lewrek s. (iht.) lavrac; şalău-de-mare; lup-de-mare (lat., Morone labrax). 
+lewukoçita s. (anat.) leucocită. 
+lewukoplast s. (farm.) leucoplast. 
+ley s. (unitate monetară) leu. 
+Leyla s. (antrop. f., arab.) “Extaz”. 
+Lezez s. (cron.) al 4-lea trimestru al anului conform calendarului musulman. 
+leziz adj. gustos; cu un gust plăcut. 
+liberal s., adj. liberal. 
+liberalism s. liberalism. 
+Liberiye s. (topon.) Liberia. 
+liberiyelí s., adj. liberian. 
+Libiye s. (topon.) Libia. 
+libiyelí s., adj. libian. 
+libret s. (muz.) libret. 
+liçensa s. licenŃă. 
+liçew s. liceu. // ●liçew úyrenğísí — elev de liceu; licean. 
+liçewlí s. elev de liceu; licean. 
+lift s. lift; ascensor. 
+liftşí s. liftier. 
+liga s. (sport) ligă. 
+ligament s. (anat.) ligament. 
+lignit s. (geol.) lignit. 
+liken s. lichen. 
+Liktenşitin s. (topon.) Liechtenstein. 
+likyor s. lichior. 
+likyorlî adj. cu lichior. // ●likyorlî bombon — bomboane cu lichior. 
+limaks-ğílbízí s. (zool.) melc-fără-casă; limax (lat., Limax sp.). 
+liman s. (nav.) port; liman. // ●gemí limanga ogîrayğak — vasul va face escală în port. ●liman aşîklîgî — (nav.) radă. ●liman idaresí — (nav.) căpitănia portului. ●liman íşçísí — (nav.) docher. ●liman masîraplarî — (nav.) speze portuare. 
+limfa s. (biol.) limfă.
 `;
 export default rawDictionaryText;
