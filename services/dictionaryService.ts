@@ -36,7 +36,7 @@ const letterToFileMap: { [key: string]: string } = {
 const cache = new Map<string, DictionaryEntry[]>();
 
 const parseMeaningChunk = (chunk: string): WordMeaning => {
-  const partNumberMatch = chunk.match(/^([IVX]+\.)/);
+  const partNumberMatch = chunk.match(/^([IVX]+\.|[A-Z]\.)/);
   const partNumber = partNumberMatch ? partNumberMatch[1] : undefined;
   let remainingChunk = partNumber ? chunk.substring(partNumber.length).trim() : chunk;
 
@@ -63,7 +63,7 @@ const parseMeaningChunk = (chunk: string): WordMeaning => {
 const parseDictionaryEntries = (text: string): DictionaryEntry[] => {
   const entries: DictionaryEntry[] = [];
   const lines = text.trim().split('\n');
-  const wordAndDefRegex = new RegExp(`^(.*?)\\s+((?:[IVX]+\\.|[a-z]+\\.).*)`);
+  const wordAndDefRegex = new RegExp(`^(.*?)\\s+((?:[IVX]+\\.|[A-Z]\\.|[a-z]+\\.).*)`);
 
   for (const line of lines) {
     if (!line.trim()) continue;
@@ -88,7 +88,7 @@ const parseDictionaryEntries = (text: string): DictionaryEntry[] => {
     const examples = exampleParts.flatMap(p => p.split('●')).map(p => p.trim()).filter(Boolean);
 
     const meanings: WordMeaning[] = [];
-    const meaningChunks = meaningsPart.trim().split(/\s+(?=[IVX]+\.\s)/).map(s => s.trim()).filter(Boolean);
+    const meaningChunks = meaningsPart.trim().split(/\s+(?=([IVX]+\.|[A-Z]\.)\s)/).map(s => s.trim()).filter(Boolean);
     
     if (meaningChunks.length > 0) {
         meaningChunks.forEach(chunk => meanings.push(parseMeaningChunk(chunk)));
