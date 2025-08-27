@@ -1,4 +1,123 @@
 const rawDictionaryText = `
+ádet s. 1. obicei; tradiŃie. 2. (fiziol.) menstruaŃie. // ●ádet bolmak — a se obişnui; a se împământeni (d. obiceiuri). ●ádet etmek — a se obişnui să…; a lua obiceiul să…; ●ádet kuwmak — a respecta tradiŃiile. ●ádetí bolmak — a obişnui; a avea obiceiul. // ●ádetím tuwul — nu obişnuiesc. ●burun-burundan kalgan ádet — obicei rămas din vechime. ●kadîmdan kelme ádetler — obiceiuri străvechi. ●yerlí/mahalliy ádetler — obiceiuri locale. 
+ádeta adv. îndeobşte; de obicei; de regulă. 
+ádetkuwgan s. tradiŃionalist. 
+ádetlengen adj. 1. deprins; familiarizat; obişnuit. 2. consacrat; încetăŃenit; statornicit; înrădăcinat. 
+ádetlenme s. deprindere; familiarizare; obişnuinŃă. 
+ádetlenúw s. deprindere; familiarizare; obişnuinŃă. 
+ádetler s., pl. comportament; conduită; purtare; morală; moravuri; apucături. // ●ne zamanlar, ne ádetler! — ce vremuri, ce moravuri!; 
+ádetlergekaytaruwğî s., adj. moralist; moralizator. 
+ádetlí adj. deprins; obişnuit; învăŃat. 
+ádetşe adv. uzual; obişnuit; îndeobşte; de obicei; de regulă; din datină; tradiŃional; prin tradiŃie. 
+ádetten adv. uzual; obişnuit; îndeobşte; de obicei; de regulă; din datină; tradiŃional; prin tradiŃie. 
+ádettenkenar adj. 1. neuzual; neobişnuit. 2. ilegal; nelegal; ilegitim; nelegitim. 
+ádettîşî adj. 1. ilegal; nelegal; ilegitim; nelegitim. 2. neuzual; neobişnuit. // ●ádettîşî íş — (jur.) faptă ilegală. 
+ádetústí adj. neobişnuit; extraordinal. 
+álem s. 1. lume; univers. 2. anturaj; cerc. // ●álem tuwul mî saga? — zi-i lume şi te mântuie!; ●ğanlî álem — lumea organică. ●ğúmle álem — toată lumea. ●haywan álemí — regnul animal. ●kitaplar álemí — lumea cărŃilor. ●maddiy álem — lumea materială. ●medeniy álem — lumea civilizată. ●nebatat álemí — regnul vegetal. 
+álemde adv. în toată lumea. 
+ána interj. iată acolo!; // ●ána bo sebepten — tocmai de aceea. ●ána, fener kóríne! — iată, se vede farul!; 
+ánaw adj. acel; acea; acei; acele. //●ánaw betke — încolo. 
+ánawbír adj. celalălt; cealaltă; ceilalŃi; celălalte. 
+ánawbírí pron. ălălalt; aialaltă; celalălt; cealaltă. 
+ánawbírín pron. pe ălălalt; pe aialaltă; pe celalălt; pe cealaltă. 
+ánawbírínde pron. la ălălalt; la aialaltă; la celalălt; la cealaltă. 
+ánawbírínden pron. de la/dinspre ălălalt; de la/dinspre aialaltă; de la/dinspre celalălt; de la/dinspre cealaltă. 
+ánawbíríndiy pron. ca ălălalt; ca aialaltă; ca celalălt; ca cealaltă. 
+ánawbíríne pron. spre ălălalt; ăluilalt; spre aialaltă; ăleilalte; spre celălalt; celuilalt; spre cealaltă; celeilalte. 
+ánawbíríñ adj. ăluilalt; ăleilalte; celuilalt; celeilalte. 
+ánawbírler(í) pron. ceilalŃi; celălalte. 
+ánawbírlerín pron. pe ceilalŃi; pe celălalte. 
+ánawbírlerínde pron. la ceilalŃi; la celălalte. 
+ánawbírlerínden pron. de la/dinspre ceilalŃi; de la/dinspre celălalte. 
+ánawbírleríndiy pron. ca ceilalŃi; ca celălalte. 
+ánawbírleríne pron. spre ceilalŃi; celorlalŃi; spre celelalte; celorlalte. 
+ánawbírleríñ adj. celorlalŃi; celorlalte. 
+ánawbírsí pron. ălălalt; aialaltă; celalălt; cealaltă. 
+ánawbírsín pron. pe ălălalt; pe aialaltă; pe celalălt; pe cealaltă. 
+ánawbírsínde pron. la ălălalt; la aialaltă; la celalălt; la cealaltă. 
+ánawbírsínden pron. de la/dinspre ălălalt; de la/dinspre aialaltă; de la/dinspre celalălt; de la/dinspre cealaltă. 
+ánawbírsíndiy pron. ca ălălalt; ca aialaltă; ca celalălt; ca cealaltă. 
+ánawbírsíne pron. spre ălălalt; ăluilalt; spre aialaltă; ăleilalte; spre celălalt; celuilalt; spre cealaltă; celeilalte. 
+ánawbírsíñ adj. ăluilalt; ăleilalte; celuilalt; celeilalte. 
+ánawda pron. la acela; la aceea. 
+ánawdan pron. de la/dinspre acela; de la/dinspre aceea. 
+ánawday pron. ca acela; ca aceea. 
+ánawga pron. spre acela; spre aceea; aceluia; aceleia. 
+ánawî pron. acela; aceea. 
+ánawlar pron. aceia; acelea. 
+ánawlarda pron. la aceia; la acelea. 
+ánawlardan pron. de la/dinspre aceia; de la/dinspre acelea. 
+ánawlarday pron. ca aceia; ca acelea. 
+ánawlarga pron. spre aceia; spre acelea; acelora. 
+ánawlarnî pron. pe aceia; pe acelea. 
+ánawlarnîñ adj. acelora. 
+ánawnî pron. pe acela; pe aceea. 
+ánawnîñ adj. aceluia; aceleia. 
+ánawsî pron. acela; aceea. 
+ánawsun pron. pe acela; pe aceea. 
+ánawsuna pron. spre acela; spre aceea; aceluia; aceleia. 
+ánawsunda pron. la acela; la aceea. 
+ánawsundan pron. de la/dinspre acela; de la/dinspre aceea. 
+ánawsunday pron. ca acela; ca aceea. 
+ánawsuñ adj. aceluia; aceleia. 
+ánawun pron. pe acela; pe aceea. 
+ánawuna pron. spre acela; spre aceea; aceluia; aceleia. 
+ánawunda pron. la acela; la aceea. 
+ánawundan pron. de la/dinspre acela; de la/dinspre aceea. 
+ánawunday pron. ca acela; ca aceea. 
+ánawuñ adj. aceluia; aceleia. 
+ánda adv. acolo. // ●deánda-demínda — când încolo, când încoace; încoace şi încolo. ●ne aytasîñ sen ánda? — ce spui tu acolo?; 
+ándagaşîk adv. până acolo. 
+ánda-mínda adv. de colo până colo; când încolo; când încoace; ici şi colo; pe alocuri; din loc în loc; pe sărite. 
+ándan adv. de acolo. 
+ándan-míndan adv. de ici; de colo. 
+ániy adv. deodată; subit. 
+ányagî s. partea cealaltă. 
+ányagîna adv. spre partea cealaltă. //●ányagîna kaytar! — întoarce pe partea cealaltă!; 
+ányagînaşîk adv. până în partea cealaltă. 
+ányagînda adv. pe partea cealaltă. 
+ányagîndan adv. din partea cealaltă. 
+ányakka adv. (arată direcŃia) încolo. //●ányakka taban — mai încolo. ●deányakka-demínyakka — când încolo, când încoace; încoace şi încolo. 
+ányakka-mínyakka adv. încoace şi încolo. // ●ányakka-mínyakka gezmek — a umbla de colo până colo; a nu avea stare; a se fâŃâi. 
+ányakta adv. (arată locul) încolo; acolo; dincolo. 
+ányakta-mínyakta adv. de colo până colo; când încolo; când încoace; ici şi colo; pe alocuri; din loc în loc; pe sărite. 
+ányaktan-mínyaktan adv. de ici; de colo. 
+ányerde adv. acolo. 
+ápím-ázír adj. 1. prezent; actual. 2. terminat; isprăvit; finit. 3. gata; pregătit (de…). 
+árúw I. adj. 1. bun; fără defecte; de calitate superioară. 2. avantajos; convenabil. 3. de bun augur. II. interj. bine!; bun!; III. s. iubit; drag. //●árúw bolmak — a se face bine; a se însănătoşi; a se pune pe picioare; a se ameliora. ●árúw etmek — a face bine; a vindeca; a însănătoşi. ●árúw kelmek — a-i veni bine la socoteală; a-i conveni; a-i veni bine. ●árúw ketmek — a merge bine; a se desfăşura bine. ●árúw laf man añlatmak — a lua pe cineva cu binişorul. ●ústúnde árúw kelmek — a-i sta bine; a-l prinde bine (d. îmbrăcăminte). // ●aramîz árúw edí — relaŃiile noastre erau bune. ●árúw bolsîn! — să fie bine!; ●árúw etíp — cum se cuvine. ●árúw ğolşîlîk! — călătorie plăcută!; ●árúw intibalar — bune impresii. ●árúw íşliy — funcŃionează bine. ●árúw laf — vorbă bună. ●árúw, onday kalsîn — bine, să rămână aşa. ●bek árúw — foarte bine. ●dersleríñ árúw mí? — înveŃi bine?; ●et árúw píşmegen — carnea nu e bine friptă. ●ğam síleğekler árúw şalîşa — ştergătoarele de parbriz funcŃionază bine. ●ne árúw bír arkadaş — ce prieten bun. ●o kadar árúw — atât de bun. ●ózíñízní árúw karañîz! — îngrijiŃi-vă bine!; ●sení bek árúw bílemen — te cunosc foarte bine. ●seníñ hakkînda sáde árúw sózler bar — în privinŃa ta sunt numai cuvinte bune. ●sízní bek árúw añlayman — vă înŃeleg foarte bine. ●şúndí taa árúw — m e n acum mă simt mai bine. ●taa árúw — mai bine. ●tabiy, bonday taa árúw bolîr — fireşte, aşa va fi mai bine. 
+árúwbílgen adj. documentat; bine informat. 
+árúwbolgan adj. 1. îmbunătăŃit; îndreptat; ameliorat. 2. însănătoşit; întremat; înzdrăvenit; lecuit; tămăduit; vindecat; refăcut; restabilit.
+árúwbolmaz adj. 1. incorigibil. 2. nevindecabil. 
+árúwetken adj. curativ; lecuitor; tămăduitor; vindecător. 
+árúwetúw s. 1. însănătoşire; întremare; înzdrăvenire; lecuire; tămăduire; vindecare; refacere; restabilire. 2. îmbunătăŃire; îndreptare; ameliorare. 
+árúwğe adv. binişor. 
+árúwleşme s. îmbunătăŃire; ameliorare. 
+árúwleşmek v.i. 1. a se îmbunătăŃi; a se ameliora. 2. a se însănătoşi; a se vindeca. 
+árúwleştírmek v.t. a îmbunătăŃi; a ameliora. 
+árúwleşúw s. îmbunătăŃire; ameliorare. 
+árúwlúk s. 1. bine. 2. bunătate; binefacere. 
+árúwlúkşí s., adj. binevoitor; binefăcător. 
+árúwsúrewğí adj. optimist. 
+árúwsúrewğúlúk s. optimism. 
+árúwşe adj. frumoasă. 
+árúwşelík s. frumuseŃe. 
+árúw-yaman adv. de bine; de rău. 
+átík adj. agil; sprinten; vioi; vigilent. 
+átíklík s. agilitate; sprinteneală; vioiciune; vigilenŃă. 
+áyin s. ceremonie religioasă. 
+ázír I. adj. 1. gata; pregătit (de…). 2. terminat; isprăvit; finit. 3. prezent; actual. II. adv. de gata. // ●ázír tabîlmak — a fi prezent; a fi gata; a se Ńine gata; a se găsi de gata. ●ázírge konmak — a sosi la de-a gata. //●ázír geşkende — în trecere; în treacăt. ●ázír urba — haine de gata; confecŃii. ●ázírsíñ mí? — eşti gata?; ●erkek ázír urba bólmesí — raionul de confecŃii pentru bărbaŃi. ●hesabîm ázír mí? — este gata nota de plată?; ●kaşan ázír bolîr? — când va fi gata?; 
+ázírbolmagan adj. nepregătit. 
+ázírleme s. pregătire; preparare; instruire. // ●toplantînîñ ázírlemesí — pregătirea adunării. 
+ázírlemek v.t. a pregăti; a prepara; a instrui. // ●zemin ázírlemek — a pregăti terenul. // ●túrlí-túrlí bakşîşlar ázírledíler — au pregătit fel de fel de cadouri. 
+ázírlengen adj. pregătit; preparat; instruit. 
+ázírlenme s. pregătire. 
+ázírlenmek v.i. a se prepara; a se pregăti; a se instrui. //●ázírlenmegen íş kórmek — a improviza. // ●imtandan ewel ázírlendíler — înainte de examen s-au pregătit. 
+ázírlenúw s. 1. pregătire; preparare; instruire. 2. pregătire. 
+ázírlew s. pregătire; preparare; instruire. pregătire; preparare; instruire. 
+ázírlewğí adj. pregătitor. 
+ázírlík s. pregătire; preparare; instruire. 
+ázírtabîlgan adj. disponibil. 
+ázírtabîlma s. disponibilitate; prezenŃă.
 a interj. a!; ah!; ay!;
 aba s. 1. soră mai mare. 2. mătuşă (după mamă). 3. mamă. 4. (text.) aba; dimie; pănură.
 abadan adj. 1. înfloritor; prosper. 2. locuit; populat.
@@ -1134,124 +1253,5 @@ akyúzlí adj. desfigurat; palid.
 ak-yúzlí-boraganğî s. (orn.) rândunica furtunii cu faŃă albă (lat., Pelagodroma marina). 
 ak-yúzlí-ğelkuwgan s. (orn.) ielcovan cu faŃă albă; furtunar cu faŃă albă; pasărea-furtunii cu faŃă albă (lat., Calonectris leucomelas). 
 ak-yúzlí-karkîldak s. 1. (orn.) chirighiŃă cu obraz alb (lat., Chlidonias hybridus). 2. (orn.) chiră cu obraz alb; chiră arabă; pescăriŃă cu obraz alb; pescăriŃă arabă (lat., Sterna repressa).
-ádet s. 1. obicei; tradiŃie. 2. (fiziol.) menstruaŃie. // ●ádet bolmak — a se obişnui; a se împământeni (d. obiceiuri). ●ádet etmek — a se obişnui să…; a lua obiceiul să…; ●ádet kuwmak — a respecta tradiŃiile. ●ádetí bolmak — a obişnui; a avea obiceiul. // ●ádetím tuwul — nu obişnuiesc. ●burun-burundan kalgan ádet — obicei rămas din vechime. ●kadîmdan kelme ádetler — obiceiuri străvechi. ●yerlí/mahalliy ádetler — obiceiuri locale. 
-ádeta adv. îndeobşte; de obicei; de regulă. 
-ádetkuwgan s. tradiŃionalist. 
-ádetlengen adj. 1. deprins; familiarizat; obişnuit. 2. consacrat; încetăŃenit; statornicit; înrădăcinat. 
-ádetlenme s. deprindere; familiarizare; obişnuinŃă. 
-ádetlenúw s. deprindere; familiarizare; obişnuinŃă. 
-ádetler s., pl. comportament; conduită; purtare; morală; moravuri; apucături. // ●ne zamanlar, ne ádetler! — ce vremuri, ce moravuri!; 
-ádetlergekaytaruwğî s., adj. moralist; moralizator. 
-ádetlí adj. deprins; obişnuit; învăŃat. 
-ádetşe adv. uzual; obişnuit; îndeobşte; de obicei; de regulă; din datină; tradiŃional; prin tradiŃie. 
-ádetten adv. uzual; obişnuit; îndeobşte; de obicei; de regulă; din datină; tradiŃional; prin tradiŃie. 
-ádettenkenar adj. 1. neuzual; neobişnuit. 2. ilegal; nelegal; ilegitim; nelegitim. 
-ádettîşî adj. 1. ilegal; nelegal; ilegitim; nelegitim. 2. neuzual; neobişnuit. // ●ádettîşî íş — (jur.) faptă ilegală. 
-ádetústí adj. neobişnuit; extraordinal. 
-álem s. 1. lume; univers. 2. anturaj; cerc. // ●álem tuwul mî saga? — zi-i lume şi te mântuie!; ●ğanlî álem — lumea organică. ●ğúmle álem — toată lumea. ●haywan álemí — regnul animal. ●kitaplar álemí — lumea cărŃilor. ●maddiy álem — lumea materială. ●medeniy álem — lumea civilizată. ●nebatat álemí — regnul vegetal. 
-álemde adv. în toată lumea. 
-ána interj. iată acolo!; // ●ána bo sebepten — tocmai de aceea. ●ána, fener kóríne! — iată, se vede farul!; 
-ánaw adj. acel; acea; acei; acele. //●ánaw betke — încolo. 
-ánawbír adj. celalălt; cealaltă; ceilalŃi; celălalte. 
-ánawbírí pron. ălălalt; aialaltă; celalălt; cealaltă. 
-ánawbírín pron. pe ălălalt; pe aialaltă; pe celalălt; pe cealaltă. 
-ánawbírínde pron. la ălălalt; la aialaltă; la celalălt; la cealaltă. 
-ánawbírínden pron. de la/dinspre ălălalt; de la/dinspre aialaltă; de la/dinspre celalălt; de la/dinspre cealaltă. 
-ánawbíríndiy pron. ca ălălalt; ca aialaltă; ca celalălt; ca cealaltă. 
-ánawbíríne pron. spre ălălalt; ăluilalt; spre aialaltă; ăleilalte; spre celălalt; celuilalt; spre cealaltă; celeilalte. 
-ánawbíríñ adj. ăluilalt; ăleilalte; celuilalt; celeilalte. 
-ánawbírler(í) pron. ceilalŃi; celălalte. 
-ánawbírlerín pron. pe ceilalŃi; pe celălalte. 
-ánawbírlerínde pron. la ceilalŃi; la celălalte. 
-ánawbírlerínden pron. de la/dinspre ceilalŃi; de la/dinspre celălalte. 
-ánawbírleríndiy pron. ca ceilalŃi; ca celălalte. 
-ánawbírleríne pron. spre ceilalŃi; celorlalŃi; spre celelalte; celorlalte. 
-ánawbírleríñ adj. celorlalŃi; celorlalte. 
-ánawbírsí pron. ălălalt; aialaltă; celalălt; cealaltă. 
-ánawbírsín pron. pe ălălalt; pe aialaltă; pe celalălt; pe cealaltă. 
-ánawbírsínde pron. la ălălalt; la aialaltă; la celalălt; la cealaltă. 
-ánawbírsínden pron. de la/dinspre ălălalt; de la/dinspre aialaltă; de la/dinspre celalălt; de la/dinspre cealaltă. 
-ánawbírsíndiy pron. ca ălălalt; ca aialaltă; ca celalălt; ca cealaltă. 
-ánawbírsíne pron. spre ălălalt; ăluilalt; spre aialaltă; ăleilalte; spre celălalt; celuilalt; spre cealaltă; celeilalte. 
-ánawbírsíñ adj. ăluilalt; ăleilalte; celuilalt; celeilalte. 
-ánawda pron. la acela; la aceea. 
-ánawdan pron. de la/dinspre acela; de la/dinspre aceea. 
-ánawday pron. ca acela; ca aceea. 
-ánawga pron. spre acela; spre aceea; aceluia; aceleia. 
-ánawî pron. acela; aceea. 
-ánawlar pron. aceia; acelea. 
-ánawlarda pron. la aceia; la acelea. 
-ánawlardan pron. de la/dinspre aceia; de la/dinspre acelea. 
-ánawlarday pron. ca aceia; ca acelea. 
-ánawlarga pron. spre aceia; spre acelea; acelora. 
-ánawlarnî pron. pe aceia; pe acelea. 
-ánawlarnîñ adj. acelora. 
-ánawnî pron. pe acela; pe aceea. 
-ánawnîñ adj. aceluia; aceleia. 
-ánawsî pron. acela; aceea. 
-ánawsun pron. pe acela; pe aceea. 
-ánawsuna pron. spre acela; spre aceea; aceluia; aceleia. 
-ánawsunda pron. la acela; la aceea. 
-ánawsundan pron. de la/dinspre acela; de la/dinspre aceea. 
-ánawsunday pron. ca acela; ca aceea. 
-ánawsuñ adj. aceluia; aceleia. 
-ánawun pron. pe acela; pe aceea. 
-ánawuna pron. spre acela; spre aceea; aceluia; aceleia. 
-ánawunda pron. la acela; la aceea. 
-ánawundan pron. de la/dinspre acela; de la/dinspre aceea. 
-ánawunday pron. ca acela; ca aceea. 
-ánawuñ adj. aceluia; aceleia. 
-ánda adv. acolo. // ●deánda-demínda — când încolo, când încoace; încoace şi încolo. ●ne aytasîñ sen ánda? — ce spui tu acolo?; 
-ándagaşîk adv. până acolo. 
-ánda-mínda adv. de colo până colo; când încolo; când încoace; ici şi colo; pe alocuri; din loc în loc; pe sărite. 
-ándan adv. de acolo. 
-ándan-míndan adv. de ici; de colo. 
-ániy adv. deodată; subit. 
-ányagî s. partea cealaltă. 
-ányagîna adv. spre partea cealaltă. //●ányagîna kaytar! — întoarce pe partea cealaltă!; 
-ányagînaşîk adv. până în partea cealaltă. 
-ányagînda adv. pe partea cealaltă. 
-ányagîndan adv. din partea cealaltă. 
-ányakka adv. (arată direcŃia) încolo. //●ányakka taban — mai încolo. ●deányakka-demínyakka — când încolo, când încoace; încoace şi încolo. 
-ányakka-mínyakka adv. încoace şi încolo. // ●ányakka-mínyakka gezmek — a umbla de colo până colo; a nu avea stare; a se fâŃâi. 
-ányakta adv. (arată locul) încolo; acolo; dincolo. 
-ányakta-mínyakta adv. de colo până colo; când încolo; când încoace; ici şi colo; pe alocuri; din loc în loc; pe sărite. 
-ányaktan-mínyaktan adv. de ici; de colo. 
-ányerde adv. acolo. 
-ápím-ázír adj. 1. prezent; actual. 2. terminat; isprăvit; finit. 3. gata; pregătit (de…). 
-árúw I. adj. 1. bun; fără defecte; de calitate superioară. 2. avantajos; convenabil. 3. de bun augur. II. interj. bine!; bun!; III. s. iubit; drag. //●árúw bolmak — a se face bine; a se însănătoşi; a se pune pe picioare; a se ameliora. ●árúw etmek — a face bine; a vindeca; a însănătoşi. ●árúw kelmek — a-i veni bine la socoteală; a-i conveni; a-i veni bine. ●árúw ketmek — a merge bine; a se desfăşura bine. ●árúw laf man añlatmak — a lua pe cineva cu binişorul. ●ústúnde árúw kelmek — a-i sta bine; a-l prinde bine (d. îmbrăcăminte). // ●aramîz árúw edí — relaŃiile noastre erau bune. ●árúw bolsîn! — să fie bine!; ●árúw etíp — cum se cuvine. ●árúw ğolşîlîk! — călătorie plăcută!; ●árúw intibalar — bune impresii. ●árúw íşliy — funcŃionează bine. ●árúw laf — vorbă bună. ●árúw, onday kalsîn — bine, să rămână aşa. ●bek árúw — foarte bine. ●dersleríñ árúw mí? — înveŃi bine?; ●et árúw píşmegen — carnea nu e bine friptă. ●ğam síleğekler árúw şalîşa — ştergătoarele de parbriz funcŃionază bine. ●ne árúw bír arkadaş — ce prieten bun. ●o kadar árúw — atât de bun. ●ózíñízní árúw karañîz! — îngrijiŃi-vă bine!; ●sení bek árúw bílemen — te cunosc foarte bine. ●seníñ hakkînda sáde árúw sózler bar — în privinŃa ta sunt numai cuvinte bune. ●sízní bek árúw añlayman — vă înŃeleg foarte bine. ●şúndí taa árúw — m e n acum mă simt mai bine. ●taa árúw — mai bine. ●tabiy, bonday taa árúw bolîr — fireşte, aşa va fi mai bine. 
-árúwbílgen adj. documentat; bine informat. 
-árúwbolgan adj. 1. îmbunătăŃit; îndreptat; ameliorat. 2. însănătoşit; întremat; înzdrăvenit; lecuit; tămăduit; vindecat; refăcut; restabilit.
-árúwbolmaz adj. 1. incorigibil. 2. nevindecabil. 
-árúwetken adj. curativ; lecuitor; tămăduitor; vindecător. 
-árúwetúw s. 1. însănătoşire; întremare; înzdrăvenire; lecuire; tămăduire; vindecare; refacere; restabilire. 2. îmbunătăŃire; îndreptare; ameliorare. 
-árúwğe adv. binişor. 
-árúwleşme s. îmbunătăŃire; ameliorare. 
-árúwleşmek v.i. 1. a se îmbunătăŃi; a se ameliora. 2. a se însănătoşi; a se vindeca. 
-árúwleştírmek v.t. a îmbunătăŃi; a ameliora. 
-árúwleşúw s. îmbunătăŃire; ameliorare. 
-árúwlúk s. 1. bine. 2. bunătate; binefacere. 
-árúwlúkşí s., adj. binevoitor; binefăcător. 
-árúwsúrewğí adj. optimist. 
-árúwsúrewğúlúk s. optimism. 
-árúwşe adj. frumoasă. 
-árúwşelík s. frumuseŃe. 
-árúw-yaman adv. de bine; de rău. 
-átík adj. agil; sprinten; vioi; vigilent. 
-átíklík s. agilitate; sprinteneală; vioiciune; vigilenŃă. 
-áyin s. ceremonie religioasă. 
-ázír I. adj. 1. gata; pregătit (de…). 2. terminat; isprăvit; finit. 3. prezent; actual. II. adv. de gata. // ●ázír tabîlmak — a fi prezent; a fi gata; a se Ńine gata; a se găsi de gata. ●ázírge konmak — a sosi la de-a gata. //●ázír geşkende — în trecere; în treacăt. ●ázír urba — haine de gata; confecŃii. ●ázírsíñ mí? — eşti gata?; ●erkek ázír urba bólmesí — raionul de confecŃii pentru bărbaŃi. ●hesabîm ázír mí? — este gata nota de plată?; ●kaşan ázír bolîr? — când va fi gata?; 
-ázírbolmagan adj. nepregătit. 
-ázírleme s. pregătire; preparare; instruire. // ●toplantînîñ ázírlemesí — pregătirea adunării. 
-ázírlemek v.t. a pregăti; a prepara; a instrui. // ●zemin ázírlemek — a pregăti terenul. // ●túrlí-túrlí bakşîşlar ázírledíler — au pregătit fel de fel de cadouri. 
-ázírlengen adj. pregătit; preparat; instruit. 
-ázírlenme s. pregătire. 
-ázírlenmek v.i. a se prepara; a se pregăti; a se instrui. //●ázírlenmegen íş kórmek — a improviza. // ●imtandan ewel ázírlendíler — înainte de examen s-au pregătit. 
-ázírlenúw s. 1. pregătire; preparare; instruire. 2. pregătire. 
-ázírlew s. pregătire; preparare; instruire. pregătire; preparare; instruire. 
-ázírlewğí adj. pregătitor. 
-ázírlík s. pregătire; preparare; instruire. 
-ázírtabîlgan adj. disponibil. 
-ázírtabîlma s. disponibilitate; prezenŃă.
 `;
 export default rawDictionaryText;
