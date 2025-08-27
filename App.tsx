@@ -17,7 +17,6 @@ const App: React.FC = () => {
   const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
   const [isGuideModalOpen, setIsGuideModalOpen] = useState(false);
   const [isSourcesModalOpen, setIsSourcesModalOpen] = useState(false);
-  const [highlightedAbbreviation, setHighlightedAbbreviation] = useState<string | null>(null);
   
   const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
 
@@ -37,11 +36,6 @@ const App: React.FC = () => {
     const letterResults = await getEntriesByLetter(letter);
     setResults(letterResults);
     setIsLoading(false);
-  }, []);
-
-  const handleAbbreviationClick = useCallback((abbr: string) => {
-      setHighlightedAbbreviation(abbr);
-      setIsGuideModalOpen(true);
   }, []);
 
   const getResultTerm = () => searchedTerm || (selectedLetter ? `words starting with '${selectedLetter}'` : '');
@@ -136,7 +130,7 @@ const App: React.FC = () => {
               <div>
                 <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">Found {results.length} results for "{getResultTerm()}".</p>
                 {results.map((entry, index) => (
-                  <ResultCard key={`${entry.word}-${index}`} entry={entry} searchTerm={searchedTerm || ''} onAbbreviationClick={handleAbbreviationClick} />
+                  <ResultCard key={`${entry.word}-${index}`} entry={entry} searchTerm={searchedTerm || ''} />
                 ))}
               </div>
             )}
@@ -149,11 +143,7 @@ const App: React.FC = () => {
       </div>
       <GuideModal 
         isOpen={isGuideModalOpen} 
-        onClose={() => {
-            setIsGuideModalOpen(false);
-            setHighlightedAbbreviation(null);
-        }}
-        highlightedAbbr={highlightedAbbreviation}
+        onClose={() => setIsGuideModalOpen(false)}
       />
       <SourcesModal isOpen={isSourcesModalOpen} onClose={() => setIsSourcesModalOpen(false)} />
     </div>
