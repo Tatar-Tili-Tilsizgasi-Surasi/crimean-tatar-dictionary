@@ -137,5 +137,32 @@ wurgulap-bíldírúw s. precizare; specificare.
 wurgulay-wurgulay adv. accentuat; răspicat. 
 wurgulî adj. (fon.) accentuat; tonic. 
 wurgulîkîşkîrma s. exclamare; exclamaŃie.
+wurgun I. adj. îndrăgostit; amorezat. II. s. câştig ilicit. 
+wurgunğî s. speculant; şarlatan; escroc; pungaş. 
+wurgunğuluk s. speculă; şarlatanie; escrocherie; pungăşie. 
+wurgunluk s. adoraŃie. 
+wurgun-wurgun adv. cu dragoste; cu drag. 
+wurgusuz adj. (fon.) neaccentuat; atonic. 
+wurma s. 1. (med.) apoplexie. 2. (d. inimă) batere; puls. 3. lovire; izbire. 4. ciocănire la uşă. 5. atingere; vătămare; rănire. 6. împuşcare; ucidere. 7. (d. raze, vânt) pătrundere; răzbire. 8. (mat.) înmulŃire. // ●ğalpa wurma —tangaj. 
+wurma-ğîkma s. neînfricare. 
+wurmak A. v.i. (d. inimă) a bate; a pulsa. B. v.t. 1. a lovi; a izbi. 2. a atinge; a vătăma; a răni. 3. a împuşca; a ucide. 4. (mat.) a înmulŃi. 5. a bate; a ciocăni (la uşă). 6. (d. raze, vânt) a pătrunde; a răzbi. // ●azgana wurmak — a se trece din pahare; a se chercheli. ●baltanî taşka wurmak — a nimeri cu oiştea în gard. ●baş wurmak — a recuge la…; a apela la…; ●başîn taştan-taşka wurmak — a se da cu capul de toŃi pereŃii. ●ekí koyannî bîr kurşun man wurmak — a împuşca doi iepuri deodată. ●ğalpa wurmak — (nav.) a avea tangaj. ●ğamaw wurmak — a petici. ●ğaşîn wurmak — a-l trăsni; a-l fulgera. ●ílme wurmak — a remaia; a însăila. ●iyne wurmak — a face injecŃie. ●kandalga wurmak — a încătuşa. ●ket wurmak — a împiedica; a stăvili. ●kîskî wurmak — (tehn.) a împăna. ●kóz wurmak — a face cuiva cu ochiul. ●kúneş wurmak — (d. soare) a dogori; a bate. ●moyînîn wurmak — a-i lua gâtul; a-l decapita; a pune piciorul pe grumazul cuiva; a pune mâna pe cineva. ●ózín wurmak — a se împuşca. ●ózín yerden-yerge wurmak — a se zvârcoli. ●penşe wurmak — a pingeli. ●pîrangaga wurmak — a încătuşa; a înlănŃui; a pune în lanŃuri. ●şînğîrga wurmak — a pune în lanŃuri. ●tel wurmak — a telegrafia. ●tílí peltek wurmak — a se bâlbâi; a gângăvi; a vorbi peltic. ●tízín wurmak — a-şi frânge mâinile; a se văicări; a regreta; a se lamenta. ●topka wurmak — (sport) a lovi mingea; a şuta. ●yeger wurmak — a înşeua. // ●burşak wurdî — a bătut grindina. ●gemí ğalpa wura — vasul are tangaj. 
+wursañtuymaz adj. 1. insensibil. 2. nesimŃit; lipsit de bun-simŃ. 
+wursañtuymazlîk s. insensibilitate; nesimŃire. 
+wur-tut adv. numai; doar. //●mením wur-tut beş koyîm bar — eu am numai cinci oi. 
+wurulgan I. adj. 1. lovit; izbit. 2. împuşcat; ucis. 3. rănit cu o armă de foc. 4. îndrăgostit; amorezat. II. s. (mat.) deînmulŃit. 
+wurulma s. 1. lovire; izbire. 2. împuşcare; ucidere. 3. rănire cu o armă de foc. 4. îndrăgostire; amorezare. 
+wurulmak v.i. 1. a fi lovit; a fi izbit. 2. a fi împuşcat; a fi ucis. 3. a fi rănit (cu o armă de foc). 4. (fig.) a se îndrăgosti; a se amoreza. 
+wuruş s. lovitură. // ●başlama wuruşî — lovitura de începere. ●kóşe/poşmak/şat/korner wuruşî — (sport) lovitură de colŃ. ●ne gúzel wuruş — ce lovitură frumoasă. 
+wuruşkan s. 1. combatant; luptător. 2. boxer; pugilist. 
+wuruşkaytarmasî s. parare. 
+wuruşma s. 1. încăierare; bătaie; bătălie; luptă. 2. box; pugilism. 3. coliziune. 
+wuruşmak v.i. a se lovi reciproc; a se bate; a se încăiera; a boxa. // ●tek-tek wuruşmak — a se duela. 
+wuruwlî adj. rănit cu armă de foc. 
+wuruwul s. buză. 
+wurgulaw s. accentuare; exclamare. 
+wurgulîkîşkîruw s. exclamare; exclamaŃie. 
+wuruluw s. 1. lovire; izbire. 2. împuşcare; ucidere. 3. rănire cu o armă de foc. 4. îndrăgostire; amorezare. 
+wuruşuw s. 1. încăierare; bătaie; bătălie; luptă. 2. box; pugilism. 3. coliziune. 
+wuruw s. 1. (med.) apoplexie. 2. (d. inimă) batere; puls. 3. lovire; izbire. 4. ciocănire la uşă. 5. atingere; vătămare; rănire. 6. împuşcare; ucidere. 7. (d. raze, vânt) pătrundere; răzbire. 8. (mat.) înmulŃire.
 `;
 export default rawDictionaryText;
