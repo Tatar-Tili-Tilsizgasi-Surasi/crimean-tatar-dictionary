@@ -7,7 +7,7 @@ import { searchDictionary, getEntriesByLetter } from './services/dictionaryServi
 import SearchBar from './components/SearchBar';
 import ResultCard from './components/ResultCard';
 import { BookOpenIcon, QuestionMarkCircleIcon, InformationCircleIcon } from './components/IconComponents';
-import AbbreviationsModal from './components/AbbreviationsModal';
+import GuideModal from './components/GuideModal';
 import SourcesModal from './components/SourcesModal';
 
 const App: React.FC = () => {
@@ -15,7 +15,7 @@ const App: React.FC = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [searchedTerm, setSearchedTerm] = useState<string | null>(null);
   const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
-  const [isAbbreviationsModalOpen, setIsAbbreviationsModalOpen] = useState(false);
+  const [isGuideModalOpen, setIsGuideModalOpen] = useState(false);
   const [isSourcesModalOpen, setIsSourcesModalOpen] = useState(false);
   
   const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
@@ -86,24 +86,6 @@ const App: React.FC = () => {
             ))}
           </div>
 
-          <div className="my-6 p-4 bg-white dark:bg-slate-800/80 border border-gray-200 dark:border-slate-700 rounded-lg text-sm text-gray-700 dark:text-gray-300 shadow-sm">
-            <h4 className="flex items-center font-semibold text-base text-gray-800 dark:text-gray-200 mb-2">
-              <QuestionMarkCircleIcon className="h-5 w-5 mr-2 flex-shrink-0" />
-              Understanding the Entries
-            </h4>
-            <ul className="list-disc list-inside space-y-1 pl-2">
-              <li><strong>Roman numerals</strong> (e.g., I., II.) separate main grammatical categories.</li>
-              <li><strong>Capital letters</strong> (e.g., A., B.) separate grammatical subcategories.</li>
-              <li><strong>Arabic numerals</strong> (e.g., 1., 2.) list the different meanings of a word.</li>
-              <li><strong>Semicolon (;)</strong> separates equivalent translations.</li>
-              <li><strong>Hyphen (-)</strong> precedes suffixes in the Crimean Tatar language.</li>
-              <li><strong>Parentheses ( )</strong> enclose optional suffixes that can be omitted without changing the word's meaning.</li>
-              <li><strong>Single Slash (/)</strong> indicates that a term can be replaced by the one preceding it.</li>
-              <li><strong>Median Dot (●)</strong> marks compound verbs, phrases, expressions, and examples.</li>
-              <li><strong>Double Slash (//)</strong> separates groups of examples or phrases marked with a dot.</li>
-            </ul>
-          </div>
-
           <div className="flex justify-end items-center gap-4 mb-8 px-2">
             <button
                 onClick={() => setIsSourcesModalOpen(true)}
@@ -114,12 +96,12 @@ const App: React.FC = () => {
                 View Sources
             </button>
             <button
-                onClick={() => setIsAbbreviationsModalOpen(true)}
+                onClick={() => setIsGuideModalOpen(true)}
                 className="flex items-center text-sm text-blue-600 dark:text-blue-400 hover:underline focus:outline-none focus:ring-2 focus:ring-blue-500 rounded-md p-1 transition-colors"
                 aria-haspopup="dialog"
             >
                 <QuestionMarkCircleIcon className="h-5 w-5 mr-1" />
-                View Abbreviations
+                Dictionary Guide
             </button>
           </div>
          
@@ -159,7 +141,7 @@ const App: React.FC = () => {
           <p>You can find the source of this dictionary on <a href="https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-dictionary" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">GitHub</a>.</p>
         </footer>
       </div>
-      <AbbreviationsModal isOpen={isAbbreviationsModalOpen} onClose={() => setIsAbbreviationsModalOpen(false)} />
+      <GuideModal isOpen={isGuideModalOpen} onClose={() => setIsGuideModalOpen(false)} />
       <SourcesModal isOpen={isSourcesModalOpen} onClose={() => setIsSourcesModalOpen(false)} />
     </div>
   );
