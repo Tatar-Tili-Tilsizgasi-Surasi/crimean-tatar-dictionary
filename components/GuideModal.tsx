@@ -1,10 +1,12 @@
 
-import React, { useState } from 'react';
-import { CloseIcon, QuestionMarkCircleIcon } from './IconComponents';
+
+import React, { useEffect, useRef } from 'react';
+import { CloseIcon } from './IconComponents';
 
 interface GuideModalProps {
   isOpen: boolean;
   onClose: () => void;
+  highlightedAbbr: string | null;
 }
 
 const abbreviationsData = `
@@ -144,9 +146,20 @@ const parsedAbbreviations = abbreviationsData.split('\n').map(line => {
     return { abbr, romanian, crimean: crimean.trim() };
 });
 
-const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose }) => {
-  const [activeTab, setActiveTab] = useState('guide');
+const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose, highlightedAbbr }) => {
+  const highlightedRowRef = useRef<HTMLTableRowElement>(null);
 
+  useEffect(() => {
+    if (isOpen && highlightedAbbr && highlightedRowRef.current) {
+        setTimeout(() => { // Timeout to allow modal animation/rendering
+            highlightedRowRef.current?.scrollIntoView({
+                behavior: 'smooth',
+                block: 'center',
+            });
+        }, 100);
+    }
+  }, [isOpen, highlightedAbbr]);
+  
   if (!isOpen) return null;
 
   return (
@@ -155,66 +168,26 @@ const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose }) => {
       onClick={onClose}
       role="dialog"
       aria-modal="true"
-      aria-labelledby="guide-title"
+      aria-labelledby="abbreviations-title"
     >
       <div 
         className="bg-white dark:bg-slate-800 rounded-lg shadow-xl w-full max-w-4xl max-h-[90vh] flex flex-col"
         onClick={e => e.stopPropagation()}
       >
         <header className="flex justify-between items-center p-4 border-b border-gray-200 dark:border-slate-700">
-          <h2 id="guide-title" className="text-xl font-bold text-gray-800 dark:text-white">
-            Dictionary Guide
+          <h2 id="abbreviations-title" className="text-xl font-bold text-gray-800 dark:text-white">
+            Abbreviations
           </h2>
           <button 
             onClick={onClose} 
             className="text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-white"
-            aria-label="Close guide modal"
+            aria-label="Close abbreviations modal"
           >
             <CloseIcon className="h-6 w-6" />
           </button>
         </header>
         
-        <nav className="border-b border-gray-200 dark:border-slate-700 flex">
-          <button
-            onClick={() => setActiveTab('guide')}
-            role="tab"
-            aria-selected={activeTab === 'guide'}
-            className={`flex-1 p-3 font-semibold text-sm transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500 ${activeTab === 'guide' ? 'bg-blue-50 dark:bg-slate-700/50 text-blue-600 dark:text-blue-400' : 'text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-slate-700'}`}
-          >
-            Understanding Entries
-          </button>
-          <button
-            onClick={() => setActiveTab('abbreviations')}
-            role="tab"
-            aria-selected={activeTab === 'abbreviations'}
-            className={`flex-1 p-3 font-semibold text-sm transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500 ${activeTab === 'abbreviations' ? 'bg-blue-50 dark:bg-slate-700/50 text-blue-600 dark:text-blue-400' : 'text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-slate-700'}`}
-          >
-            Abbreviations
-          </button>
-        </nav>
-
         <div className="p-6 overflow-y-auto">
-          {activeTab === 'guide' && (
-            <div className="text-sm text-gray-700 dark:text-gray-300">
-              <h4 className="flex items-center font-semibold text-base text-gray-800 dark:text-gray-200 mb-3">
-                <QuestionMarkCircleIcon className="h-5 w-5 mr-2 flex-shrink-0" />
-                How to Read Entries
-              </h4>
-              <ul className="list-disc list-inside space-y-2 pl-2 leading-relaxed">
-                <li><strong>Roman numerals</strong> (e.g., I., II.) separate main grammatical categories.</li>
-                <li><strong>Capital letters</strong> (e.g., A., B.) separate grammatical subcategories.</li>
-                <li><strong>Arabic numerals</strong> (e.g., 1., 2.) list the different meanings of a word.</li>
-                <li><strong>Semicolon (;)</strong> separates equivalent translations.</li>
-                <li><strong>Hyphen (-)</strong> precedes suffixes in the Crimean Tatar language.</li>
-                <li><strong>Parentheses ( )</strong> enclose optional suffixes that can be omitted without changing the word's meaning.</li>
-                <li><strong>Single Slash (/)</strong> indicates that a term can be replaced by the one preceding it.</li>
-                <li><strong>Median Dot (●)</strong> marks compound verbs, phrases, expressions, and examples.</li>
-                <li><strong>Double Slash (//)</strong> separates groups of examples or phrases marked with a dot.</li>
-              </ul>
-            </div>
-          )}
-
-          {activeTab === 'abbreviations' && (
             <table className="w-full text-left table-auto">
               <thead className="bg-gray-50 dark:bg-slate-700 text-xs text-gray-700 dark:text-gray-400 uppercase sticky top-0">
                 <tr>
@@ -224,16 +197,23 @@ const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose }) => {
                 </tr>
               </thead>
               <tbody>
-                {parsedAbbreviations.map(({ abbr, romanian, crimean }, index) => (
-                  <tr key={index} className="border-b border-gray-200 dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-600/20">
-                    <td className="px-4 py-2 font-mono font-bold text-blue-600 dark:text-blue-400">{abbr}</td>
-                    <td className="px-4 py-2 text-gray-800 dark:text-gray-200">{romanian}</td>
-                    <td className="px-4 py-2 text-gray-800 dark:text-gray-200">{crimean}</td>
-                  </tr>
-                ))}
+                {parsedAbbreviations.map(({ abbr, romanian, crimean }, index) => {
+                  const isHighlighted = highlightedAbbr === abbr;
+                  return (
+                    <tr 
+                      key={index}
+                      ref={isHighlighted ? highlightedRowRef : null}
+                      className={`border-b border-gray-200 dark:border-slate-700 transition-colors duration-300 ${isHighlighted ? 'bg-blue-100 dark:bg-blue-900/50' : 'hover:bg-gray-50 dark:hover:bg-slate-600/20'}`}
+                      aria-current={isHighlighted ? 'true' : 'false'}
+                    >
+                      <td className="px-4 py-2 font-mono font-bold text-blue-600 dark:text-blue-400">{abbr}</td>
+                      <td className="px-4 py-2 text-gray-800 dark:text-gray-200">{romanian}</td>
+                      <td className="px-4 py-2 text-gray-800 dark:text-gray-200">{crimean}</td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
-          )}
         </div>
       </div>
     </div>

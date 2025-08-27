@@ -1,12 +1,14 @@
+
 import React from 'react';
 import { DictionaryEntry } from '../types';
 
 interface ResultCardProps {
   entry: DictionaryEntry;
   searchTerm: string;
+  onAbbreviationClick: (abbreviation: string) => void;
 }
 
-const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm }) => {
+const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm, onAbbreviationClick }) => {
   const formatText = (text: string, term: string): React.ReactNode => {
     if (!text) return text;
 
@@ -53,7 +55,22 @@ const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm }) => {
         <div key={index} className="mb-4 last:mb-0">
           <div className="flex items-baseline text-md font-semibold text-gray-700 dark:text-gray-300">
             {meaning.partNumber && <span className="mr-2 font-bold">{meaning.partNumber}</span>}
-            {meaning.abbreviation && <span className="italic text-gray-500 dark:text-gray-400">{meaning.abbreviation}</span>}
+            {meaning.abbreviation && (
+                <span className="italic text-gray-500 dark:text-gray-400">
+                  {meaning.abbreviation.trim().split(/\s+/).map((abbr, i, arr) => (
+                    <React.Fragment key={i}>
+                      <button
+                        onClick={() => onAbbreviationClick(abbr)}
+                        className="underline hover:text-blue-600 dark:hover:text-blue-400 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 rounded-sm"
+                        aria-label={`View definition for abbreviation: ${abbr}`}
+                      >
+                        {abbr}
+                      </button>
+                      {i < arr.length - 1 ? ' ' : ''}
+                    </React.Fragment>
+                  ))}
+                </span>
+            )}
           </div>
           <ol className={`mt-1 text-gray-700 dark:text-gray-300 space-y-1 leading-relaxed ${meaning.definitions.length > 1 ? 'list-decimal list-inside ml-5' : 'list-none'}`}>
             {meaning.definitions.map((def, defIndex) => (
