@@ -3,5 +3,6 @@ const rawDictionaryText = `
 ţes v.t. (arh.) a desena; a schiţa.
 ţesmek v.t. (arh.) a desena.
 ţín s. (arh.) rang; cin.
+Bulgarístan s. (topon.) Bulgaria.
 `;
 export default rawDictionaryText;
