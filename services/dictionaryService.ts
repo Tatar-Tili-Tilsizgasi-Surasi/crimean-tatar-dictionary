@@ -1,8 +1,7 @@
-
 import { DictionaryEntry, WordMeaning } from '../types';
 
 // The base letters for which data files exist. One file per letter.
-const alphabetFiles = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'w', 'y', 'z'];
+const alphabetFiles = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'w', 'y', 'z', 'old'];
 
 // Maps specific alphabet characters (including diacritics) to their base file letter.
 const letterToFileMap: { [key: string]: string } = {
@@ -24,7 +23,7 @@ const letterToFileMap: { [key: string]: string } = {
     'p': 'p',
     'r': 'r',
     's': 's', 'ş': 's',
-    't': 't',
+    't': 't', 'ţ': 'old',
     'u': 'u', 'ú': 'u',
     'v': 'v',
     'w': 'w',
@@ -60,7 +59,7 @@ const parseMeaningChunk = (chunk: string): WordMeaning => {
   return { partNumber, abbreviation, definitions };
 };
 
-const parseDictionaryEntries = (text: string): DictionaryEntry[] => {
+const parseDictionaryEntries = (text: string, isOld: boolean = false): DictionaryEntry[] => {
   const entries: DictionaryEntry[] = [];
   const lines = text.trim().split('\n');
   const wordAndDefRegex = new RegExp(`^(.*?)\\s+((?:[IVX]+\\.|[A-Z]\\.|[a-z]+\\.).*)`);
@@ -80,6 +79,7 @@ const parseDictionaryEntries = (text: string): DictionaryEntry[] => {
             word,
             meanings: [{ definitions: [definition] }],
             examples: [],
+            isOld,
         });
         continue;
     }
@@ -97,7 +97,7 @@ const parseDictionaryEntries = (text: string): DictionaryEntry[] => {
     }
     
     if (word && (meanings.length > 0 || examples.length > 0)) {
-        entries.push({ word, meanings, examples });
+        entries.push({ word, meanings, examples, isOld });
     }
   }
 
@@ -108,81 +108,55 @@ const loadDictionaryFile = async (fileLetter: string): Promise<DictionaryEntry[]
     if (cache.has(fileLetter)) {
         return cache.get(fileLetter)!;
     }
-    
     try {
-        // Dynamically import the dictionary data file.
         const module = await import(`../data/dictionary/${fileLetter}.ts`);
-        const rawDictionaryText = module.default.replace(/Ń/g, 'ţ');
-        const entries = parseDictionaryEntries(rawDictionaryText);
+        const rawText = module.default;
+        const isOldFile = fileLetter === 'old';
+        const entries = parseDictionaryEntries(rawText, isOldFile);
         cache.set(fileLetter, entries);
         return entries;
     } catch (error) {
-        console.warn(`Could not load dictionary file for letter '${fileLetter}':`, error);
-        // Return empty array and cache it to prevent future failed attempts for the same letter in the same session.
-        cache.set(fileLetter, []);
+        console.error(`Error loading dictionary file for letter "${fileLetter}":`, error);
         return [];
     }
+};
+
+const getAllEntries = async (): Promise<DictionaryEntry[]> => {
+  const allEntries: DictionaryEntry[] = [];
+  for (const letter of alphabetFiles) {
+    const entries = await loadDictionaryFile(letter);
+    allEntries.push(...entries);
+  }
+  return Array.from(new Map(allEntries.map(entry => [entry.word, entry])).values());
 };
 
 export const searchDictionary = async (term: string): Promise<DictionaryEntry[]> => {
   if (!term.trim()) {
     return [];
   }
-
+  const allEntries = await getAllEntries();
   const lowerCaseTerm = term.toLowerCase();
-  const allResults: DictionaryEntry[] = [];
-  const addedWords = new Set<string>(); // To prevent duplicate entries in results
 
-  // Iterate over all possible dictionary files to perform a comprehensive search.
-  for (const fileLetter of alphabetFiles) {
-    const entries = await loadDictionaryFile(fileLetter);
-    const results = entries.filter(entry => {
-      if (addedWords.has(entry.word)) {
-        return false;
-      }
-
-      if (entry.word.toLowerCase().startsWith(lowerCaseTerm)) {
-        return true;
-      }
-
-      const isInDefinitions = entry.meanings.some(m => 
-        m.definitions.some(d => d.toLowerCase().includes(lowerCaseTerm))
-      );
-      if (isInDefinitions) {
-        return true;
-      }
-
-      const isInExamples = entry.examples.some(p => p.toLowerCase().includes(lowerCaseTerm));
-      if (isInExamples) {
-        return true;
-      }
-      
-      return false;
-    });
-    
-    for (const entry of results) {
-        if (!addedWords.has(entry.word)) {
-            allResults.push(entry);
-            addedWords.add(entry.word);
-        }
-    }
-  }
-  
-  return allResults;
+  return allEntries.filter(entry =>
+    entry.word.toLowerCase().includes(lowerCaseTerm) ||
+    entry.meanings.some(meaning =>
+      meaning.definitions.some(def => def.toLowerCase().includes(lowerCaseTerm))
+    ) ||
+    entry.examples.some(example => example.toLowerCase().includes(lowerCaseTerm))
+  ).sort((a, b) => {
+      if (a.word.toLowerCase() === lowerCaseTerm) return -1;
+      if (b.word.toLowerCase() === lowerCaseTerm) return 1;
+      if (a.word.toLowerCase().startsWith(lowerCaseTerm) && !b.word.toLowerCase().startsWith(lowerCaseTerm)) return -1;
+      if (!a.word.toLowerCase().startsWith(lowerCaseTerm) && b.word.toLowerCase().startsWith(lowerCaseTerm)) return 1;
+      return a.word.localeCompare(b.word);
+  });
 };
 
 export const getEntriesByLetter = async (letter: string): Promise<DictionaryEntry[]> => {
-    if (!letter) {
-        return [];
-    }
-    
     const fileLetter = letterToFileMap[letter.toLowerCase()];
     if (!fileLetter) {
         return [];
     }
-
     const entries = await loadDictionaryFile(fileLetter);
-    const lowerCaseLetter = letter.toLowerCase();
-    
-    return entries.filter(entry => entry.word.toLowerCase().startsWith(lowerCaseLetter));
+    return entries.filter(entry => entry.word.toLowerCase().startsWith(letter.toLowerCase()));
 };
