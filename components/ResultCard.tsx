@@ -1,6 +1,5 @@
 import React from 'react';
 import { DictionaryEntry } from '../types';
-import { InformationCircleIcon } from './IconComponents';
 
 interface ResultCardProps {
   entry: DictionaryEntry;
@@ -44,24 +43,8 @@ const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm }) => {
     });
   };
 
-  const cardClass = entry.isOld
-      ? "bg-amber-50 dark:bg-slate-800 border border-amber-200 dark:border-amber-900/50 rounded-lg shadow-md p-6 mb-4 transition-transform duration-200 hover:shadow-lg hover:-translate-y-1"
-      : "bg-white dark:bg-slate-800 rounded-lg shadow-md p-6 mb-4 transition-transform duration-200 hover:shadow-lg hover:-translate-y-1";
-
   return (
-    <div className={cardClass}>
-      {entry.isOld && (
-        <div className="mb-4 p-3 rounded-md bg-amber-100 dark:bg-amber-900/30 border border-amber-200 dark:border-amber-800/50 text-amber-800 dark:text-amber-200 text-sm flex items-start" role="alert">
-          <InformationCircleIcon className="h-5 w-5 mr-3 mt-0.5 flex-shrink-0" />
-          <div>
-            <p className="font-semibold">Note on this entry:</p>
-            <p className="mt-1">This entry is from an older dictionary source and may reflect archaic usage.</p>
-            {entry.word.includes('ţ') && (
-              <p className="mt-2">The letter <strong>'ţ'</strong> is no longer in common use; it has been replaced by <strong>'s'</strong> in modern orthography.</p>
-            )}
-          </div>
-        </div>
-      )}
+    <div className="bg-white dark:bg-slate-800 rounded-lg shadow-md p-6 mb-4 transition-transform duration-200 hover:shadow-lg hover:-translate-y-1">
       <h3 className="text-2xl font-bold text-blue-800 dark:text-blue-400 mb-4">
         {formatText(entry.word, searchTerm)}
       </h3>
