@@ -1,3 +1,5 @@
+
+
 import React from 'react';
 import { useState, useCallback } from 'react';
 import { DictionaryEntry } from './types';
@@ -16,7 +18,7 @@ const App: React.FC = () => {
   const [isGuideModalOpen, setIsGuideModalOpen] = useState(false);
   const [isSourcesModalOpen, setIsSourcesModalOpen] = useState(false);
   
-  const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'ţ', 'u', 'ú', 'v', 'w', 'y', 'z'];
+  const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
 
   const handleSearch = useCallback(async (term: string) => {
     setIsLoading(true);
@@ -68,27 +70,20 @@ const App: React.FC = () => {
           </div>
 
           <div className="flex flex-wrap justify-center gap-1 sm:gap-2 my-6" role="navigation" aria-label="Alphabetical index">
-            {alphabet.map(letter => {
-                const isArchaicLetter = letter === 'ţ';
-                const baseClasses = "w-8 h-8 sm:w-9 sm:h-9 rounded-full flex items-center justify-center font-bold text-sm sm:text-base transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 dark:focus:ring-offset-slate-900";
-                
-                const selectedClasses = 'shadow-md scale-110';
-                
-                const normalClasses = `bg-white dark:bg-slate-800 text-blue-600 dark:text-blue-400 hover:bg-blue-100 dark:hover:bg-slate-700 shadow-sm hover:scale-105 ${selectedLetter === letter ? `bg-blue-600 text-white ${selectedClasses}` : ''}`;
-
-                const archaicClasses = `bg-amber-100 dark:bg-amber-800/50 text-amber-800 dark:text-amber-200 hover:bg-amber-200 dark:hover:bg-amber-700/50 shadow-sm hover:scale-105 focus:ring-amber-500 ${selectedLetter === letter ? `bg-amber-500 text-white ${selectedClasses}` : ''}`;
-
-                return (
-                    <button
-                        key={letter}
-                        onClick={() => handleLetterClick(letter)}
-                        className={`${baseClasses} ${isArchaicLetter ? archaicClasses : normalClasses}`}
-                        aria-pressed={selectedLetter === letter}
-                    >
-                        {letter.toUpperCase()}
-                    </button>
-                )
-            })}
+            {alphabet.map(letter => (
+                <button
+                    key={letter}
+                    onClick={() => handleLetterClick(letter)}
+                    className={`w-8 h-8 sm:w-9 sm:h-9 rounded-full flex items-center justify-center font-bold text-sm sm:text-base transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 dark:focus:ring-offset-slate-900 focus:ring-blue-500 ${
+                        selectedLetter === letter 
+                            ? 'bg-blue-600 text-white shadow-md scale-110' 
+                            : 'bg-white dark:bg-slate-800 text-blue-600 dark:text-blue-400 hover:bg-blue-100 dark:hover:bg-slate-700 shadow-sm hover:scale-105'
+                    }`}
+                    aria-pressed={selectedLetter === letter}
+                >
+                    {letter.toUpperCase()}
+                </button>
+            ))}
           </div>
 
           <div className="flex justify-end items-center gap-4 mb-8 px-2">
