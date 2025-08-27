@@ -17,6 +17,7 @@ const App: React.FC = () => {
   const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
   const [isGuideModalOpen, setIsGuideModalOpen] = useState(false);
   const [isSourcesModalOpen, setIsSourcesModalOpen] = useState(false);
+  const [highlightedAbbreviation, setHighlightedAbbreviation] = useState<string | null>(null);
   
   const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
 
@@ -36,6 +37,11 @@ const App: React.FC = () => {
     const letterResults = await getEntriesByLetter(letter);
     setResults(letterResults);
     setIsLoading(false);
+  }, []);
+
+  const handleAbbreviationClick = useCallback((abbr: string) => {
+      setHighlightedAbbreviation(abbr);
+      setIsGuideModalOpen(true);
   }, []);
 
   const getResultTerm = () => searchedTerm || (selectedLetter ? `words starting with '${selectedLetter}'` : '');
@@ -101,7 +107,7 @@ const App: React.FC = () => {
                 aria-haspopup="dialog"
             >
                 <QuestionMarkCircleIcon className="h-5 w-5 mr-1" />
-                Dictionary Guide
+                View Abbreviations
             </button>
           </div>
          
@@ -130,7 +136,7 @@ const App: React.FC = () => {
               <div>
                 <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">Found {results.length} results for "{getResultTerm()}".</p>
                 {results.map((entry, index) => (
-                  <ResultCard key={`${entry.word}-${index}`} entry={entry} searchTerm={searchedTerm || ''} />
+                  <ResultCard key={`${entry.word}-${index}`} entry={entry} searchTerm={searchedTerm || ''} onAbbreviationClick={handleAbbreviationClick} />
                 ))}
               </div>
             )}
@@ -141,7 +147,14 @@ const App: React.FC = () => {
           <p>You can find the source of this dictionary on <a href="https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-dictionary" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">GitHub</a>.</p>
         </footer>
       </div>
-      <GuideModal isOpen={isGuideModalOpen} onClose={() => setIsGuideModalOpen(false)} />
+      <GuideModal 
+        isOpen={isGuideModalOpen} 
+        onClose={() => {
+            setIsGuideModalOpen(false);
+            setHighlightedAbbreviation(null);
+        }}
+        highlightedAbbr={highlightedAbbreviation}
+      />
       <SourcesModal isOpen={isSourcesModalOpen} onClose={() => setIsSourcesModalOpen(false)} />
     </div>
   );
