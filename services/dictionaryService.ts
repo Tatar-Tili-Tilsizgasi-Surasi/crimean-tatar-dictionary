@@ -157,6 +157,29 @@ export const getEntriesByLetter = async (letter: string): Promise<DictionaryEntr
     if (!fileLetter) {
         return [];
     }
-    const entries = await loadDictionaryFile(fileLetter);
-    return entries.filter(entry => entry.word.toLowerCase().startsWith(letter.toLowerCase()));
+
+    // Load entries from the letter's primary file.
+    const primaryEntries = await loadDictionaryFile(fileLetter);
+
+    // If the primary file is not 'old', also load 'old' entries to find archaic words starting with the same letter.
+    const oldEntries = fileLetter !== 'old' ? await loadDictionaryFile('old') : [];
+
+    const allEntries = [...primaryEntries, ...oldEntries];
+    
+    // Remove duplicates. new Map keeps the last entry for a key.
+    // So if a word is in both a primary file and old.ts, the one from old.ts will be kept.
+    const uniqueEntriesMap = new Map(allEntries.map(entry => [entry.word, entry]));
+    
+    // Filter all loaded entries by the starting letter.
+    const finalEntries: DictionaryEntry[] = [];
+    for (const entry of uniqueEntriesMap.values()) {
+        if (entry.word.toLowerCase().startsWith(letter.toLowerCase())) {
+            finalEntries.push(entry);
+        }
+    }
+    
+    // Sort alphabetically by word.
+    finalEntries.sort((a, b) => a.word.localeCompare(b.word));
+
+    return finalEntries;
 };
