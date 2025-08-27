@@ -5,10 +5,9 @@ import { DictionaryEntry } from '../types';
 interface ResultCardProps {
   entry: DictionaryEntry;
   searchTerm: string;
-  onAbbreviationClick: (abbreviation: string) => void;
 }
 
-const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm, onAbbreviationClick }) => {
+const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm }) => {
   const formatText = (text: string, term: string): React.ReactNode => {
     if (!text) return text;
 
@@ -57,18 +56,7 @@ const ResultCard: React.FC<ResultCardProps> = ({ entry, searchTerm, onAbbreviati
             {meaning.partNumber && <span className="mr-2 font-bold">{meaning.partNumber}</span>}
             {meaning.abbreviation && (
                 <span className="italic text-gray-500 dark:text-gray-400">
-                  {meaning.abbreviation.trim().split(/\s+/).map((abbr, i, arr) => (
-                    <React.Fragment key={i}>
-                      <button
-                        onClick={() => onAbbreviationClick(abbr)}
-                        className="underline hover:text-blue-600 dark:hover:text-blue-400 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 rounded-sm"
-                        aria-label={`View definition for abbreviation: ${abbr}`}
-                      >
-                        {abbr}
-                      </button>
-                      {i < arr.length - 1 ? ' ' : ''}
-                    </React.Fragment>
-                  ))}
+                  {meaning.abbreviation}
                 </span>
             )}
           </div>

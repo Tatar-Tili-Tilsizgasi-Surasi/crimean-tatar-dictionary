@@ -1,12 +1,11 @@
 
 
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 import { CloseIcon } from './IconComponents';
 
 interface GuideModalProps {
   isOpen: boolean;
   onClose: () => void;
-  highlightedAbbr: string | null;
 }
 
 const abbreviationsData = `
@@ -146,20 +145,7 @@ const parsedAbbreviations = abbreviationsData.split('\n').map(line => {
     return { abbr, romanian, crimean: crimean.trim() };
 });
 
-const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose, highlightedAbbr }) => {
-  const highlightedRowRef = useRef<HTMLTableRowElement>(null);
-
-  useEffect(() => {
-    if (isOpen && highlightedAbbr && highlightedRowRef.current) {
-        setTimeout(() => { // Timeout to allow modal animation/rendering
-            highlightedRowRef.current?.scrollIntoView({
-                behavior: 'smooth',
-                block: 'center',
-            });
-        }, 100);
-    }
-  }, [isOpen, highlightedAbbr]);
-  
+const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose }) => {
   if (!isOpen) return null;
 
   return (
@@ -197,21 +183,16 @@ const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose, highlightedAbb
                 </tr>
               </thead>
               <tbody>
-                {parsedAbbreviations.map(({ abbr, romanian, crimean }, index) => {
-                  const isHighlighted = highlightedAbbr === abbr;
-                  return (
+                {parsedAbbreviations.map(({ abbr, romanian, crimean }, index) => (
                     <tr 
                       key={index}
-                      ref={isHighlighted ? highlightedRowRef : null}
-                      className={`border-b border-gray-200 dark:border-slate-700 transition-colors duration-300 ${isHighlighted ? 'bg-blue-100 dark:bg-blue-900/50' : 'hover:bg-gray-50 dark:hover:bg-slate-600/20'}`}
-                      aria-current={isHighlighted ? 'true' : 'false'}
+                      className="border-b border-gray-200 dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-600/20"
                     >
                       <td className="px-4 py-2 font-mono font-bold text-blue-600 dark:text-blue-400">{abbr}</td>
                       <td className="px-4 py-2 text-gray-800 dark:text-gray-200">{romanian}</td>
                       <td className="px-4 py-2 text-gray-800 dark:text-gray-200">{crimean}</td>
                     </tr>
-                  );
-                })}
+                ))}
               </tbody>
             </table>
         </div>
