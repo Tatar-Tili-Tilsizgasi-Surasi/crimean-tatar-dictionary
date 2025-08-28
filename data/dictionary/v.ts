@@ -66,7 +66,7 @@ vampir s. vampir.
 vanadiyum s. (chim.) vanadiu. 
 vandal s. vandal (şi fig.). 
 vandalism s. vandalism. 
-vaniliyalî adj. cu vanilie; vanilat. //●vanilyalî şokolat — a ciocolată cu vanilie. 
+vaniliyalî adj. cu vanilie; vanilat. //●vaniliyalî şokolat — a ciocolată cu vanilie. 
 Vanuwat s. (topon.) Vanuatu. 
 varaka s. hârtie; document. 
 varakalî s., adj. documentar. 
@@ -99,7 +99,7 @@ vasîflawğî adj. calificativ.
 vasîl s. sosire; venire; ajungere. //●vasîl bolmak — a sosi; a veni; a ajunge. 
 Vasîl s. (antrop. m., arab.) "Mijlocitorul divinităŃii" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
 vasîllî adj. sosit; venit; ajuns. 
-vasîta s. 1. mijloc; cale. 2. intermediu; intermediere; mijlocire. 3. intermediar; mijlocitor; vehicul. // ●h a w a na k l i y a t v a s î t a s î mijloc de transport aerian. ●m o t o r l î v a s î t a autovehicul. ●n a k i l v a s î t a s î mijloc de transport. ●ú r e t ím / i s t i h s a l v a s î t alarî mijloace de producŃie. ●vasîtasî man — prin intermediul…; 
+vasîta s. 1. mijloc; cale. 2. intermediu; intermediere; mijlocire. 3. intermediar; mijlocitor; vehicul. // ●hawa nakliyat vasîtasî — mijloc de transport aerian. ●motorlî vasîta — autovehicul. ●nakil vasîtasî — mijloc de transport. ●úretím/istihsal vasîtalarî — mijloace de producŃie. ●vasîtasî man — prin intermediul…; 
 vasîtağî s. intermediar; mijlocitor; misit. 
 vasîtalî adj. indirect. // ●vasîtalî bergí — impozit indirect. 
 vasîtasîz adj. direct; nemijlocit. //●vasîtasîz bergí — impozit direct. 
