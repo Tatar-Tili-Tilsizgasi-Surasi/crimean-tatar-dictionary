@@ -32,6 +32,46 @@ const letterToFileMap: { [key: string]: string } = {
     'z': 'z',
 };
 
+// The alphabet for custom sorting, as specified for correct Crimean Tatar alphabetical order.
+const customAlphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
+// Create a map for quick lookup of character order.
+const alphabetOrderMap = new Map<string, number>(customAlphabet.map((char, index) => [char, index]));
+
+// Custom comparison function for sorting words according to the Crimean Tatar alphabet.
+const customCompare = (a: string, b: string): number => {
+    const aLower = a.toLowerCase();
+    const bLower = b.toLowerCase();
+    const maxLength = Math.max(aLower.length, bLower.length);
+
+    for (let i = 0; i < maxLength; i++) {
+        if (i >= aLower.length) return -1; // a is shorter
+        if (i >= bLower.length) return 1; // b is shorter
+
+        const charA = aLower[i];
+        const charB = bLower[i];
+
+        const orderA = alphabetOrderMap.get(charA);
+        const orderB = alphabetOrderMap.get(charB);
+        
+        // If both are in alphabet and different
+        if (orderA !== undefined && orderB !== undefined && orderA !== orderB) {
+            return orderA - orderB;
+        }
+        
+        // If one is in alphabet and other is not (e.g. letter vs. punctuation)
+        // We want letters to come before punctuation.
+        if (orderA !== undefined && orderB === undefined) return -1;
+        if (orderA === undefined && orderB !== undefined) return 1;
+
+        // If both are not in alphabet, or are the same character from alphabet
+        if (charA !== charB) {
+            // Standard localeCompare for punctuation, spaces, etc.
+            return charA.localeCompare(charB);
+        }
+    }
+    return 0; // identical
+};
+
 // Cache to store parsed dictionary entries to avoid re-parsing files.
 const cache = new Map<string, DictionaryEntry[]>();
 
@@ -169,7 +209,7 @@ export const searchDictionary = async (term: string): Promise<DictionaryEntry[]>
     }
   }
   
-  // Sort results: matches in 'word' field first, then by alphabetical order.
+  // Sort results: matches in 'word' field first, then by alphabetical order using the custom sort function.
   return allResults.sort((a, b) => {
     const aIsWordMatch = a.word.toLowerCase().startsWith(lowerCaseTerm);
     const bIsWordMatch = b.word.toLowerCase().startsWith(lowerCaseTerm);
@@ -182,7 +222,7 @@ export const searchDictionary = async (term: string): Promise<DictionaryEntry[]>
     }
 
     // If both are word matches or neither are, sort alphabetically by word.
-    return a.word.localeCompare(b.word);
+    return customCompare(a.word, b.word);
   });
 };
 
@@ -200,5 +240,5 @@ export const getEntriesByLetter = async (letter: string): Promise<DictionaryEntr
     const lowerCaseLetter = letter.toLowerCase();
     
     const filteredEntries = entries.filter(entry => entry.word.toLowerCase().startsWith(lowerCaseLetter));
-    return filteredEntries.sort((a, b) => a.word.localeCompare(b.word));
+    return filteredEntries.sort((a, b) => customCompare(a.word, b.word));
 };
