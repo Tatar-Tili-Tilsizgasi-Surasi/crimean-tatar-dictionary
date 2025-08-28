@@ -1252,5 +1252,99 @@ akyúzlí adj. desfigurat; palid.
 ak-yúzlí-boraganğî s. (orn.) rândunica furtunii cu faŃă albă (lat., Pelagodroma marina). 
 ak-yúzlí-ğelkuwgan s. (orn.) ielcovan cu faŃă albă; furtunar cu faŃă albă; pasărea-furtunii cu faŃă albă (lat., Calonectris leucomelas). 
 ak-yúzlí-karkîldak s. 1. (orn.) chirighiŃă cu obraz alb (lat., Chlidonias hybridus). 2. (orn.) chiră cu obraz alb; chiră arabă; pescăriŃă cu obraz alb; pescăriŃă arabă (lat., Sterna repressa).
+ak-yúzlí-kaz s. (orn.) gâscă călugăriŃă (lat., Branta leucopsis). 
+ak-yúzlí-keklík s. (orn.) găinuşă cu cap alb (lat., Arborophila atrogularis). 
+ak-yúzlí-kírkík s. (orn.) găinuşă cu cap alb (lat., Arborophila atrogularis). 
+ak-yúzlí-kîlkuyruk s. (orn.) raŃă cu obrazul alb (lat., Anas bahamensis). 
+ak-yúzlí-kîl-kuyruklî-órdek s. (orn.) raŃă cu obrazul alb (lat., Anas bahamensis). 
+ak-yúzlí-órdek s. (orn.) raŃă cu obraz alb (lat., Bucephala albeola). 
+ak-yúzlí-ótlegen s. (orn.) dendroica cu obraz alb (lat., Dendroica striata). 
+ak-yúzlí-Rosella-dudukuşî s. (orn.) papagal Rosela cu obraz alb (lat., Platycercus adscitus). 
+ak-yúzlí-sîyîrşîk s. (orn.) graur cu obraz alb (lat., Sturnus cineraceus). 
+ak-yúzlí-şegertkíğí s. (orn.) graur cu obraz alb (lat., Sturnus cineraceus). 
+ak-yúzlí-şîjgîruwğî-añgîr s. (orn.) raŃă de copac cu faŃă galbenă (lat., Dendrocygna viduata). 
+al I. adj. 1. roşu aprins; stacojiu. 2. arzător; fierbinte; dogoritor. II. interj. ia!; na!; // ●al kúneş — soare dogoritor. 
+ala adj. (d. păsări, animale) parŃial colorat; pătat. 
+alabalîk s. (iht.) păstrăv-de-mare; alabalâc (lat., Salmo trutta trutta). 
+alabastîr s. (minr.) alabastru. 
+alabaş s. (bot.) gulie (lat., Brassica oleracea gongyloides). 
+alabezek-menewşe s. (bot.) pansea; trei-fraŃi-pătaŃi (lat., Viola tricolor). 
+alabuga s. (iht.) biban; baboi; costraş (lat., Perca  fluviatilis). alağa adj. pestriŃ; bălŃat. 
+alağa-Hint-karkarasî s. (orn.) stârc indian pestriŃ (lat., Ardeola grayii). 
+alağa-Hint-şapurî s. (orn.) stârc indian pestriŃ (lat., Ardeola grayii). 
+alağak s. (fin.) creanŃă. // ●alağak niyetí men — cu intenŃia de a lua. 
+alağakarañgîlîk s. amurg; crepuscul; semiîntuneric. 
+alağa-Kîtay-karkarasî s. (orn.) stârc chinezesc pestriŃ (lat., Ardeola bacchus). 
+alağa-Kîtay-şapurî s. (orn.) stârc chinezesc pestriŃ (lat., Ardeola bacchus). 
+alağaklî s. creditor. 
+alağakóleke s. penumbră; semiîntuneric. 
+alağakólge s. penumbră; semiîntuneric. 
+alağalangan adj. 1. pestriŃ; bălŃat. 2. schimbat la faŃă; întunecat la faŃă. 3. (d. ochi, privire) împăienjenit; tulburat; întunecat. 
+alağalanma s. 1. (d. privire, chip) împăienjenire; întunecare; tulburare. 2. împestriŃare. 
+alağalanmak v.i. 1. a se împestriŃa. 2. a se schimba la faŃă; a se întuneca la faŃă. 3. (d. ochi, privire) a se împăienjeni; a se tulbura; a se întuneca. 
+alağalanuw s. 1. (d. privire, chip) împăienjenire; întunecare; tulburare. 2. împestriŃare. 
+alağalî adj. 1. pestriŃ; bălŃat. 2. schimbat la faŃă; întunecat la faŃă. 3. (d. ochi, privire) împăienjenit; tulburat; întunecat. 
+alağasegúder s. penumbră; semiîntuneric. alak adj. pestriŃ; bălŃat. 
+alak, ak-şáşlí- s. (orn.) alcă antică (lat., Synthliboramphus antiquus). 
+alak, antika- s. (orn.) alcă antică (lat., Synthliboramphus antiquus). 
+alak, kalîn-gágáalî- s. (orn.) pasărea murre cu cioc gros; alcă polară (lat., Uria lomvia). 
+alak, kara- s. (orn.) alcă cu oglindă (lat., Cepphus grylle). 
+alak, kekeşlí- s. (orn.) alcă moŃată (lat., Aethia cristatella). 
+alak, kíşkene- s. (orn.) alcă mică (lat., Alle alle). 
+alak, mermer- s. (orn.) alcă mărmurie (lat., Brachyramphus marmoratus). 
+alak, sîradan- s. (orn.) pasărea murre (lat., Uria aalge). 
+alak, usturalî- s. (orn.) alcă nordică (lat., Alca torda). 
+alak, uzun-gágáalî- s. (orn.) alcă cu cioc lung (lat., Brachyramphus perdix). 
+alakanat s. (orn.) scatiu (lat., Carduelis spinus). 
+alakapî s. (anat., arhit.) arc; arcadă; boltă. 
+Ala-Kapî s. (topon.) ("Arcada") Poarta Albă (jud. ConstanŃa). 
+alakapîlî adj. arcuit; boltit. 
+ala-karga s. (orn.) gaiŃă (lat., Garrulus glandarius). 
+alakkoray s. bălărie; buruienişte; hăŃiş; pârloagă. 
+alakotî s. bălărie; buruienişte; hăŃiş; pârloagă. 
+alama adj. negativ; rău. 
+alamalîk s. negativism; negare; negaŃie. 
+alan I. s. 1. teren; câmp; piaŃă; rond. 2. domeniu; ramură; branşă. 3. (mat.) suprafaŃă. II. s., adj. (ist.) scit; câmpean; crimean; locuitor al stepei. //●alan ólşemesí — măsurarea suprafeŃei. ●faaliyet alanî — domeniu de activitate. ●kóríş alanî — vizibilitate. ●kóz alanî — câmp vizual. ●mîknatîs alanî — câmp magnetic. ●tenis alanî — (sport) teren de tenis. 
+alar part. (succedând un nume propriu 
+sau un nume de rudenie) alde. 
+alarma s. alarmă. 
+alas adj. curat; pur. 
+Alaska-kumtawugî s. (orn.) fugaci 
+vestic (lat., Calidris mauri). 
+alaşa adj. 1. scund. 2. (d. cai) jugan. 3. pestriŃ; bălŃat. 
+alaşa-balîkşî s. (orn.) pescăruş multicolor (lat., Ceryle rudis). 
+alaşa-balşîbînğî s. (orn.) prigorie cu gât alb (lat., Merops albicollis). 
+alaşa-boraganğî s. (orn.) rândunica furtunii de Cap (lat., Daption capense). 
+alaşa-búlbúl s. (orn.) privighetoare de zăvoi (lat., Luscinia luscinia). 
+alaşa-delítaş s. (orn.) pietrar bălŃat (lat., Oenanthe pleschanka). 
+alaşa-dogan s. (orn.) vânturel roşu; şoim roşu; vindereu (lat., Falco tinnunculus; Tinnunculus alaudarius). 
+alaşa-kîzîl-bağaklî-palşîkşî s. (orn.) fluierar negru (lat., Tringa erythropus). 
+alaşa-kîzlarkuşî s. (orn.) prigorie cu gât alb (lat., Merops albicollis). 
+alaşa-kukuk s. (orn.) cuc bălŃat (lat., Clamator jacobinus). 
+alaşa-kukuw s. (orn.) cuc bălŃat (lat., Clamator jacobinus). 
+alaşa-kumtawuk s. (orn.) fugaci pestriŃ ( lat., Calidris tenuirostris). 
+alaşa-kuyruksallar s. (orn.) codobatură africană; prundar african (lat., Motacilla aguimp). 
+alaşalangan adj. 1. pestriŃ; bălŃat. 2. schimbat la faŃă; întunecat la faŃă. 3. (d. ochi, privire) împăienjenit; tulburat; întunecat. 
+alaşalanma s. 1. (d. privire, chip) împăienjenire; întunecare; tulburare. 2. împestriŃare. 
+alaşalanmak v.i. 1. a se împestriŃa. 2. a se schimba la faŃă; a se întuneca la faŃă. 3. (d. ochi, privire) a se împăienjeni; a se tulbura; a se întuneca. 
+alaşalanuw s. 1. (d. privire, chip) împăienjenire; întunecare; tulburare. 2. împestriŃare. 
+alaşalî adj. 1. pestriŃ; bălŃat. 2. schimbat la faŃă; întunecat la faŃă. 3. (d. ochi, privire) împăienjenit; tulburat; întunecat. 
+alaşa-órdek s. (orn.) raŃă pătată (lat., Anas flavirostris). 
+alaşa-sîyîrşîk s. (orn.) lăcustar pestriŃ (lat., Sturnus contra). 
+alaşa-şakşakay s. (orn.) codobatură africană; prundar african (lat., Motacilla aguimp). 
+alaşa-şegertkíğí s. (orn.) lăcustar pestriŃ (lat., Sturnus contra). 
+alaşa-şîbînğî s. (orn.) muscar negru (lat., Ficedula hypoleuca). 
+alaşa-şulluk s. (orn.) becaŃă; becaŃină Wilson (lat., Gallinago delicata; Capella delicata). 
+alaşa-taşkuşî s. (orn.) mărăcinar bălŃat (lat., Saxicola caprata). 
+alaşa-togan s. (orn.) vânturel roşu; şoim roşu; vindereu (lat., Falco tinnuncul us; Tinnunculus alaudarius). 
+alaşa-yapalak s. (orn.) cucuvea indiană pătată (lat., Athena brama). 
+alaşîk s. iurtă; cort. 
+alaşîray s. (orn.) cinteză; cintezoi (lat., Fringilla coelebs). 
+alat s. 1. (tehn.) piesă; mecanism. 2. instrument; aparat; sculă; unealtă. //●istihsal alatî — unealtă de producŃie. ●kabaát alatî — corpul delict. ●kótergen alat — lift; ascensor. ●nefeslí alatlar — instrumente de suflat. ●úretím alatlarî — unelte de producŃie. 
+alat-edevat s. unelte; instrumente; aparataj; aparatură. 
+alatkayragan s. sculer; tocilar; persoană care ascute la tocilă. 
+alatlandîrma s. utilare; dotare; echipare. 
+alatlandîrmak v.t. a utila; a dota; a echipa. 
+alatlandîruw s. utilare; dotare; echipare.
 `;
 export default rawDictionaryText;
