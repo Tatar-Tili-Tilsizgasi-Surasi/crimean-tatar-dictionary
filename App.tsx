@@ -1,9 +1,9 @@
 
 
 import React from 'react';
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import { DictionaryEntry } from './types';
-import { searchDictionary, getEntriesByLetter } from './services/dictionaryService';
+import { searchDictionary, getEntriesByLetter, getTotalEntryCount } from './services/dictionaryService';
 import SearchBar from './components/SearchBar';
 import ResultCard from './components/ResultCard';
 import { BookOpenIcon, QuestionMarkCircleIcon, InformationCircleIcon } from './components/IconComponents';
@@ -17,8 +17,17 @@ const App: React.FC = () => {
   const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
   const [isGuideModalOpen, setIsGuideModalOpen] = useState(false);
   const [isSourcesModalOpen, setIsSourcesModalOpen] = useState(false);
+  const [totalEntries, setTotalEntries] = useState<number | null>(null);
   
   const alphabet = ['a', 'á', 'b', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'i', 'í', 'î', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'ó', 'p', 'r', 's', 'ş', 't', 'u', 'ú', 'v', 'w', 'y', 'z'];
+
+  useEffect(() => {
+    const fetchTotalCount = async () => {
+        const count = await getTotalEntryCount();
+        setTotalEntries(count);
+    };
+    fetchTotalCount();
+  }, []);
 
   const handleSearch = useCallback(async (term: string) => {
     setIsLoading(true);
@@ -123,6 +132,11 @@ const App: React.FC = () => {
                <div className="text-center p-10 bg-white dark:bg-slate-800 rounded-lg shadow-md">
                 <h3 className="text-xl font-semibold mb-2">Welcome to Sózlík!</h3>
                 <p className="text-gray-600 dark:text-gray-400">Enter a word above or select a letter to begin your search.</p>
+                 {totalEntries !== null && (
+                    <p className="text-sm text-gray-500 dark:text-gray-400 mt-4">
+                        Currently serving <span className="font-bold text-blue-600 dark:text-blue-400">{totalEntries.toLocaleString()}</span> dictionary entries.
+                    </p>
+                )}
               </div>
             )}
             
