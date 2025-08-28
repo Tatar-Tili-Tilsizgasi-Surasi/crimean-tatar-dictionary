@@ -186,7 +186,7 @@ velurlî adj. velurat.
 velvele s. gălăgie; larmă; tărăboi. 
 velveleğí adj. gălăgios; certăreŃ. 
 vena s. (anat.) venă. 
-venaíş í s. (med.) intravenos. 
+venaíşí s. (med.) intravenos. 
 venalî adj. (med.) venos. 
 venerik s. (med.) veneric. 
 veneroloğiya s. (med.) venerologie. 
@@ -326,8 +326,7 @@ Viyena s. (topon.) Viena.
 viyenalî s., adj. vienez. 
 viyetnam s., adj. vietnamez. 
 Viyetnam s. (topon.) Vietnam. 
-viyetnamğa I. adv. în limba 
-vietnameză. II. s. (limba) vietnameză. 
+viyetnamğa I. adv. în limba vietnameză. II. s. (limba) vietnameză. 
 viyetnamlî s., adj. vietnamez. 
 viyola s. (muz.) violă.
 `;
