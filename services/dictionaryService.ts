@@ -202,7 +202,8 @@ export const searchDictionary = async (term: string): Promise<DictionaryEntry[]>
         return false;
       }
 
-      if (entry.word.toLowerCase().startsWith(lowerCaseTerm)) {
+      // Updated to check if the word *includes* the term.
+      if (entry.word.toLowerCase().includes(lowerCaseTerm)) {
         return true;
       }
 
@@ -229,19 +230,27 @@ export const searchDictionary = async (term: string): Promise<DictionaryEntry[]>
     }
   }
   
-  // Sort results: matches in 'word' field first, then by alphabetical order using the custom sort function.
+  // Sort results with a more nuanced scoring system for relevance.
   return allResults.sort((a, b) => {
-    const aIsWordMatch = a.word.toLowerCase().startsWith(lowerCaseTerm);
-    const bIsWordMatch = b.word.toLowerCase().startsWith(lowerCaseTerm);
+    const aLower = a.word.toLowerCase();
+    const bLower = b.word.toLowerCase();
 
-    if (aIsWordMatch && !bIsWordMatch) {
-      return -1; // a comes first
-    }
-    if (!aIsWordMatch && bIsWordMatch) {
-      return 1; // b comes first
+    // Scoring: lower is better.
+    const getScore = (word: string): number => {
+        if (word === lowerCaseTerm) return 0; // 0 for exact match
+        if (word.startsWith(lowerCaseTerm)) return 1; // 1 for starts with
+        if (word.includes(lowerCaseTerm)) return 2; // 2 for includes
+        return 3; // 3 for match in definition/example
+    };
+
+    const scoreA = getScore(aLower);
+    const scoreB = getScore(bLower);
+
+    if (scoreA !== scoreB) {
+      return scoreA - scoreB;
     }
 
-    // If both are word matches or neither are, sort alphabetically by word.
+    // If scores are the same, sort alphabetically by word.
     return customCompare(a.word, b.word);
   });
 };
