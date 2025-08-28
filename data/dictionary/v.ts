@@ -77,9 +77,9 @@ varis s. moştenitor; succesor; legatar.
 Varis, El- s. (relig., arab.) "Urmaşul absolut"; “Stăpânitorul veşnic şi moştenitorul de drept al universului” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
 variyanta s. variantă; alternativă. 
 variyasiya s. (muz.) variaŃiune. 
-variyete s. varieteu; varietăŃi. //●v a r i y e t e t em s i l í spectacol de varietăŃi. 
+variyete s. varieteu; varietăŃi. //●variyete temsilí — spectacol de varietăŃi. 
 varoş s. cartier mărginaş; periferie. 
-varta s. pericol; situaŃie primejdioasă. // ●v a r t an î a t l a tm a k a evita pericolul. 
+varta s. pericol; situaŃie primejdioasă. // ●vartanî atlatmak — a evita pericolul. 
 vasat s. mijloc; centru. 
 vasatiy adj. mijlociu; intermediar. 
 vaselina s. (chim.) vaselină. 
