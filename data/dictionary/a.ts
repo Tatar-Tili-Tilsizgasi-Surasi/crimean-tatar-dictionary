@@ -1305,12 +1305,10 @@ alakotî s. bălărie; buruienişte; hăŃiş; pârloagă.
 alama adj. negativ; rău. 
 alamalîk s. negativism; negare; negaŃie. 
 alan I. s. 1. teren; câmp; piaŃă; rond. 2. domeniu; ramură; branşă. 3. (mat.) suprafaŃă. II. s., adj. (ist.) scit; câmpean; crimean; locuitor al stepei. //●alan ólşemesí — măsurarea suprafeŃei. ●faaliyet alanî — domeniu de activitate. ●kóríş alanî — vizibilitate. ●kóz alanî — câmp vizual. ●mîknatîs alanî — câmp magnetic. ●tenis alanî — (sport) teren de tenis. 
-alar part. (succedând un nume propriu 
-sau un nume de rudenie) alde. 
+alar part. (succedând un nume propriu sau un nume de rudenie) alde. 
 alarma s. alarmă. 
 alas adj. curat; pur. 
-Alaska-kumtawugî s. (orn.) fugaci 
-vestic (lat., Calidris mauri). 
+Alaska-kumtawugî s. (orn.) fugaci vestic (lat., Calidris mauri). 
 alaşa adj. 1. scund. 2. (d. cai) jugan. 3. pestriŃ; bălŃat. 
 alaşa-balîkşî s. (orn.) pescăruş multicolor (lat., Ceryle rudis). 
 alaşa-balşîbînğî s. (orn.) prigorie cu gât alb (lat., Merops albicollis). 
