@@ -306,8 +306,7 @@ açitleşúw s. (chim.) acidulare.
 açitlí adj. (chim.) acid; acidulat. 
 açitlík s. (chim.) aciditate. 
 ada s. (geogr.) insulă; ostrov. //●takîm adalar — arhipelag. 
-adak s. 1. promisiune; făgăduială; 
-angajament. 2. logodnă. 
+adak s. 1. promisiune; făgăduială; angajament. 2. logodnă. 
 adaklama s. promisiune; făgăduială; angajament. 
 adaklamak v.t. a promite; a făgădui; a se angajament. 
 adaklangan adj. promis; făgăduit; angajat. 
