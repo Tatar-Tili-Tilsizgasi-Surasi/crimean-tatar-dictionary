@@ -169,7 +169,21 @@ export const searchDictionary = async (term: string): Promise<DictionaryEntry[]>
     }
   }
   
-  return allResults;
+  // Sort results: matches in 'word' field first, then by alphabetical order.
+  return allResults.sort((a, b) => {
+    const aIsWordMatch = a.word.toLowerCase().startsWith(lowerCaseTerm);
+    const bIsWordMatch = b.word.toLowerCase().startsWith(lowerCaseTerm);
+
+    if (aIsWordMatch && !bIsWordMatch) {
+      return -1; // a comes first
+    }
+    if (!aIsWordMatch && bIsWordMatch) {
+      return 1; // b comes first
+    }
+
+    // If both are word matches or neither are, sort alphabetically by word.
+    return a.word.localeCompare(b.word);
+  });
 };
 
 export const getEntriesByLetter = async (letter: string): Promise<DictionaryEntry[]> => {
@@ -185,5 +199,6 @@ export const getEntriesByLetter = async (letter: string): Promise<DictionaryEntr
     const entries = await loadDictionaryFile(fileLetter);
     const lowerCaseLetter = letter.toLowerCase();
     
-    return entries.filter(entry => entry.word.toLowerCase().startsWith(lowerCaseLetter));
+    const filteredEntries = entries.filter(entry => entry.word.toLowerCase().startsWith(lowerCaseLetter));
+    return filteredEntries.sort((a, b) => a.word.localeCompare(b.word));
 };
