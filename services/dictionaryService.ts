@@ -75,6 +75,9 @@ const customCompare = (a: string, b: string): number => {
 // Cache to store parsed dictionary entries to avoid re-parsing files.
 const cache = new Map<string, DictionaryEntry[]>();
 
+// Cache for total entry count.
+let totalEntryCount: number | null = null;
+
 const parseMeaningChunk = (chunk: string): WordMeaning => {
   const partNumberMatch = chunk.match(/^([IVX]+\.|[A-Z]\.)/);
   const partNumber = partNumberMatch ? partNumberMatch[1] : undefined;
@@ -163,6 +166,23 @@ const loadDictionaryFile = async (fileLetter: string): Promise<DictionaryEntry[]
         cache.set(fileLetter, []);
         return [];
     }
+};
+
+export const getTotalEntryCount = async (): Promise<number> => {
+    if (totalEntryCount !== null) {
+        return totalEntryCount;
+    }
+
+    let count = 0;
+    const allPromises = alphabetFiles.map(fileLetter => loadDictionaryFile(fileLetter));
+    const allEntriesArrays = await Promise.all(allPromises);
+
+    for (const entries of allEntriesArrays) {
+        count += entries.length;
+    }
+    
+    totalEntryCount = count;
+    return totalEntryCount;
 };
 
 export const searchDictionary = async (term: string): Promise<DictionaryEntry[]> => {
