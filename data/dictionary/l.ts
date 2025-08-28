@@ -87,8 +87,7 @@ lálesí, karga- s. (bot.) zămoşiŃă; macul-ciorii (lat., Hibiscus trionum).
 lálesí, taj- s. (bot.) bibilică; coroană; lalea-pestriŃă (lat., Fritillaria meleagris). 
 láma s. (zool.) lamă (lat., Lama). 
 láma-karabaşî s. lama. 
-lámba s. 1. lampă cu petrol; felinar; semafor. 2. (fiz.) lampă. //●ğoklama lámbasî — (tehn.) lampă de control. ●lámba íşesí — sticlă de lampă. ●lámbanîñ ğarîgî uzaktan yeşíl bolîp kóríne — din 
-depărtare lumina lămpii se vede verde. ●tîlsîm lámbasî — lampion. 
+lámba s. 1. lampă cu petrol; felinar; semafor. 2. (fiz.) lampă. //●ğoklama lámbasî — (tehn.) lampă de control. ●lámba íşesí — sticlă de lampă. ●lámbanîñ ğarîgî uzaktan yeşíl bolîp kóríne — din depărtare lumina lămpii se vede verde. ●tîlsîm lámbasî — lampion. 
 lámela s. lamelă. 
 lándo s. landou. 
 lástík s. 1. (auto.) cauciuc; cameră. 2. elastic. 3. galoş; şoşon; cizme de cauciuc. 4. gumă; radieră. 5. (auto.) anvelopă; pneu. // ●arka lástíkler cauciucurile din spate. ●bír şerík metre lástík — un sfert de metru de elastic. ●bír şípt lástík — o pereche de galoşi. ●íş lástígí hawa kaşîra — răsuflă camera. ●lástík ğanardaklaştîrîlmalî — cauciucul trebuie vulcanizat. 
