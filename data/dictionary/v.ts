@@ -2,7 +2,7 @@ const rawDictionaryText = `
 vaat s. promisiune; făgăduială. //●sízge bírşiy vaat et-almam — nu vă pot promite nimic. 
 vaatetmek v.t. a promite; a făgădui. 
 vaatetúwğí adj. promiŃător. 
-vaattetme s. promisiune; făgăduială. 
+vaatetme s. promisiune; făgăduială. 
 vaaz s. (relig.) povăŃuire; povaŃă; predicare; predică; propovăduire; binevestire. 
 vaazetmek v.i. (relig.) a povăŃui; a predica; a propovădui; a binevesti. 
 vaazetúw s. (relig.) povăŃuire; predicare; propovăduire; binevestire. 
@@ -85,9 +85,9 @@ vasatiy adj. mijlociu; intermediar.
 vaselina s. (chim.) vaselină. 
 vasiy s. (jur.) tutore; curator. 
 Vasiy, El- s. (relig., arab.) "Cel nemărginit"; “Cel ce nu cunoaşte margini în bunătatea şi puterea Sa” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
-vasiyet s. testament. // ●v a s i y e t e tm e k a lăsa testament. 
-vasiyetiy adj. testamentar. //●v a s i y e t i y i ğ r a m em u r (jur.) executor testamentar. 
-vasiyetname s. (jur.) act testamentar; testament. // ●v a s i y e t n am eg e k ó r e testamentar. 
+vasiyet s. testament. // ●vasiyet etmek — a lăsa testament. 
+vasiyetiy adj. testamentar. //●vasiyetiy iğra memur — (jur.) executor testamentar. 
+vasiyetname s. (jur.) act testamentar; testament. // ●vasiyetnamege kóre — testamentar. 
 vasiylík s. (jur.) tutelă; curatelă. 
 vasîf s. însuşire; calitate; caracteristică. 
 vasîflama s. calificare. 
@@ -96,7 +96,7 @@ vasîflangan adj. calificat.
 vasîflanmagan adj. necalificat. 
 vasîflanmak v.i. a se caracteriza; a fi calificat. 
 vasîflawğî adj. calificativ. 
-vasîl s. sosire; venire; ajungere. //●v a s î l b o lm a k a sosi; a veni; a ajunge. 
+vasîl s. sosire; venire; ajungere. //●vasîl bolmak — a sosi; a veni; a ajunge. 
 Vasîl s. (antrop. m., arab.) "Mijlocitorul divinităŃii" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
 vasîllî adj. sosit; venit; ajuns. 
 vasîta s. 1. mijloc; cale. 2. intermediu; intermediere; mijlocire. 3. intermediar; mijlocitor; vehicul. // ●h a w a na k l i y a t v a s î t a s î mijloc de transport aerian. ●m o t o r l î v a s î t a autovehicul. ●n a k i l v a s î t a s î mijloc de transport. ●ú r e t ím / i s t i h s a l v a s î t alarî mijloace de producŃie. ●vasîtasî man — prin intermediul…; 
