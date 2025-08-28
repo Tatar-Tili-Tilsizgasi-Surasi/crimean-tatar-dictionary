@@ -160,5 +160,175 @@ vehimğí s. născocitor; inventator.
 vehimlí adj. închipuit; plăsmuit; născocit. 
 vekálet s. 1. împuternicire; autorizare; autorizaŃie; mandat. 2. (arh.) minister. 
 vekáletiye s. împuternicire; autorizare; autorizaŃie; mandat.
+vekáletlí adj. împuternicit; autorizat; mandatar. 
+vekáletname s. împuternicire; procură. 
+vekáletnamelí adj. cu procură; cu împuternicire; per procura. 
+vekil s. 1. ministru. 2. avocat. 3. împuternicit; mandatar; reprezentant. 4. (jur.) tutore; curator. 
+Vekil/Wekíl, El- s. (relig., arab.) "Împuternicitul"; “Cel ce are mijloacele şi puterea de a desluşi şi dezlega orice lucru în cel mai bun chip” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+vektor s. (mat.) vector. 
+vektoriyal adj. vectorial. 
+vektorlîk adj. vectorial. 
+velet s. copil; fiu. 
+veletiy adj. copilăresc. 
+velet-í zina iz.prsn. copil nelegitim; bastard. 
+velhasîl adv. pe scurt; într-un cuvânt. 
+veliy I. s. tutore; curator; protector. II. s., adj. (relig.) sfânt; sacru. 
+Veliy/Welí s. (antrop. m., arab.) "Ocrotitorul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Veliy/Welí, El- s. (relig., arab.) "Ocrotitorul"; “Cel ce este prietenul supuşilor Săi şi îi ocroteşte de fapte dăunătoare” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+veliyaht s. prinŃ moştenitor. 
+veliy-aynak s. (orn.) ibis (lat., Threskiornis aethiopica). 
+veliy-ibis s. (orn.) ibis (lat., Threskiornis aethiopica). 
+veliylík s. 1. (relig.) sfinŃenie. 2. (jur.) tutelă; curatelă. 
+veliynimet s. binefăcător. 
+velodrom s. velodrom. 
+velur s. (text.) velur. 
+velurlî adj. velurat. 
+velvele s. gălăgie; larmă; tărăboi. 
+velveleğí adj. gălăgios; certăreŃ. 
+vena s. (anat.) venă. 
+venaíş í s. (med.) intravenos. 
+venalî adj. (med.) venos. 
+venerik s. (med.) veneric. 
+veneroloğiya s. (med.) venerologie. 
+veneroloğiyağî s. (med.) venerolog. 
+veneroloğiyalî s. (med.) veneric. 
+venerolok s. (med.) venerolog. 
+Venesiye s. (topon.) VeneŃia. 
+venesiyelí s., adj. veneŃian. 
+Venezúyel s. (topon.) Venzuela. 
+venezúyellí s., adj. venezuelan; venezuelian. 
+ventil s. (tehn.) ventil; valvă. 
+ventilator s. ventilator. 
+ventrilok s. ventriloc. 
+ventuza s. ventuză. 
+Venus s. (astr.) Venus. 
+veranda s. verandă. 
+veraset s. moştenire; succesiune. 
+verasetbîrakîlmagan adj. dezmoştenit. 
+verasetbîrakmama s. dezmoştenire. 
+verasetşí s. moştenitor; succesor; legatar. 
+verasettalimatî s. (jur.) legat. 
+verem s. (med.) tuberculoză; ftizie; oftică. 
+veremlí adj. (med.) tuberculos; ftizic; ofticos. 
+veresiye adv. 1. pe credit; pe veresie. 2. (fig.) în silă; fără plăcere. 
+vermut s. vermut. 
+vernik s. (chim.) lac. 
+verniyer s. (tehn.) vernier. 
+vesayet s. (jur.) tutelă; curatelă. 
+vesayit s. mijloace; căi. 
+vesayitiy adj. mijlocitor. 
+vesayit-í nakliye iz.prsn. mijloc de transport. 
+vesika s. document; act. // ●iyelík vesikasî — titlu de proprietate. ●túzetúw vesikasî — act normativ. 
+vesikalî s., adj. documentar; documentat; cu acte. 
+vesile s. 1. ocazie; prilej; oportunitate. 2. motiv; pretext; justificare. 
+vesileğí s. oportunist. 
+vesileğílík s. oportunism. 
+vesilelí adj. motivat; justificat. 
+vesiy adj. larg; întins; spaŃios; vast; nemărginit. 
+vesiyet s. lărgime; întins; spaŃiu; vastitate; nemărginre. 
+vesiylík s. lărgime; întins; spaŃiu; 
+vastitate; nemărginire. 
+vestiyar s. vestiar; garderobă. 
+vesvese s. bănuială; suspiciune. 
+vesveselí adj. bănuitor; suspicios. 
+veter s. 1. (şi mat.) coardă. 2. (anat.) tendon. 
+veterinar s. veterinar; medic veterinar. 
+vetire s. proces; fenomen. 
+veto s. (jur.) veto. 
+Veyis-Kóy s. (topon.) Bobovets (Dobrich, Bulgaria). 
+vezin s. 1. cântărire. 2. (lit.) măsură. 3. (muz.) măsură; timp; ritm; tact. 
+vezinlí adj. 1. cântărit. 2. (lit.) cu măsură. 3. (muz.) ritmat; ritmic. 
+vezir s. 1. (ist.) vizir. 2. (la şah) regină. 
+vezne s. 1. (fin.) casă; casierie; tezaur; vistierie. 2. cântar; balanŃă; cumpănă. 
+veznedar s. casier; trezorier; vistiernic. 
+vezneğí s. casier; trezorier; vistiernic. 
+viçeamiral s. viceamiral. 
+vida s. (tehn.) filet; şurub. 
+vidaaşîlgan adj. filetat. 
+vidaaşîlmasî s. deşurubare. 
+vidaaşuw s. filetare. 
+vidalama s. înşurubare. 
+vidalamak v.t. a înşuruba. 
+vidalangan adj. înşurubat. 
+vidalanmak v.i. a se înşuruba. 
+vidalî adj. cu filet; filetat. 
+vidasîaşîlgan adj. deşurubat. 
+vidalaw s. înşurubare. 
+viğdan s. conştiinŃă; cinste; onestitate; lealitate. // ●viğdan azabî tartmak — a-l mustra conştiinŃa; a avea remuşcări; a se căi. ●viğdanî sîzlamak — a-l mustra conştiinŃa; a avea remuşcări; a se căi. // ●viğdan azabî — mustrări de conştiinŃă. 
+viğdanlî adj. de bună-credinŃă; cinstit; onest; leal; scrupulos. 
+viğdansîz adj. de rea-credinŃă; necinstit; fără scrupule. 
+viğdansîzlîk s. lipsă de scrupule; neruşinare; nemernicie. 
+vikonte s. viconte. 
+vikontesa s. vicontesă. 
+vila s. vilă. 
+vilayet s. provincie; judeŃ. 
+vinç s. (tehn.) vinci; troliu; cabestan. 
+vint s. filet; şurub. 
+vintaşîlmasî s. deşurubare. 
+vintburgan s. şurubelniŃă. 
+vintíaşîlgan adj. deşurubat. 
+vintkesílgen adj. filetat. 
+vintkesúw s. filetare. 
+vintleme s. înşurubare. 
+vintlemek v.t. a înşuruba. 
+vintlengen adj. înşurubat. 
+vintlenmek v.i. a se înşuruba. 
+vintlí adj. cu filet; filetat. 
+viraj s. viraj; curbă. // ●viraj almak — a vira. 
+viran adj. dărâmat; dărăpănat; în ruine. 
+virane s. dărâmătură; dărăpănătură; ruină. 
+viranlîk s. dărâmătură; dărăpănătură; ruină. 
+Virjiniye s. (topon.) Virginia 
+Virjiniye-bódenesí s. (orn.) prepeliŃă cu coadă albă (lat., Colinius virginianus). 
+viroza s. (med.) viroză. 
+virtuoz adj. (d. muzicieni) virtuos. 
+virtuozlîk s. (la muzicieni) virtuozitate. 
+virus s. virus. 
+virusbílímğísí s. (med.) virolog; virusolog; inframicrobiolog. 
+virusbílímí I. adj. (med.) virologic; virusologic; inframicrobiologic. II. s. (med.) virologie; virusologie; inframicrobiologie. 
+virusbílímlí adj. (med.) virologic; virusologic; inframicrobiologic. 
+virusîtemízlengen adj. devirusat. 
+viruslama s. virusare. 
+viruslamak v.t. a virusa. 
+viruslangan adj. virusat. 
+viruslanmak v.i. a se virusa. 
+viruslî I. adj. cu virus; virusat. II. s. (med.) viral. 
+virusluk s. (med.) viroză. 
+virusoloğik adj. (med.) virologic; virusologic; inframicrobiologic. 
+virusoloğiya I. adj. (med.) virologic; virusologic; inframicrobiologic. II. s. (med.) virologie; virusologie; inframicrobiologie. 
+virusoloğiyağî s. (med.) virolog; virusolog; inframicrobiolog. 
+virusoloğiyalî adj. (med.) virologic; virusologic; inframicrobiologic. 
+virusolok s. (med.) virolog; virusolog; inframicrobiolog. 
+virussuz adj. fără virus; devirusat. 
+virussuzlaşmak v.i. a se devirusa. 
+virussuzlaştîrîlgan adj. devirusat. 
+virussuzlaştîrîlmak v.i. a se devirusa. 
+virussuzlaştîrma s. devirusare. 
+virussuzlaştîrmak v.t. a devirusa. 
+virustemízlemesí s. devirusare. 
+viruslaw s. virusare. 
+virussuzlaştîruw s. devirusare. 
+vişne s. 1. vişină. 2. (bot.) vişin (lat., Prunus cerasus). // ●vişne íşkísí — vişinată. 
+vişnerengí adj. vişiniu; ecarlat. 
+vitamina s. vitamină. 
+vitaminalaşkan adj. vitaminizat. 
+vitaminalaşma s. vitaminizare. 
+vitaminalaşmak v.i. a se vitaminiza. 
+vitaminalaştîrmak v.t. a vitaminiza. 
+vitaminalî adj. cu vitamine; vitaminizat. 
+vitaminasîz adj. fără vitamine; devitaminizat. 
+vitaminasîzlîk s. avitaminoză. 
+vitaminalaşuw s. vitaminizare. 
+viteza s. (auto.) viteză. 
+vitrina s. vitrină. 
+viyadukt s. viaduct. 
+Viyena s. (topon.) Viena. 
+viyenalî s., adj. vienez. 
+viyetnam s., adj. vietnamez. 
+Viyetnam s. (topon.) Vietnam. 
+viyetnamğa I. adv. în limba 
+vietnameză. II. s. (limba) vietnameză. 
+viyetnamlî s., adj. vietnamez. 
+viyola s. (muz.) violă.
 `;
 export default rawDictionaryText;
