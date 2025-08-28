@@ -335,8 +335,7 @@ viyolonçelğí s. violoncelist.
 viyolonçelist s. violoncelist. 
 viyolonist s. violonist. 
 viyra adv. fără încetare; fără întrerupere. 
-viza s. viză. // ●kîdîruwğî vizasî — viză turistică. ●kíríş vizasî — viză de intrare. ●şîgîş vizasî — viză de ieşire. ●tranzit vizasî — viză de tranzit. ● vizam bír ay úşún — viza  o am 
-pentru o lună. 
+viza s. viză. // ●kîdîruwğî vizasî — viză turistică. ●kíríş vizasî — viză de intrare. ●şîgîş vizasî — viză de ieşire. ●tranzit vizasî — viză de tranzit. ● vizam bír ay úşún — viza  o am pentru o lună. 
 vizalama s. vizare. 
 vizalamak v.t. a viza. 
 vizalangan adj. vizat. 
