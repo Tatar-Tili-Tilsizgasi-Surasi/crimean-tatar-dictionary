@@ -329,5 +329,71 @@ Viyetnam s. (topon.) Vietnam.
 viyetnamğa I. adv. în limba vietnameză. II. s. (limba) vietnameză. 
 viyetnamlî s., adj. vietnamez. 
 viyola s. (muz.) violă.
+viyolet adj. violaceu; vioriu; violet. 
+viyolonçel s. violoncel. 
+viyolonçelğí s. violoncelist. 
+viyolonçelist s. violoncelist. 
+viyolonist s. violonist. 
+viyra adv. fără încetare; fără întrerupere. 
+viza s. viză. // ●kîdîruwğî vizasî — viză turistică. ●kíríş vizasî — viză de intrare. ●şîgîş vizasî — viză de ieşire. ●tranzit vizasî — viză de tranzit. ● vizam bír ay úşún — viza  o am 
+pentru o lună. 
+vizalama s. vizare. 
+vizalamak v.t. a viza. 
+vizalangan adj. vizat. 
+vizalanmak v.i. a se viza. 
+vizalî adj. vizat; cu viză. 
+vizalaw s. vizare. 
+vizon s. (zool.) nurcă; vizon (lat., Mustela vison). 
+vîjîldama s. vâjâit; vuiet; zumzet; Ńiuit. 
+vîjîldamak v.i. a vâjâi; a vui; a zumzăi; a Ńiui. 
+vîjîldaw s. vâjâit; vuiet; zumzet; Ńiuit. 
+vîjîltî s. vâjâit; vuiet; zumzet; Ńiuit. 
+vodevil s. vodevil. 
+vokal adj. (muz.) vocal. 
+volan s. (tehn.) volant. 
+voley s. (sport) volei. // ●voley oynamak — a juca volei. // ●voley meçí — (sport) meci de volei. 
+voleybal s. (sport) volei. 
+voleybalğî s. voleibalist. 
+voleyğí s. voleibalist. 
+volt s. (fiz.) volt. // ●volt kuwatî — voltaj. 
+voltaj s. (fiz.) voltaj. 
+voltlîk adj. voltaic. 
+voltmetre s. (fiz.) voltmetru. 
+votka s. votcă. 
+voyivot s. (ist.) voievod. 
+voyivotlîk s. (ist.) voievodat. 
+vuğut I. adj. corporal; trupesc. II. s. 1. existenŃă; viaŃă. 2. (anat.) corp; trunchi; trup; bust; tors. // ●vuğut tapmak — a se construi; a lua fiinŃă. ●vuğutka akelmek — a realiza; a materializa; a elabora. ●vuğutka kelmek — a se realiza; a se materializa. ●vuğuttan túşmek — a se pipernici; a slăbi. 
+vuğutbílímğísí s. fiziolog. 
+vuğutbílímí s. fiziologie. 
+vuğutbílímlí adj. fiziologic. 
+vuğutkaakelúw s. înfăptuire; realizare; elaborare; materializare; edificare. 
+vuğutkakelgen adj. înfăptuit; realizat; elaborat; materializat. 
+vuğutluk adj. corporal; trupesc. 
+vuğuttantúşken adj. pipernicit. 
+vuğuttantúşúw s. pipernicire. 
+vuğuttapkan adj. înfăptuit; realizat; elaborat; materializat; edificat. 
+vuğuttedaviyí s. (med.) fizioterapie. 
+vukuw s. întâmplare; fapt întâmplat; hazard; producere; eveniment; incident. // ●vukuw tapmak — a se întâmpla; a avea loc. ●vukuwga kelmek — a se întâmpla; a surveni. 
+vukuwat s. întâmplare; fapt întâmplat; hazard; producere; eveniment; incident. 
+vukuwatlî adj. întâmplător. 
+vukuwlî adj. întâmplător. 
+vulkan s. (geol.) vulcan. 
+vulkanbílímğísí s. vulcanolog. 
+vulkanbílímí s. vulcanologie. 
+vulkanik adj. vulcanic. 
+vulkanlaşkan adj. vulcanizat. 
+vulkanlaşmak v.i. a se vulcaniza. 
+vulkanlaştîrma s. vulcanizare. 
+vulkanlaştîrmak v.t. a vulcaniza. 
+vulkanlî adj. vulcanic; vulcanizat. 
+vulkanoloğiya s. vulcanologie. 
+vulkanoloğiyağî s. vulcanolog. 
+vulkanolok s. vulcanolog. 
+vusul s. sosire; venire; ajungere. //●vusul tapmak — a sosi; a veni; a ajunge. 
+vusullî adj. sosit; venit; ajuns. 
+vuzuh s. claritate; limpezime (şi fig.). 
+vúsat s. 1. lărgime; întindere. 2. extensiune; extindere; amplificare. 
+vúsatlî adj. 1. extins; amplificat. 2. cu lărgime; cu întindere. 
+vulkanlaştîruw s. vulcanizare.
 `;
 export default rawDictionaryText;
