@@ -88,7 +88,8 @@ const parseDictionaryEntries = (text: string): DictionaryEntry[] => {
     const examples = exampleParts.flatMap(p => p.split('●')).map(p => p.trim()).filter(Boolean);
 
     const meanings: WordMeaning[] = [];
-    const meaningChunks = meaningsPart.trim().split(/\s+(?=([IVX]+\.|[A-Z]\.)\s)/).map(s => s.trim()).filter(Boolean);
+    // Changed the capturing group to a non-capturing group (?:...) to prevent inconsistent `split` behavior.
+    const meaningChunks = meaningsPart.trim().split(/\s+(?=(?:[IVX]+\.|[A-Z]\.)\s)/).map(s => s.trim()).filter(Boolean);
     
     if (meaningChunks.length > 0) {
         meaningChunks.forEach(chunk => meanings.push(parseMeaningChunk(chunk)));
