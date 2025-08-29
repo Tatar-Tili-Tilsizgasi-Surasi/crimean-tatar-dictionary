@@ -1,14 +1,50 @@
 import { GoogleGenAI } from "@google/genai";
 import { systemInstruction, translationExamples } from '../promptData';
+import { searchDictionary } from "./dictionaryService";
+import { DictionaryEntry } from "../types";
 
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
-const formatPrompt = (text: string, sourceLang: string, targetLang: string): string => {
+const formatPrompt = async (text: string, sourceLang: string, targetLang: string): Promise<string> => {
     let prompt = `Here are some examples:\n`;
     
     translationExamples.forEach(example => {
         prompt += `Input: ${example.input}\nOutput: ${example.output}\n`;
     });
+
+    // Search for relevant dictionary entries to provide context
+    try {
+        const uniqueWords = [...new Set(text.toLowerCase().replace(/[.,!?]/g, '').split(/\s+/).filter(w => w.length >= 3))];
+        const relevantEntries: DictionaryEntry[] = [];
+        const seenWords = new Set<string>();
+
+        // Limit how many words we search to avoid performance issues on long texts
+        const wordsToSearch = uniqueWords.slice(0, 15);
+
+        for (const word of wordsToSearch) {
+            const results = await searchDictionary(word);
+            // Take top 1-2 results for each word to keep context focused
+            results.slice(0, 2).forEach(entry => {
+                if (!seenWords.has(entry.word)) {
+                    relevantEntries.push(entry);
+                    seenWords.add(entry.word);
+                }
+            });
+        }
+
+        if (relevantEntries.length > 0) {
+            prompt += "\n\nFor context, here are some relevant dictionary entries from 'Sózlík'. Use these specific terms and definitions where appropriate to ensure accuracy and consistency with the dictionary's vocabulary:\n";
+            
+            // Limit the total number of entries to avoid a huge prompt
+            relevantEntries.slice(0, 10).forEach(entry => {
+                const definitions = entry.meanings.map(m => m.definitions.join('; ')).join(' | ');
+                prompt += `- ${entry.word}: ${definitions}\n`;
+            });
+        }
+    } catch (e) {
+        console.error("Error fetching dictionary context for translation prompt:", e);
+        // If dictionary search fails, proceed without the extra context.
+    }
 
     const sourceLangName = sourceLang === 'ct' ? "Kîrîm tatarşa" : "Romanian";
     
@@ -27,7 +63,7 @@ export const translateText = async (
   }
 
   const model = 'gemini-2.5-flash';
-  const prompt = formatPrompt(text, sourceLang, targetLang);
+  const prompt = await formatPrompt(text, sourceLang, targetLang);
 
   try {
     const response = await ai.models.generateContent({
