@@ -1,5 +1,5 @@
 import { GoogleGenAI } from "@google/genai";
-import { systemInstruction } from '../promptData';
+import { searchDictionary } from '../promptData';
 import { searchDictionary } from "./dictionaryService";
 import { DictionaryEntry } from "../types";
 
