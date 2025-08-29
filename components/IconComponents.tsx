@@ -73,23 +73,3 @@ export const BackspaceIcon = ({ className }: { className?: string }): React.Reac
         <path d="M14 10l-4 4m0 -4l4 4" />
     </svg>
 );
-
-export const HamburgerIcon = ({ className }: { className?: string }): React.ReactNode => (
-  <svg xmlns="http://www.w3.org/2000/svg" className={className || "h-6 w-6"} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-    <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
-  </svg>
-);
-
-export const TranslateIcon = ({ className }: { className?: string }): React.ReactNode => (
-    <svg xmlns="http://www.w3.org/2000/svg" className={className || "h-6 w-6"} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-        <path strokeLinecap="round" strokeLinejoin="round" d="M3 5h12M9 3v2m4 13-4-4-4 4M19 17v-2a4 4 0 00-4-4H9" />
-        <path strokeLinecap="round" strokeLinejoin="round" d="M15 7h6" />
-        <path strokeLinecap="round" strokeLinejoin="round" d="M21 7v2" />
-    </svg>
-);
-
-export const SwapIcon = ({ className }: { className?: string }): React.ReactNode => (
-    <svg xmlns="http://www.w3.org/2000/svg" className={className || "h-6 w-6"} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-        <path strokeLinecap="round" strokeLinejoin="round" d="M7 16V4m0 12l-4-4m4 4l4-4m6 0v12m0-12l4 4m-4-4l-4 4" />
-    </svg>
-);
