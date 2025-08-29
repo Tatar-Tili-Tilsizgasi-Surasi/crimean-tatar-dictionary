@@ -1,16 +1,13 @@
 import { GoogleGenAI } from "@google/genai";
-import { systemInstruction, translationExamples } from '../promptData';
+import { systemInstruction } from '../promptData';
 import { searchDictionary } from "./dictionaryService";
 import { DictionaryEntry } from "../types";
 
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 const formatPrompt = async (text: string, sourceLang: string, targetLang: string): Promise<string> => {
-    let prompt = `Here are some examples:\n`;
-    
-    translationExamples.forEach(example => {
-        prompt += `Input: ${example.input}\nOutput: ${example.output}\n`;
-    });
+    // The examples are already in the system instruction.
+    let prompt = "";
 
     // Search for relevant dictionary entries to provide context
     try {
@@ -33,7 +30,7 @@ const formatPrompt = async (text: string, sourceLang: string, targetLang: string
         }
 
         if (relevantEntries.length > 0) {
-            prompt += "\n\nFor context, here are some relevant dictionary entries from 'Sózlík'. Use these specific terms and definitions where appropriate to ensure accuracy and consistency with the dictionary's vocabulary:\n";
+            prompt += "For context, here are some relevant dictionary entries from 'Sózlík'. Use these specific terms and definitions where appropriate to ensure accuracy and consistency with the dictionary's vocabulary:\n";
             
             // Limit the total number of entries to avoid a huge prompt
             relevantEntries.slice(0, 10).forEach(entry => {
@@ -91,6 +88,9 @@ export const translateText = async (
     return translated;
   } catch (error) {
     console.error("Error during translation:", error);
-    return "An error occurred while translating. Please try again.";
+    if (error instanceof Error && error.message.includes('API key')) {
+        throw new Error("Translation service is not configured correctly.");
+    }
+    throw new Error("An error occurred while translating. Please try again.");
   }
 };
