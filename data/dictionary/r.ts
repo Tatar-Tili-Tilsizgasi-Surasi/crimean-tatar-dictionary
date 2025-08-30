@@ -27,7 +27,7 @@ rabîtalandîrmak v.t. a lega; a conecta.
 rabîtalandîruw s. legare; conectare. 
 rabîtalangan adj. legat; conectat. 
 rabîtalanmak v.i. a se lega; a se conecta. 
-rabîtal î adj. 1. legat; strâns; conectat. 2. coerent. 
+rabîtalî adj. 1. legat; strâns; conectat. 2. coerent. 
 rabîtasîz adj. incoerent. 
 rabîtasîzlîk s. incoerenŃă. 
 rabîtlî adj. 1. (gram.) cu conjuncŃie. 2. unit; legat; împreunat. 
