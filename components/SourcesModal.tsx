@@ -17,7 +17,7 @@ const sourcesData = [
         details: "Taner Murat, Anticus Press, Constanța, 2018, ISBN 978-606-94509-4-9"
     },
     {
-        title: "Phonetic, Phonology and Morphology",
+        title: "Curs general de limba tătară, fonetică şi fonologie, morfologie",
         details: "Enver Mahmut, University of Bucharest, Faculty of Foreign Languages and Literatures, Bucharest, 1975"
     },
     {
