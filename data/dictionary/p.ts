@@ -52,8 +52,7 @@ palamut-bagamburşî s. (bot.) vâsc-de-stejar; mărgăritar (lat., Loranthus Eu
 palamut-gúwelegí s. (bot.) vâsc-de-stejar; mărgăritar (lat., Loranthus Europaeus). 
 palamutluk s. stejăriş. 
 palan s. sac de povară; samar. 
-pala-pîrt s. lucruri; bagaje; catrafuse; 
-boarfe; calabalâc. 
+pala-pîrt s. lucruri; bagaje; catrafuse; boarfe; calabalâc. 
 palariya s. pălărie. 
 palariyağî s. pălărier. 
 palaşkan s. ghicitor; prezicător. 
