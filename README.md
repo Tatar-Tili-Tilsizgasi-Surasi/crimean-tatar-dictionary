@@ -2,7 +2,7 @@
 Dictionary of Crimean Tatar language spoken in Romania (also known as Dobrujan Tatar): **Crimean Tatar (Romania)**
 
 ## Information
-The dictionary is between Crimean Tatar — Romanian. For more information about the sources visit the site below and click "View Sources".  For more information about the language see: https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-romania/tree/main
+The dictionary is between Crimean Tatar — Romanian. For more information about the sources visit the site below and click "View Sources", or see `components/SourcesModal.tsx`.  For more information about the language see: https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-romania/tree/main
 
 ## Contributing
 
