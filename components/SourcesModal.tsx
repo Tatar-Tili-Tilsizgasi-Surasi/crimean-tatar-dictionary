@@ -18,11 +18,11 @@ const sourcesData = [
     },
     {
         title: "Phonetic, Phonology and Morphology",
-        details: "Enver Mahmut, University of Bucharest, 1975"
+        details: "Enver Mahmut, University of Bucharest, Faculty of Foreign Languages and Literatures, Bucharest, 1975"
     },
     {
         title: "Curs practic de limbă tătară",
-        details: "Vuap-Mocanu, Şukran (1985). Curs practic de limbă tătară (in Romanian). Bucharest: University of Bucharest, Faculty of Foreign Languages and Literatures."
+        details: "Şukran Vuap-Mocanu, University of Bucharest, Faculty of Foreign Languages and Literatures, Bucharest, 1985"
     }
 ];
 
