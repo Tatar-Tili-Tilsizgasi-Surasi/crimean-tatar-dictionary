@@ -13,7 +13,7 @@ The entries are added in `data/dictionary`, the files are in Crimean Tatar alpha
 ## About using the dictionary data
 It's a pleasure to allow everyone to use this dictionary and it's data, the main interest is to integrate the Crimean Tatar spoken in Romania to the internet.
 
-**Note: To integrate this languages to the internet, the recommendation is to use the term "Crimean Tatar (Romania)" [crh-ro].**
+**Note**: To integrate this languages to the internet, the recommendation is to use the term "Crimean Tatar (Romania)" [crh-RO].
 
 ## Website
 Link: https://sozlik.netlify.app/
