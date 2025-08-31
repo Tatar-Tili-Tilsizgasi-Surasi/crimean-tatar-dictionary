@@ -234,5 +234,136 @@ rastlaşkan adj. 1. nimerit; care coincide. 2. întâlnit; găsit.
 rastlaşma s. coincidenŃă; întâlnire; joncŃiune. 
 rastlaşmak v.i. 1. a se întâlni; a se găsi. 2. a se nimeri; a coincide. //●kópten berítlí rastlaşmadîk — nu ne-am întâlnit de mult. 
 rastlayturma s. întâlnire repetitivă; reîntâlnire.
+rastlayturmak v.i. a întâlni repetitiv; a reîntâlni. 
+raspalaw s. răzuire; raclare. 
+rastlaşuw s. coincidenŃă; întâlnire; joncŃiune. 
+rastlaw s. nimerire; nimereală; coincidenŃă. 
+Rawuf/Rewúf s. (antrop. m., arab.) "Cel atotmilostiv". 
+ray s. şină; traversă. 
+Rayide s. (antrop. f., arab.) “Cârmuitoarea”. 
+Rayif s. (antrop. m., arab.) “Cel blând”. 
+Rayife s. (antrop. f., arab.) “Cea blândă”. 
+rayihe s. parfum; aromă; mireasmă. 
+rayiheleme s. parfumare; aromatizare; înmiresmare. 
+rayihelemek v.t. a parfuma; a aromatiza; a înmiresma. 
+rayihelengen adj. parfumat; aromatizat; înmiresmat. 
+rayihelenmek v.i. a se parfuma; a se aromatiza; a se înmiresma. 
+rayihelí adj. parfumat; aromat; înmiresmat. 
+Rayit s. (antrop. m., arab.) “Cârmuitorul”. 
+rayon s. raion. 
+Raziy s. (antrop. m., arab.) "Cel tolerant" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+raziyane s. (bot.) fenicul; molură (lat., Foeniculum vulgare). 
+Raziye s. (antrop. f., arab.) “Cea tolerantă”. 
+razî adj. acceptat; consimŃit. // ●razî bolmak — a fi de acord; a accepta; a consimŃi. ●razî etmek — a-i lua acordul; a-l convinge. //●koşîllarîñîzga razîman — sunt de acord cu condiŃiile dumneavoastră. ●men razîman — eu sunt de acord. ●ózínden razî — automulŃumit. ●razî tuwulman — nu sunt de acord. 
+razîbolmama s. respingere; refuz; declinare; contestaŃie; neacceptare; negare; negaŃie. 
+razîboluw s. înŃelegere; acord; lămurire. 
+razîetken adj. mulŃumitor. 
+razîlaşkan adj. împăcat; pacificat; reconciliat; acceptat; consimŃit; concordant. 
+razîlaşma s. 1. pace; reconciliere; compromis. 2. împăcare; înŃelegere; punere de acord; consimŃire. 
+razîlaşmagan adj. neîmpăcat. 
+razîlaşmak v.i. a se împăca; a se înŃelege; a cădea de acord; a consimŃi. 
+razîlaşmalî adj. contractual; convenŃional. 
+razîlaşmama s. antagonism; dezacord; discordanŃă; discordie; discrepanŃă; neînŃelegere; zâzanie. 
+razîlaşmamak v.i. a tăgădui; a fi în dezacord. 
+razîlaşmaz adj. antagonic; discordant; discrepant; ireconciliabil; de neîmpăcat. 
+razîlaştîrma s. împăcare; reconciliere; pacificare. 
+razîlaştîrmak v.t. a împăca; a reconcilia; a pacifica. 
+razîlaştîruw s. negociere; împăciuire; pacificare. 
+razîlaştîruwğî s. negociator; împăciuitorist; pacifist. 
+razîlaştîruwğuluk s. împăciuitorism. 
+razîlaşuw s. 1. pace; reconciliere; compromis. 2. împăcare; înŃelegere; punere de acord; consimŃire. 
+razîlîk s. 1. acord; accept. 2. armonie; înŃelegere; concordanŃă; potrivire. //●ózínden razîlîk — automulŃumire. 
+razîlîkalgan adj. acceptat; aprobat; încuviinŃat; îngăduit; agreat. 
+razîlîktapkan adj. acceptat; aprobat; încuviinŃat; îngăduit; agreat. 
+razîlîktapmagan adj. respins; refuzat; declinat; contestat; dezaprobat; neacceptat; neconsimŃit; negat. 
+razîman interj. consimt!; 
+razîsîz adj. neacceptat; neconsimŃit; dezaprobat; negat. 
+Razo-boztorgayî s. (orn.) ciocârlie de 
+Razo (lat., Alauda razae). 
+Razzak, El- s. (relig., arab.) "Atoatedătătorul"; “Cel care crează hrana şi toate cele trebuincioase traiului vieŃuitoarelor” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+re s. (muz.) re. 
+reaksiya s. reacŃie (şi fig.). 
+reaktif s. reactiv. 
+reaktor s. reactor. 
+real adj. real. 
+realism s. realism. 
+realist s., adj. realist. 
+reallîk s. realitate. 
+Rebiyúlahir s. (cron.) a 4-a lună a anului conform calendarului musulman. 
+Rebiyúlewwel s. (cron.) a 3-a lună a anului conform calendarului musulman. 
+rebus s. rebus. 
+rebut s. rebut. 
+reçel s. dulceaŃă; gem. 
+reçeptor s. (fiz.) receptor. 
+reçital s. recital. // ●solistníñ reçitalî — recitalul solistului. 
+redaksiya s. redacŃie. 
+redayet s. josnicie; mârşăvie. 
+redingota s. redingotă. 
+Reduwan/Ridvan s. (antrop. m., arab.) “ConsimŃământ”. 
+refah s. 1. belşug; bogăŃie; abundenŃă; opulenŃă. 2. prosperitate. // ●refah íşínde bolmak — a se propăşi. //●ulviy refah — binele suprem. 
+refahlî adj. 1. belşug; bogăŃie; abundenŃă; opulenŃă. 2. prosper. 
+refakat s. 1. însoŃire; acompaniere; companie. 2. (muz.) acompaniament. // ●refakat bolmak — a se însoŃi; a se acompania. ●refakat etmek — a însoŃi; a acompania. 
+refakatlî adj. 1. (muz.) acompaniat. 2. însoŃit; acompaniat; întovărăşit. 
+refakatşî s. acompaniator; însoŃitor; tovărăş. 
+Refat/Rifat s. (antrop. m., arab.) "Cel înalt în grad”. 
+referat s. referat. 
+referendum s. referendum. 
+refik s. prieten; tovarăş; coleg. 
+Refik s. (antrop. m., arab.) "Prietenul sincer". 
+refika s. soŃie; nevastă. 
+Refika s. (antrop. f., arab.) "Prietena sinceră". 
+refikşe adv. prieteneşte; tovarăşeşte; colegial. 
+refikşúnas adj. prietenos. 
+refiktiy adv. prieteneşte; tovarăşeşte; colegial. 
+Refiy s. (antrop. m., arab.) "Cer care înalŃă" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Refiy, El- s. (relig., arab.) "ÎnălŃătorul"; “Cel care ridică în rang”; “Cel care înalŃă spiritual” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+Refiye s. (antrop. f., arab.) “Cea sublimă”. 
+refleks s. (biol.) reflex. 
+reflektor s. (fiz.) reflector. 
+reforma s. reformă. 
+reformağî s. reformator. 
+regresif adj. regresiv. 
+regulator s. (tehn.) dispozitiv de reglare; regulator. 
+Reğej s. (cron.) al 2-lea trimestru al anului conform calendarului musulman. 
+reğent s. (pol.) regent. 
+reğentlík s. (pol.) regenŃă. 
+Reğep s. (cron.) a 7-a lună a anului conform calendarului musulman. //●Reğep el-múreğğep — (cron.) Regep cel venerat. 
+reğim s. 1. (pol.) regim. 2. (med.) regim alimentar; dietă. 
+reğizor s. regizor. 
+reğizorlîk s. regie. // ●reğizorlîk yapmak — a regiza. 
+rehavet s. moleşeală; moliciune; slăbiciune. 
+rehber s. ghid; călăuză. //●telefon/uzakses rehberí — carte de telefon. ●turistik rehber — ghid turistic. 
+rehberlík s. îndrumare; îndreptar. 
+rehin s. gaj; zălog; ipotecă; sechestru. // ●rehin almak — a sechestra. 
+rehine s. ostatic. // ●rehine salmak — a lăsa în gaj. 
+rehinlík s. 1. sechestrare. 2. preŃul răscumpărării. 
+rekabet s. concurenŃă; rivalitate. 
+rekabetşí s. concurent; rival. 
+reklama s. reclamă; publicitate. 
+rekort s. record. // ●rekort ğîkmak — a doborî un record. 
+rekortman s. recordman. 
+rekortşî s. recordman. 
+rektor s. (univ.) rector. //●darúlfúnun rektorî — rectorul universităŃii. ●rektor yardîmğîsî — (univ.) prorector. 
+rektorlîk s. (univ.) rectorat. 
+relativism s. relativism. 
+reliyef s. relief. 
+remiz s. semn; simbol; marcă; emblemă. 
+remorka s. remorcă. // ●remorkalî kamiyon — camion cu remorcă. 
+remorker s. remorcher. 
+remziy adj. însemnat; simbolic; marcat; emblematic. 
+Remziy s. (antrop. m., arab.) “Cel emblematic”. 
+Remziye s. (antrop. f., arab.) “Cea emblematică”. 
+ren s. (zool.) ren (lat., Rangifer tarandus). 
+rende s. 1. (tehn.) rindea. 2. răzuitoare; răzătoare. // ●aşkana rendesí — răzătoare de bucătărie. 
+rendeğí s. tâmplar. 
+rendeleme s. rindeluire; răzuire. 
+rendelemek v.t. a rindelui; a răzui. 
+rendelengen adj. rindeluit; răzuit. 
+rendelenmek v.i. a se rindelui; a se răzui. 
+rendelí adj. rindeluit; răzuit. 
+rengárenk adj. multicolor. 
+rengíatkan adj. decolorat; spălăcit; şters. 
+rengínde adv. de culoarea. 
+rengíşîkkan adj. decolorat; spălăcit; şters.
 `;
 export default rawDictionaryText;
